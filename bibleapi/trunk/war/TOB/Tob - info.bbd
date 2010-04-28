@@ -1,0 +1,20 @@
+[Description]
+Nom=Traduction Oecuménique
+Abr=T.O.B.
+Fic=Tob - *.doc
+Sty=[Titre 1]1[Titre 2]1[Titre 3]27[TitrePrinc]1{Normal}1
+Vers=1
+Ar=257
+ArF=Tob - *.txt
+Idx=257
+IdxF=Tob - idx.bbi
+[Chapitres]
+Frm=[#]
+Spc=105
+Sty=NumChap
+Num=0
+[Versets]
+Frm=^e# 
+Spc=90
+Sty=NumVers
+Num=0

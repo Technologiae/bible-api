@@ -1,0 +1,20 @@
+[Description]
+Nom=Bible de Jérusalem
+Abr=B.J.
+Fic=BJ - *.doc
+Sty=[Note]19[Texte Grec]19[Titre 1]1[Titre 2]1[Titre 3]1[TitrePrinc]1{Normal}1
+Vers=1
+Ar=257
+ArF=BJ - *.txt
+Idx=257
+IdxF=BJ - idx.bbi
+[Chapitres]
+Frm=[#]
+Spc=105
+Sty=Chapitre
+Num=0
+[Versets]
+Frm=^e# 
+Spc=90
+Sty=Verset
+Num=0
