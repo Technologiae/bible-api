@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- The HTML 4.01 Transitional DOCTYPE declaration-->
+<!-- above set at the top of the file will set     -->
+<!-- the browser's rendering engine into           -->
+<!-- "Quirks Mode". Replacing this declaration     -->
+<!-- with a "Standards Mode" doctype is supported, -->
+<!-- but may lead to some differences in layout.   -->
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>BibleAPI la bible accèssible facilement</title>
+  </head>
+
+  <body>
+    <h1>BibleAPI</h1>
+	
+    <p>BibleAPI est un service gratuit permet d'accèder facilement à la bible, juste en passant la référence dans l'url, le texte de la bible est affiché</p>
+    
+    <form action="/add" method="get">
+    	Référence (VersionDelaBible:NomLivre,NumeroChapitre,NumeroVerset ie TOB:Mc,4,39)<br />
+    	<input type="text" name="reference" /><br />
+    	Verset<br />
+    	<textarea name="verset"></textarea><br />
+    	<input type="submit" value="Ajouter le verset"/>
+    </form>
+  </body>
+</html>
