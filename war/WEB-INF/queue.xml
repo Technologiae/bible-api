@@ -1,0 +1,10 @@
+<queue-entries>
+  <queue>
+    <name>default</name>
+    <rate>5/s</rate>
+  </queue>
+  <queue>
+    <name>import-queue</name>
+    <rate>5/s</rate>
+  </queue>
+</queue-entries>

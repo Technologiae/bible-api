@@ -15,6 +15,10 @@
   <body>
     <h1>BibleAPI</h1>
 	
+    <form action="/s" method="get">
+    	<input type="text" name="q" />
+    	<input type="submit" value="Rechercher"/>
+    </form>
     <p>BibleAPI est un service gratuit permet d'accèder facilement à la bible, juste en passant la référence dans l'url, le texte de la bible est affiché</p>
     
     <form action="/add" method="get">
@@ -24,5 +28,6 @@
     	<textarea name="verset"></textarea><br />
     	<input type="submit" value="Ajouter le verset"/>
     </form>
+    
   </body>
 </html>

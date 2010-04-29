@@ -20,9 +20,33 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 		<servlet-name>BibleeapiAdd</servlet-name>
 		<servlet-class>bibleapi.BibleeapiAddServlet</servlet-class>
 	</servlet>
+	<servlet>
+		<servlet-name>BibleeapiSearch</servlet-name>
+		<servlet-class>bibleapi.BibleeapiSearchServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>BibleeapiImport</servlet-name>
+		<servlet-class>bibleapi.importbible.BibleeapiImportServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>BibleeapiImportBible</servlet-name>
+		<servlet-class>bibleapi.importbible.BibleeapiImportBibleServlet</servlet-class>
+	</servlet>
 	<servlet-mapping>
 		<servlet-name>BibleeapiAdd</servlet-name>
 		<url-pattern>/add</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>BibleeapiSearch</servlet-name>
+		<url-pattern>/s</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>BibleeapiImport</servlet-name>
+		<url-pattern>/import</url-pattern>
+	</servlet-mapping>
+		<servlet-mapping>
+		<servlet-name>BibleeapiImportBible</servlet-name>
+		<url-pattern>/importBible</url-pattern>
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>Bibleeapi</servlet-name>
