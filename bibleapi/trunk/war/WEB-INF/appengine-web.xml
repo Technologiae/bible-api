@@ -3,6 +3,19 @@
 	<application>bibleapi</application>
 	<version>1</version>
 	
+			
+	<resource-files>
+        <include path="/bible/**.txt" />
+    </resource-files>
+    
+    <static-files>
+    	<include path="/favicon.ico" />
+        <include path="/**.png" />
+        <include path="/**.css" />
+        <include path="/**.html" />
+        <exclude path="/bible/**.txt" />
+    </static-files>
+	
 	<!-- Configure java.util.logging -->
 	<system-properties>
 		<property name="java.util.logging.config.file" value="WEB-INF/logging.properties"/>
