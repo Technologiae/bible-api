@@ -1,0 +1,1289 @@
+1,1	Dans le désert du Sinaï, le Seigneur parla à Moïse dans la tente de la rencontre ; c'était le premier jour du deuxième mois, la deuxième année après leur sortie du pays d'Égypte. Il dit :
+1,2	« Dressez l'état de toute la communauté des fils d'Israël par clans et par familles, en relevant les noms de tous les hommes, un par un.
+1,3	Les hommes de vingt ans et plus, tous ceux qui servent dans l'armée d'Israël, recensez-les par armées, toi et Aaron.
+1,4	Qu'il y ait avec vous un homme de chaque tribu, un homme qui soit chef de famille.
+1,5	Voici les noms des hommes qui vous assisteront : pour Ruben, Eliçour fils de Shedéour ;
+1,6	pour Siméon, Sheloumiël fils de Courishaddaï ;
+1,7	pour Juda, Nahshôn fils de Amminadav ;
+1,8	pour Issakar, Netanel fils de Çouar ;
+1,9	pour Zabulon, Eliav fils de Hélôn ;
+1,10	quant aux fils de Joseph : pour Éphraïm, Elishama fils de Ammihoud-pour Manassé, Gameliël fils de Pedahçour- ;
+1,11	pour Benjamin, Avidân fils de Guidéoni ;
+1,12	pour Dan, Ahiézer fils de Ammishaddaï ;
+1,13	pour Asher, Paguiël fils de Okrân ;
+1,14	pour Gad, Elyasaf fils de Déouël ;
+1,15	pour Nephtali, Ahira fils de Einân.. »
+1,16	C'étaient là les délégués de la communauté, les responsables de leurs tribus paternelles respectives : ils étaient les chefs des milliers d'Israël.
+1,17	Moïse et Aaron prirent comme adjoints ces hommes qui avaient été désignés.
+1,18	Ils rassemblèrent toute la communauté, le premier jour du deuxième mois, et les fils d'Israël établirent leurs généalogies par clans et par familles en relevant les noms des hommes de vingt ans et plus, un par un.
+1,19	Comme le Seigneur le lui avait ordonné, Moïse les recensa dans le désert du Sinaï.
+1,20	Ce qui donna pour les fils de Ruben, premier-né d'Israël : en relevant un par un les noms de tous les hommes de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,21	donnaient pour la tribu de Ruben un effectif de quarante-six mille cinq cents.
+1,22	Pour les fils de Siméon : en relevant un par un les noms des hommes recensés, de tous les hommes de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,23	donnaient pour la tribu de Siméon un effectif de cinquante-neuf mille trois cents.
+1,24	Pour les fils de Gad : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,25	donnaient pour la tribu de Gad un effectif de quarante-six mille .
+1,26	Pour les fils de Juda : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,27	donnaient pour la tribu de Juda un effectif de soixante-quinze mille .
+1,28	Pour les fils d'Issakar : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,29	donnaient pour la tribu d'Issakar un effectif de cinquante-quatre mille quatre cents.
+1,30	Pour les fils de Zabulon : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,31	donnaient pour la tribu de Zabulon un effectif de cinquante-sept mille quatre cents.
+1,32	Quant aux fils de Joseph : pour les fils d'Éphraïm : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,33	donnaient pour la tribu d'Éphraïm un effectif de quarante mille cinq cents.
+1,34	Pour les fils de Manassé : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,35	donnaient pour la tribu de Manassé un effectif de trente-deux mille deux cents.
+1,36	Pour les fils de Benjamin : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,37	donnaient pour la tribu de Benjamin un effectif de trente-cinq mille quatre cents.
+1,38	Pour les fils de Dan : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,39	donnaient pour la tribu de Dan un effectif de soixante-trois mille .
+1,40	Pour les fils d'Asher : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,41	donnaient pour la tribu d'Asher un effectif de quarante-deux mille .
+1,42	Pour les fils de Nephtali : en relevant les noms de tous ceux de vingt ans et plus qui servaient dans l'armée, leurs listes généalogiques par clans et par familles
+1,43	donnaient pour la tribu de Nephtali un effectif de cinquante-trois mille quatre cents.
+1,44	Voici donc les effectifs que recensèrent Moïse, Aaron et les douze responsables d'Israël-ils étaient un homme par tribu.
+1,45	Tous les fils d'Israël recensés par familles, ceux de vingt ans et plus qui servaient dans l'armée d'Israël,
+1,46	donnaient un effectif total de six cent quatre mille .
+1,47	Les lévites, en tant que tribu patriarcale, ne participèrent pas au recensement.
+1,48	Le Seigneur parla à Moïse :
+1,49	« Il n'y a que la tribu de Lévi dont tu ne feras pas le recensement et dont tu ne dresseras pas l'état parmi les fils d'Israël.
+1,50	Tu chargeras les lévites de la demeure de la charte, de tous ses accessoires et de tout son matériel. Ils la porteront avec tous ses accessoires, ils en assureront le service et ils camperont tout autour.
+1,51	Quand la demeure partira, les lévites la démonteront ; quand la demeure s'arrêtera, les lévites la monteront. Le profane qui s'approcherait sera mis à mort.
+1,52	Les fils d'Israël camperont chacun dans son camp, chacun dans son groupe d'armée.
+1,53	Quant aux lévites, ils camperont autour de la demeure de la charte, ce qui évitera un déchaînement de colère contre la communauté des fils d'Israël. Les lévites assureront le service de la demeure de la charte.. »
+1,54	C'est ce que firent les fils d'Israël ; ils firent exactement ce que le Seigneur avait ordonné à Moïse.
+2,1	Le Seigneur parla à Moïse et Aaron :
+2,2	« Les fils d'Israël camperont chacun dans son groupe d'armées, sous les enseignes de sa tribu ; ils camperont autour de la tente de la rencontre, à une certaine distance.
+2,3	En avant, à l'est, camperont les armées qui forment le groupe du camp de Juda. Le chef des fils de Juda étant Nahshôn, fils de Amminadav ;
+2,4	son armée ayant un effectif de soixante-quinze mille hommes.
+2,5	Camperont avec lui : la tribu d'Issakar (7) et la tribu de Zabulon. (5) Le chef des fils d'Issakar étant Netanel, fils de Çouar ;
+2,6	son armée ayant un effectif de cinquante-quatre mille quatre cents hommes.
+2,7	Et le chef des fils de Zabulon, Eliav, fils de Hélôn ;
+2,8	son armée ayant un effectif de cinquante-sept mille quatre cents hommes.
+2,9	Total des effectifs du camp de Juda : cent quatre-vingt-six mille quatre cents pour les trois armées. Ils partiront en premier.
+2,10	Au sud, les armées qui forment le groupe du camp de Ruben. Le chef des fils de Ruben étant Eliçour, fils de Shedéour ;
+2,11	son armée ayant un effectif de quarante-six mille cinq cents hommes.
+2,12	Camperont avec lui : la tribu de Siméon (14) et la tribu de Gad. (12) Le chef des fils de Siméon étant Sheloumiël, fils de Çourishaddai ;
+2,13	son armée ayant un effectif de cinquante-neuf mille trois cents hommes :
+2,14	et le chef des fils de Gad, Elyasaf, fils de Réouël ;
+2,15	son armée ayant un effectif de quarante-six mille hommes.
+2,16	Total des effectifs du camp de Ruben : cent cinquante et un mille quatre cent cinquante pour les trois armées. Ils partiront les seconds.
+2,17	Ensuite partira la tente de la rencontre-le camp des lévites-au centre des camps. On part dans l'ordre où l'on campe, chacun à son rang, un groupe après l'autre.
+2,18	A l'ouest, les armées qui forment le groupe du camp d'Éphraïm. Le chef des fils d'Éphraïm étant Elishama, fils de Ammihoud ;
+2,19	son armée ayant un effectif de quarante mille cinq cents hommes.
+2,20	Avec lui, la tribu de Manassé (22) et la tribu de Benjamin. (20) Le chef des fils de Manassé étant Gameliël, fils de Pedahçour ;
+2,21	son armée ayant un effectif de trente-deux mille deux cents hommes.
+2,22	Et le chef des fils de Benjamin, Avidân, fils de Guidéoni :
+2,23	son armée ayant un effectif de trente-cinq mille quatre cents hommes.
+2,24	Total des effectifs du camp d'Éphraïm : cent huit mille un cents pour les trois armées. Ils partiront les troisièmes.
+2,25	Au nord, les armées qui forment le groupe du camp de Dan. Le chef des fils de Dan étant Ahiézer, fils de Ammishaddaï ;
+2,26	son armée ayant un effectif de soixante-trois mille hommes.
+2,27	Camperont avec lui : la tribu d'Asher (29) et la tribu de Nephtali. (27) Le chef des fils d'Asher étant Paguiël, fils de Okrân ;
+2,28	son armée ayant un effectif de quarante-deux mille hommes.
+2,29	Et le chef des fils de Nephtali, Ahira, fils de Einân ;
+2,30	son armée ayant un effectif de cinquante-trois mille quatre cents hommes.
+2,31	Total des effectifs du camp de Dan : cent cinquante-huit mille . Ils partiront en dernier, un groupe après l'autre.. »
+2,32	Voici l'effectif des fils d'Israël comptés par tribus, le total des effectifs des camps comptés par armées : six cent quatre mille .
+2,33	Les lévites ne participèrent pas au recensement des fils d'Israël ; tel était l'ordre donné par le Seigneur à Moïse.
+2,34	C'est ce que firent les fils d'Israël. C'est en se conformant à l'ordre donné par le Seigneur à Moïse qu'ils campaient par groupes d'armées et qu'ils partaient par clans et par familles.
+3,1	Voici quels étaient les descendants d'Aaron et de Moïse à l'époque où le Seigneur parla à Moïse sur le mont Sinaï.
+3,2	Voici les noms des fils d'Aaron : Nadav le premier-né, Avihou, Eléazar et Itamar.
+3,3	Tels sont les noms des fils d'Aaron, prêtres consacrés par l'onction et investis de la fonction sacerdotale.
+3,4	Nadav et Avihou moururent devant le Seigneur, pour avoir présenté devant lui un feu profane. Ils moururent dans le désert du Sinaï sans avoir eu de fils. Ce sont Eléazar et Itamar qui exercèrent le sacerdoce en présence de leur père Aaron.
+3,5	Le Seigneur dit à Moïse :
+3,6	« Fais approcher la tribu de Lévi et mets-la à la disposition du prêtre Aaron : les lévites le seconderont.
+3,7	Ils seront à son service et au service de toute la communauté devant la tente de la rencontre pour assurer les travaux de la demeure.
+3,8	Ils prendront soin de tous les accessoires de la tente de la rencontre et ils seront au service des fils d'Israël pour assurer les travaux de la demeure.
+3,9	Ainsi, tu donneras les lévites à Aaron et à ses fils ; ils leur seront donnés, vraiment donnés, de la part des fils d'Israël.
+3,10	Tu établiras Aaron et ses fils dans leur charge pour qu'ils exercent leur sacerdoce ; le profane qui s'approcherait sera mis à mort.. »
+3,11	Le Seigneur dit à Moïse :
+3,12	« Voici : je prends moi-même parmi les fils d'Israël les lévites en échange de tous les premiers-nés, de tous les fils d'Israël nés d'un premier enfantement. Les lévites m'appartiennent.
+3,13	Car tout premier-né m'appartient : le jour où j'ai frappé tous les premiers-nés dans le pays d'Égypte, je me suis consacré tous les premiers-nés en Israël, tant ceux de l'homme que ceux du bétail : ils m'appartiennent. Je suis le Seigneur !. »
+3,14	Le Seigneur dit à Moïse dans le désert du Sinaï :
+3,15	« Fais le recensement des fils de Lévi par familles et par clans : tu recenseras tous les lévites de sexe masculin à partir de l'âge d'un mois.. »
+3,16	Moïse les recensa d'après le commandement du Seigneur, comme il en avait reçu l'ordre.
+3,17	Voici quels étaient les fils de Lévi : ils se nommaient Guershôn, Qehath et Merari.
+3,18	Voici, par clans, les noms des fils de Guershôn : Livni et Shiméï.
+3,19	Les fils de Qehath, par clans : Amram, Yicehar, Hébron et Ouzziël.
+3,20	Les fils de Merari, par clans : Mahli et Moushi. Tels étaient les clans des lévites recensés par familles.
+3,21	Descendants de Guershôn : le clan des Livnites et le clan des Shiméïtes ; tels étaient les clans des Guershonites.
+3,22	Leur effectif, -en comptant tous les Guershonites de sexe masculin à partir de l'âge d'un mois-leur chiffre se montait à huit mille .
+3,23	Les clans des Guershonites campaient derrière la demeure, à l'ouest.
+3,24	Le chef de famille des Guershonites était Elyasaf, fils de Laël.
+3,25	Le service des fils de Guershôn dans la tente de la rencontre avait pour objet la demeure et la tente, sa couverture, le rideau d'entrée de la tente de la rencontre,
+3,26	les tentures et le rideau d'entrée du parvis entourant la demeure et l'autel, ainsi que les cordes nécessaires à tous les travaux de montage.
+3,27	Descendants de Qehath : le clan des Amramites, le clan des Yiceharites, le clan des Hébronites et le clan des Ouzziélites ; tels étaient les clans des Qehatites.
+3,28	En comptant tous les Qehatites de sexe masculin à partir de l'âge d'un mois, ils étaient neuf mille assurant le service du sanctuaire.
+3,29	Les clans des fils de Qehath campaient sur le côté de la demeure, au sud.
+3,30	Le chef de famille des clans des Qehatites était Eliçafân, fils de Ouzziël.
+3,31	Leur service avait pour objet : l'arche, la table, le chandelier, les autels et les accessoires du sanctuaire dont on se sert pour officier, ainsi que le rideau et tous les travaux de montage.
+3,32	Le chef suprême des lévites étant Eléazar, fils du prêtre Aaron ; il avait la charge des hommes assurant le service du sanctuaire.
+3,33	Descendants de Merari : le clan des Mahlites et le clan des Moushites ; tels étaient les clans de Merari.
+3,34	Leur chiffre, en comptant tous les Merarites de sexe masculin à partir de l'âge d'un mois, se montait à six mille deux cents.
+3,35	Le chef de famille des clans de Merari était Çouriël, fils d'Avihaïl ; ils campaient sur le côté de la demeure, au nord.
+3,36	Le service assigné aux fils de Merari avait pour objet les cadres de la demeure, ses traverses, ses colonnes et ses socles, ainsi que tous ses accessoires et tous les travaux de montage ;
+3,37	de plus, les colonnes qui entourent le parvis avec leurs socles, leurs piquets et leurs cordes.
+3,38	Ceux qui campaient devant la demeure, à l'est - c'est-à-dire devant la tente de la rencontre, au levant -, étaient Moïse, Aaron et ses fils : ils faisaient le service du sanctuaire à l'intention des fils d'Israël. Le profane qui se serait approché aurait été mis à mort.
+3,39	L'effectif total des lévites que Moïse et Aaron dénombrèrent par clans d'après le commandement du Seigneur-tous les lévites de sexe masculin à partir de l'âge d'un mois-était de vingt-deux mille zéro.
+3,40	Le Seigneur dit à Moïse : « Dénombre tous les premiers-nés de sexe masculin des fils d'Israël à partir de l'âge d'un mois et fais le compte de leurs noms.
+3,41	Tu me réserveras les lévites-Je suis le Seigneur-en échange de tous les premiers-nés des fils d'Israël. De même, tu me réserveras le bétail des lévites en échange de tous les premiers-nés du bétail des fils d'Israël.. »
+3,42	Moïse dénombra tous les premiers-nés des fils d'Israël comme le Seigneur le lui avait ordonné.
+3,43	Le total des premiers-nés de sexe masculin dont on releva les noms, recensés à partir de l'âge d'un mois, se montait à vingt-deux mille deux cent soixante-treize.
+3,44	Le Seigneur dit à Moïse :
+3,45	« Prends les lévites en échange de tous les premiers-nés des fils d'Israël et le bétail des lévites en échange du bétail d'Israël : les lévites m'appartiennent. Je suis le Seigneur.
+3,46	Pour prix du rachat des deux cent soixante-treize premiers-nés des fils d'Israël qui sont en excédent sur le nombre des lévites,
+3,47	tu prendras cinq sicles par tête-tu les prendras en sicles du sanctuaire, à vingt guéras le sicle-.
+3,48	Tu donneras l'argent à Aaron et à ses fils pour prix du rachat des premiers-nés en surnombre.. »
+3,49	Moïse reçut l'argent du rachat de la part de ceux qui étaient en excédent sur le nombre des premiers-nés rachetés par les lévites.
+3,50	Il reçut cet argent de la part des premiers-nés des fils d'Israël : mille trois cent soixante-cinq sicles du sanctuaire.
+3,51	Et Moïse donna l'argent du rachat à Aaron et à ses fils, d'après le commandement du Seigneur, comme le Seigneur l'avait ordonné à Moïse.
+4,1	Le Seigneur dit à Moïse et Aaron :
+4,2	« Parmi les fils de Lévi, dressez l'état des fils de Qehath par clans et par familles,
+4,3	de tous ceux de trente à cinquante ans qui sont tenus de faire leur service en travaillant dans la tente de la rencontre.
+4,4	Voici quelle est la tâche des fils de Qehath dans la tente de la rencontre : se charger des objets très saints.
+4,5	Quand on lève le camp, Aaron et ses fils viennent décrocher le voile de séparation et ils en recouvrent l'arche de la charte ;
+4,6	ils mettent dessus une housse en peau de dauphin, ils étendent sur l'ensemble une étoffe toute de pourpre violette et ils fixent les barres de l'arche.
+4,7	Sur la table d'offrande ils étendent une étoffe de pourpre violette et ils y mettent les plats, les gobelets, les bols et les timbales de libation ; le pain perpétuel sera sur cette table.
+4,8	Sur tout cela, ils étendent une étoffe de cramoisi éclatant et la recouvrent d'une housse en peau de dauphin ; puis ils fixent les barres de la table.
+4,9	Ils prennent ensuite une étoffe de pourpre violette pour recouvrir le chandelier servant de luminaire, avec ses lampes, ses pincettes et ses bobèches, ainsi que tous les vases à huile dont on se sert pour son entretien.
+4,10	Ils le mettent avec tous ses accessoires dans une housse en peau de dauphin et le placent sur son brancard.
+4,11	Sur l'autel d'or ils étendent une étoffe de pourpre violette ; ils le recouvrent d'une housse en peau de dauphin et fixent ses barres.
+4,12	Puis ils prennent tous les objets liturgiques dont on se sert pour officier dans le sanctuaire, ils les mettent dans une étoffe de pourpre violette, les recouvrent d'une housse en peau de dauphin et les placent sur leur brancard.
+4,13	Ils enlèvent les cendres de l'autel sur lequel ils étendent une étoffe de pourpre rouge ;
+4,14	ils mettent dessus tous les objets dont on se sert pour officier : les pelles à braise, les tisonniers, les pelles à cendres, les bacs à cendres, tous les accessoires de l'autel. Ils étendent là-dessus une housse en peau de dauphin et fixent les barres de l'autel.
+4,15	Pendant qu'on lève le camp, Aaron et ses fils achèvent d'envelopper le sanctuaire et tous ses accessoires ; après quoi les fils de Qehath viennent l'emporter. Ils ne toucheront pas au sanctuaire, ce serait leur mort. C'est là ce que, dans la tente de la rencontre, les fils de Qehath ont à porter.
+4,16	Eléazar, le fils du prêtre Aaron, a la charge de l'huile du luminaire, du parfum à brûler, de l'offrande perpétuelle, de l'huile d'onction ; il a la charge de toute la demeure et de tout ce qui s'y trouve, tant du sanctuaire que de ses accessoires.. »
+4,17	Le Seigneur dit à Moïse et Aaron :
+4,18	« N'exposez pas le groupe des clans de Qehath à être retranché du milieu des lévites.
+4,19	Faites donc ceci pour eux, afin qu'ils vivent et ne soient pas frappés de mort en s'approchant du lieu très saint : Aaron et ses fils viendront les placer chacun devant sa tâche, devant ce qu'il doit porter.
+4,20	Ainsi ils ne viendront pas regarder le sanctuaire, ne fût-ce qu'un instant : ce serait leur mort !. »
+4,21	Le Seigneur dit à Moïse :
+4,22	« Dresse également l'état des fils de Guershôn par familles et par clans.
+4,23	Tu recenseras tous ceux de trente à cinquante ans qui sont tenus d'accomplir leur service, c'est-à-dire de remplir une tâche dans la tente de la rencontre.
+4,24	Voici la tâche des clans des Guershonites, ce qu'ils ont à faire et ce qu'ils ont à porter :
+4,25	ils portent les tapisseries de la demeure ainsi que la tente de la rencontre avec sa couverture-la couverture en peau de dauphin qui la recouvre-le rideau d'entrée de la tente de la rencontre,
+4,26	les tentures du parvis et le rideau d'entrée de la porte du parvis, entourant la demeure et l'autel, ainsi que leurs cordes et tous leurs outils : tout ce qu'on a donné aux Guershonites pour faire leur travail.
+4,27	C'est sous le commandement d'Aaron et de ses fils que se feront tous les travaux des fils des Guershonites, tant pour leurs fardeaux que pour leurs travaux : vous leur assignerez, en fait de service, tout ce qu'ils ont à porter.
+4,28	Telle est la tâche des clans des fils des Guershonites dans la tente de la rencontre, tel est leur service sous la direction du prêtre Itamar, fils d'Aaron.
+4,29	Quant aux fils de Merari, tu les recenseras par clans et par familles.
+4,30	Tu recenseras tous ceux de trente à cinquante ans qui sont tenus de faire leur service en assurant les travaux de la tente de la rencontre.
+4,31	Voici ce qu'il leur incombe de porter-c'est là toute la tâche qui leur revient dans la tente de la rencontre- :les cadres de la demeure, ses traverses, ses colonnes, ses socles,
+4,32	les colonnes qui entourent le parvis avec leurs socles, leurs piquets et leurs cordes, ainsi que tous les outils. Vous désignerez à chacun les objets qu'il lui incombe de porter.
+4,33	Telle est la tâche des clans des fils de Merari-c'est là toute la tâche qui leur revient dans la tente de la rencontre, sous la direction du prêtre Itamar, fils d'Aaron.. »
+4,34	Moïse, Aaron et les responsables de la communauté recensèrent les fils de Qehath par clans et par familles,
+4,35	tous ceux de trente à cinquante ans qui étaient tenus de faire leur service en travaillant dans la tente de la rencontre.
+4,36	L'effectif de leurs clans était de trois mille hommes.
+4,37	Tel était l'effectif des clans qehatites, de tous ceux qui travaillaient dans la tente de la rencontre-ceux que Moïse et Aaron recensèrent, sur l'ordre que le Seigneur avait donné par l'intermédiaire de Moïse.
+4,38	Voici l'effectif des fils de Guershôn-en comptant par clans et par familles
+4,39	tous ceux de trente à cinquante ans qui sont tenus de faire leur service en travaillant dans la tente de la rencontre- :
+4,40	l'effectif de leurs clans et de leurs familles était de trois mille hommes.
+4,41	Tel était l'effectif des clans des fils de Guershôn-de tous ceux qui travaillaient dans la tente de la rencontre-dans le recensement que firent Moïse et Aaron, sur l'ordre du Seigneur.
+4,42	Voici l'effectif des clans de Merari-en comptant par clans et par familles
+4,43	tous ceux de trente à cinquante ans qui sont tenus de faire leur service en travaillant dans la tente de la rencontre- :
+4,44	l'effectif de leurs clans était de trois mille deux cents hommes.
+4,45	Tel était l'effectif des clans des fils de Merari dans le recensement que firent Moïse et Aaron sur l'ordre que le Seigneur avait donné par l'intermédiaire de Moïse.
+4,46	Voici le total des effectifs des lévites que Moïse, Aaron et les responsables d'Israël recensèrent-en comptant par clans et par familles
+4,47	tous ceux de trente à cinquante ans qui étaient tenus d'accomplir dans la tente de la rencontre un service de montage et un service de portage- :
+4,48	leur effectif était de neuf mille hommes.
+4,49	Par ordre du Seigneur et sous la direction de Moïse, on assigna à chacun ce qu'il devait faire et ce qu'il devait porter ; chacun avait la charge que le Seigneur avait prescrite à Moïse.
+5,1	Le Seigneur dit à Moïse :
+5,2	« Ordonne aux fils d'Israël de renvoyer du camp tout lépreux ainsi que toute personne affectée d'un écoulement ou souillée par un mort.
+5,3	Vous les renverrez, tant hommes que femmes, vous les renverrez hors du camp. Qu'ils ne souillent pas le camp des fils d'Israël au milieu desquels je demeure.. »
+5,4	C'est ce que firent les fils d'Israël ; ils les renvoyèrent hors du camp. Les fils d'Israël firent comme le Seigneur l'avait dit à Moïse.
+5,5	Le Seigneur dit à Moïse :
+5,6	« Dis aux fils d'Israël : Lorsqu'un homme ou une femme se rend infidèle au Seigneur en commettant l'un des péchés qui sont le fait de tout être humain, cette personne est coupable.
+5,7	Ils confesseront le péché qu'ils ont commis ; le coupable restituera à celui auquel il a fait tort l'objet en entier, plus le cinquième de sa valeur.
+5,8	Si la victime n'a pas de parent à qui l'on puisse restituer l'objet du délit, cet objet devra être restitué au Seigneur, c'est-à-dire au prêtre, sans compter le bélier expiatoire au moyen duquel on fera le rite d'absolution pour le coupable.
+5,9	Tous les prélèvements que font les fils d'Israël, toutes les choses saintes qu'ils présentent au prêtre, lui appartiennent.
+5,10	Les choses saintes de chacun lui appartiennent ; ce que chacun donne au prêtre lui appartient.. »
+5,11	Le Seigneur dit à Moïse :
+5,12	« Parle aux fils d'Israël et dis-leur : Il peut arriver à un homme que sa femme se conduise mal et lui soit infidèle,
+5,13	qu'un autre ait à l'insu de cet homme des rapports avec elle, qu'elle se soit souillée en secret, sans qu'il y ait de témoin contre elle, sans qu'elle ait été prise sur le fait ;
+5,14	si alors un esprit de jalousie s'empare de cet homme et qu'il soupçonne sa femme, alors qu'elle s'est effectivement déshonorée, ou si un esprit de jalousie s'empare de cet homme et qu'il soupçonne sa femme, sans qu'elle se soit déshonorée,
+5,15	cet homme amènera sa femme au prêtre. Il apportera pour elle le présent requis : un dixième d'épha de farine d'orge. Il n'y versera pas d'huile et n'y mettra pas d'encens, car c'est une offrande de jalousie, une offrande de dénonciation, qui dénonce une faute.
+5,16	Le prêtre fera approcher la femme et la fera comparaître devant le Seigneur.
+5,17	Le prêtre prendra de l'eau sainte dans un vase de terre, il prendra de la poussière du sol de la demeure et la mettra dans l'eau.
+5,18	Le prêtre fera comparaître la femme devant le Seigneur et la décoiffera ; il mettra sur ses mains ouvertes l'offrande de dénonciation, c'est-à-dire l'offrande de jalousie, tandis que lui-même aura à la main l'eau d'amertume qui porte la malédiction.
+5,19	« Le prêtre fera prêter serment à la femme en lui disant : “S'il n'est pas vrai qu'un homme ait couché avec toi, que tu te sois mal conduite, que tu te sois déshonorée en trompant ton mari, sois préservée de la malédiction que porte cette eau d'amertume.”
+5,20	“Mais si au contraire tu t'es livrée à l'inconduite avec un autre que ton mari, si tu t'es déshonorée et qu'un homme qui n'est pas ton mari a eu des rapports avec toi…”
+5,21	“Le prêtre lui fera prêter le serment d'imprécation en lui disant : “Que le Seigneur fasse de toi, au milieu de ton peuple, l'exemple qu'on cite dans les imprécations et les serments. Qu'il fasse dépérir ton sein et enfler ton ventre.”
+5,22	“Cette eau qui porte la malédiction va pénétrer dans tes entrailles pour faire enfler ton ventre et dépérir ton sein.” Et la femme répondra : “Amen, amen ! »
+5,23	Puis le prêtre mettra par écrit ces imprécations et les dissoudra dans l'eau d'amertume.
+5,24	Il fera boire à la femme l'eau d'amertume qui porte la malédiction ; cette eau qui porte la malédiction pénétrera en elle en devenant amère.
+5,25	Le prêtre prendra de la main de la femme l'offrande de jalousie, il la présentera au Seigneur et l'apportera sur l'autel.
+5,26	Le prêtre prélèvera sur la farine de l'offrande une poignée comme mémorial et la fera fumer sur l'autel ; après quoi il fera boire l'eau à la femme.
+5,27	Il lui fera boire l'eau et il arrivera ceci : si elle s'est souillée et qu'elle a été infidèle à son mari, l'eau qui porte la malédiction pénétrera en elle en devenant amère ; son ventre enflera et son sein dépérira. Et cette femme deviendra pour son peuple l'exemple qu'on cite dans les imprécations.
+5,28	Si au contraire cette femme ne s'est pas déshonorée mais qu'elle est pure, elle sera innocentée et elle sera féconde.. »
+5,29	Telle est la loi sur la jalousie pour une femme qui se livre à l'inconduite en trompant son mari et se déshonore,
+5,30	ou pour un homme qui est saisi d'un esprit de jalousie et soupçonne sa femme : il la fera comparaître devant le Seigneur et le prêtre lui appliquera toutes les prescriptions de cette loi.
+5,31	Le mari sera exempt de faute et la femme, quant à elle, répondra de sa faute.
+6,1	Le Seigneur dit à Moïse :
+6,2	« Parle aux fils d'Israël et dis-leur : Lorsqu'un homme ou une femme s'engage par voue de naziréat à se consacrer au Seigneur,
+6,3	ce nazir s'abstiendra de vin et de boissons alcoolisées : il ne boira ni vinaigre de vin ni vinaigre d'alcool ; il ne boira aucune sorte de jus de raisin et ne mangera ni raisins frais ni raisins secs.
+6,4	Pendant tout le temps de son naziréat, il ne mangera d'aucun produit fait avec le fruit de la vigne, ni avec les pépins ni avec la peau.
+6,5	Pendant tout le temps de son voue de naziréat, le rasoir ne passera pas sur sa tête ; jusqu'à l'achèvement du temps pour lequel il s'est consacré au Seigneur, il sera saint, il laissera croître librement les cheveux de sa tête.
+6,6	Pendant tout le temps de sa consécration au Seigneur, il ne se rendra pas auprès d'un mort.
+6,7	Que ce soit pour son père ou sa mère, pour son frère ou sa sœur, il ne se profanera pas à leur contact s'ils viennent à mourir, car il porte sur sa tête la consécration de son Dieu.
+6,8	Pendant tout le temps de son naziréat, il sera saint pour le Seigneur.
+6,9	Si, inopinément, quelqu'un vient à mourir auprès de lui de mort subite, profanant sa tête consacrée, il se rasera la tête le jour de sa purification ; il se la rasera le septième jour,
+6,10	et le huitième il apportera au prêtre, à l'entrée de la tente de la rencontre, deux tourterelles ou deux jeunes pigeons ;
+6,11	le prêtre offrira l'un en sacrifice pour le péché, l'autre en holocauste et il fera pour le nazir le rite d'absolution du péché qu'il aura commis à cause de ce mort. Ce même jour, le nazir sanctifiera sa tête,
+6,12	il se consacrera de nouveau au Seigneur pour le temps de naziréat qu'il s'était fixé et il apportera un agneau d'un an en sacrifice de réparation. Les jours précédents ne compteront pas, du fait que son naziréat a été profané.. »
+6,13	Voici la loi concernant le nazir : le jour où s'achève le temps de son naziréat, on le fait venir à l'entrée de la tente de la rencontre
+6,14	et il apporte son présent au Seigneur : un agneau d'un an sans défaut en holocauste, une agnelle d'un an sans défaut en sacrifice pour le péché, et un bélier sans défaut en sacrifice de paix ;
+6,15	une corbeille de pains sans levain faits de fleur de farine, des gâteaux pétris à l'huile et des crêpes sans levain enduites d'huile, avec l'offrande et les libations requises.
+6,16	Le prêtre les apporte devant le Seigneur et il offre son sacrifice pour le péché et son holocauste.
+6,17	Quant au bélier, il l'offre au Seigneur en sacrifice de paix avec la corbeille de pains sans levain ; de plus le prêtre fait l'offrande et la libation requises.
+6,18	Le nazir rase alors sa tête consacrée à l'entrée de la tente de la rencontre, il prend les cheveux de sa tête consacrée et les jette dans le feu qui brûle sous le sacrifice de paix.
+6,19	Le prêtre prend l'épaule du bélier lorsqu'elle est cuite, avec un gâteau sans levain de la corbeille et une crêpe sans levain ; il les met dans les mains du nazir après qu'il a rasé le signe de son naziréat.
+6,20	Le prêtre les présente au Seigneur avec le geste de présentation ; c'est une chose sainte qui revient au prêtre, en plus de la poitrine qu'il présente et de la cuisse qu'il prélève. Après quoi, le nazir pourra boire du vin.
+6,21	Telle est la loi concernant le nazir qui fait un vœu ; tel est le présent qu'il doit au Seigneur pour son naziréat, sans compter ce dont il pourrait disposer en plus. Il se conformera au vœu qu'il aura prononcé suivant la loi du naziréat auquel il s'est engagé.
+6,22	Le Seigneur dit à Moïse :
+6,23	« Parle à Aaron et à ses fils et dis-leur : voici en quels termes vous bénirez les fils d'Israël :
+6,24	Que le Seigneur te bénisse et te garde !
+6,25	Que le Seigneur fasse rayonner sur toi son regard et t'accorde sa grâce !
+6,26	Que le Seigneur porte sur toi son regard et te donne la paix !
+6,27	Ils apposeront ainsi mon nom sur les fils d'Israël, et moi, je les bénirai.. »
+7,1	Le jour où Moïse acheva de dresser la demeure, il en fit l'onction et il la consacra avec tous ses accessoires, ainsi que l'autel et tous ses accessoires ; il en fit l'onction et la consécration.
+7,2	Les responsables d'Israël, chefs de leurs tribus respectives, apportèrent leur présent. C'étaient les responsables des tribus, ceux qui avaient dirigé le recensement.
+7,3	Ils amenèrent leur présent devant le Seigneur : six chariots couverts et douze bœufs ; un chariot pour deux chefs et un bœuf pour chacun ; ils les firent avancer devant la demeure.
+7,4	Le Seigneur dit à Moïse :
+7,5	« Reçois les présents qu'ils t'amènent ; ils seront utilisés pour les travaux de la tente de la rencontre. Tu les remettras aux lévites, à chacun selon les besoins de sa tâche.. »
+7,6	Moïse reçut les chariots et les bœufs et les remit aux lévites.
+7,7	Il donna deux chariots et quatre bœufs aux fils de Guershôn selon les besoins de leur tâche.
+7,8	Et les quatre autres chariots, avec les huit bœufs, il les donna, par l'entremise du prêtre Itamar, fils d'Aaron, aux fils de Merari selon les besoins de leur tâche.
+7,9	Il n'en donna pas aux fils de Qehath car la tâche qui leur incombait était de porter les objets sacrés sur leurs épaules.
+7,10	Les chefs apportèrent l'offrande pour la dédicace de l'autel le jour où l'on en fit l'onction. Les chefs apportèrent leurs présents devant l'autel.
+7,11	Le Seigneur dit à Moïse : « Que les chefs, à raison d'un par jour, apportent leur présent en offrande pour la dédicace de l'autel.. »
+7,12	C'est Nahshôn, fils de Amminadav de la tribu de Juda, qui apporta son présent le premier jour.
+7,13	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,14	un gobelet d'or de dix sicles, rempli de parfum ;
+7,15	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,16	un bouc pour le sacrifice pour le péché ;
+7,17	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent de Nahshôn, fils de Amminadav.
+7,18	Le deuxième jour, Netanel, fils de Çouar, chef d'Issakar, apporta son offrande.
+7,19	Il apporta son présent qui consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,20	un gobelet d'or de dix sicles, rempli de parfum ;
+7,21	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,22	un bouc pour le sacrifice pour le péché ;
+7,23	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent de Netanel, fils de Çouar.
+7,24	Le troisième jour, ce fut le chef des fils de Zabulon, Eliav, fils de Hélôn.
+7,25	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,26	un gobelet d'or de dix sicles, rempli de parfum ;
+7,27	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,28	un bouc pour le sacrifice pour le péché ;
+7,29	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent d'Eliav, fils de Hélôn.
+7,30	Le quatrième jour, ce fut le chef des fils de Ruben, Eliçour, fils de Shedéour.
+7,31	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,32	un gobelet d'or de dix sicles, rempli de parfum ;
+7,33	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,34	un bouc pour le sacrifice pour le péché ;
+7,35	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent d'Eliçour, fils de Shedéour.
+7,36	Le cinquième jour, ce fut le chef des fils de Siméon, Sheloumiël, fils de Çourishaddaï.
+7,37	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,38	un gobelet d'or de dix sicles, rempli de parfum ;
+7,39	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,40	un bouc pour le sacrifice pour le péché ;
+7,41	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent de Sheloumiël, fils de Çourishaddaï.
+7,42	Le sixième jour, ce fut le chef des fils de Gad, Elyasaf, fils de Déouël.
+7,43	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,44	un gobelet d'or de dix sicles, rempli de parfum ;
+7,45	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,46	un bouc pour le sacrifice pour le péché ;
+7,47	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent d'Elyasaf, fils de Déouël.
+7,48	Le septième jour, ce fut le chef des fils d'Éphraïm, Elishama, fils de Ammihoud.
+7,49	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,50	un gobelet d'or de dix sicles, rempli de parfum ;
+7,51	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,52	un bouc pour le sacrifice pour le péché ;
+7,53	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent d'Elishama, fils de Ammihoud.
+7,54	Le huitième jour, ce fut le chef des fils de Manassé, Gameliël, fils de Pedahçour.
+7,55	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,56	un gobelet d'or de dix sicles, rempli de parfum ;
+7,57	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,58	un bouc pour le sacrifice pour le péché ;
+7,59	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent de Gameliël, fils de Pedahçour.
+7,60	Le neuvième jour, ce fut le chef des fils de Benjamin, Avidân, fils de Guidéoni.
+7,61	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,62	un gobelet d'or de dix sicles, rempli de parfum ;
+7,63	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,64	un bouc pour le sacrifice pour le péché ;
+7,65	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent d'Avidân, fils de Guidéoni.
+7,66	Le dixième jour, ce fut le chef des fils de Dan, Ahiézer, fils de Ammishaddaï.
+7,67	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,68	un gobelet d'or de dix sicles, rempli de parfum ;
+7,69	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,70	un bouc pour le sacrifice pour le péché ;
+7,71	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent d'Ahiézer, fils de Ammishaddaï.
+7,72	Le onzième jour, ce fut le chef des fils d'Asher, Paguiël, fils de Okrân.
+7,73	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,74	un gobelet d'or de dix sicles, rempli de parfum ;
+7,75	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,76	un bouc pour le sacrifice pour le péché ;
+7,77	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent de Paguiël, fils de Okrân.
+7,78	Le douzième jour, ce fut le chef des fils de Nephtali, Ahira, fils de Einân.
+7,79	Son présent consistait en : un plat d'argent d'un poids de cent trente sicles, une coupe d'argent de soixante-dix sicles-en sicles du sanctuaire-tous deux remplis de farine pétrie à l'huile pour l'offrande ;
+7,80	un gobelet d'or de dix sicles, rempli de parfum ;
+7,81	un taureau, un bélier, un agneau d'un an pour l'holocauste ;
+7,82	un bouc pour le sacrifice pour le péché ;
+7,83	et, pour le sacrifice de paix, deux bœufs, cinq béliers, cinq boucs et cinq agneaux d'un an. Tel fut le présent d'Ahira, fils de Einân.
+7,84	Telle fut l'offrande des chefs d'Israël pour la dédicace de l'autel le jour où l'on en fit l'onction : douze plats d'argent, douze coupes d'argent, douze gobelets d'or.
+7,85	Chaque plat d'argent pesait cent trente sicles et chaque coupe soixante-dix sicles. Ces objets faisaient au total deux mille quatre cents sicles d'argent, en sicles du sanctuaire,
+7,86	douze gobelets d'or remplis de parfum pesant dix sicles chacun-en sicles du sanctuaire. Les gobelets faisaient au total cent vingt sicles d'or.
+7,87	Le gros bétail destiné à l'holocauste comprenait au total douze taureaux, douze béliers et douze agneaux d'un an, avec les offrandes requises ; et douze boucs pour le sacrifice pour le péché.
+7,88	Le gros bétail destiné au sacrifice de paix comprenait au total vingt-quatre bœufs, soixante béliers, soixante boucs et soixante agneaux d'un an. Telle fut l'offrande pour la dédicace de l'autel après qu'on en eut fait l'onction.
+7,89	Quand Moïse entrait dans la tente de la rencontre pour parler avec le Seigneur, il entendait la voix lui parler du haut du propitiatoire, d'entre les deux chérubins-le propitiatoire était sur l'arche de la charte. Et il lui parlait.
+8,1	Le Seigneur dit à Moïse :
+8,2	« Parle à Aaron et dis-lui : Quand tu allumeras les lampes, les sept lampes devront éclairer le devant du chandelier.. »
+8,3	C'est ce que fit Aaron : sur le devant du chandelier, il alluma les lampes comme le Seigneur l'avait ordonné à Moïse.
+8,4	Voici comment était fait le chandelier : il était en or forgé, forgé de la base à la fleur. On avait fait ce chandelier selon le modèle que le Seigneur avait montré à Moïse.
+8,5	Le Seigneur dit à Moïse :
+8,6	« Prends les lévites parmi les fils d'Israël et purifie-les.
+8,7	Voici comment tu agiras à leur égard pour les purifier : fais sur eux une aspersion d'eau lustrale ; qu'ils se passent un rasoir sur tout le corps, qu'ils lavent leurs vêtements et qu'ils se purifient.
+8,8	Ils prendront un taureau avec l'offrande requise de farine pétrie à l'huile. Et tu prendras un deuxième taureau pour le sacrifice pour le péché.
+8,9	Tu feras avancer les lévites devant la tente de la rencontre et tu rassembleras toute la communauté d'Israël.
+8,10	Tu feras avancer les lévites devant le Seigneur et les fils d'Israël leur imposeront les mains.
+8,11	Puis Aaron présentera les lévites comme une offrande présentée au Seigneur par les fils d'Israël et ils seront destinés à assurer le culte du Seigneur.
+8,12	Les lévites poseront leurs mains sur la tête des taureaux. Offre les taureaux au Seigneur, l'un en sacrifice pour le péché et l'autre en holocauste, pour faire sur les lévites le rite d'absolution.
+8,13	Tu placeras les lévites devant Aaron et devant ses fils, et tu les présenteras comme une offrande présentée au Seigneur.
+8,14	Parmi les fils d'Israël, tu mettras à part les lévites et ils m'appartiendront.
+8,15	Après quoi les lévites viendront servir la tente de la rencontre. Tu les purifieras donc et tu les présenteras comme une offrande présentée.
+8,16	Car ils me sont donnés, vraiment donnés, parmi les fils d'Israël : je me les réserve en échange de tous ceux qui sont nés d'un premier enfantement, c'est-à-dire de tous les premiers-nés des fils d'Israël.
+8,17	Car tout premier-né chez les fils d'Israël m'appartient, tant chez les hommes que chez les bêtes. Le jour où j'ai frappé tous les premiers-nés dans le pays d'Égypte, je me les suis consacrés.
+8,18	Mais je prends les lévites en échange de tous les premiers-nés des fils d'Israël
+8,19	et je les donne à Aaron et à ses fils ; parmi les fils d'Israël, les lévites sont donnés pour assurer le culte des fils d'Israël dans la tente de la rencontre et pour faire sur eux le rite d'absolution. Ainsi les fils d'Israël ne seront plus frappés par un fléau pour s'être approchés du lieu saint. »
+8,20	C'est ce que firent Moïse, Aaron et toute la communauté des fils d'Israël à l'égard des lévites. Les fils d'Israël firent à leur égard exactement ce que le Seigneur avait ordonné à Moïse au sujet des lévites.
+8,21	Les lévites firent leur purification et lavèrent leurs vêtements. Aaron les présenta comme une offrande présentée au Seigneur et fit sur eux le rite d'absolution pour les purifier.
+8,22	Après quoi, les lévites allèrent prendre leur service dans la tente de la rencontre, sous les yeux d'Aaron et de ses fils. On fit à l'égard des lévites ce que le Seigneur avait ordonné à Moïse à leur sujet.
+8,23	Le Seigneur dit à Moïse :
+8,24	« Voici les dispositions concernant les lévites : à partir de l'âge de vingt-cinq ans, le lévite est tenu d'accomplir son service en assurant les travaux de la tente de la rencontre.
+8,25	A l'âge de cinquante ans, il quittera le service actif : il ne sera plus astreint au travail.
+8,26	Il assistera ses frères pour assurer des fonctions dans la tente de la rencontre, mais il ne sera plus astreint au travail. Telles sont les dispositions que tu prendras pour le service des lévites.. »
+9,1	Le Seigneur parla à Moïse dans le désert du Sinaï ; c'était la deuxième année après leur sortie du pays d'Égypte, le premier mois. Il dit :
+9,2	« Que les fils d'Israël célèbrent la Pâque à la date fixée.
+9,3	C'est à la date du quatorze de ce mois, au crépuscule, que vous la célébrerez. Vous la célébrerez en suivant exactement le rituel de la Pâque et ses coutumes.. »
+9,4	Moïse dit aux fils d'Israël de célébrer la Pâque.
+9,5	Ils la célébrèrent, dans le désert du Sinaï, le quatorze du premier mois au crépuscule. Les fils d'Israël firent exactement ce que le Seigneur avait ordonné à Moïse.
+9,6	Or quelques hommes se trouvaient en état d'impureté pour avoir touché un mort ; ne pouvant célébrer la Pâque ce jour-là, ils s'adressèrent le jour même à Moïse et Aaron.
+9,7	« Nous sommes en état d'impureté, lui dirent-ils, pour avoir touché un mort ; pourquoi nous est-il interdit d'apporter notre présent au Seigneur à la date fixée comme tous les fils d'Israël. ?. » -
+9,8	« Attendez, leur dit Moïse, que j'apprenne ce que le Seigneur ordonne dans votre cas.. »
+9,9	Le Seigneur dit à Moïse :
+9,10	« Parle en ces termes aux fils d'Israël : Lorsqu'un homme sera en état d'impureté pour avoir touché un mort ou qu'il sera en voyage au loin-ceci vaut pour vous comme pour vos descendants-il célébrera la Pâque en l'honneur du Seigneur.
+9,11	Mais c'est le quatorze du second mois, au crépuscule, que ces hommes la célébreront ; ils mangeront l'agneau avec des pains sans levain et des herbes amères.
+9,12	Ils n'en garderont rien pour le matin, ils n'en briseront pas les os ; ils célébreront la Pâque en se conformant exactement à son rituel.
+9,13	Mais si un homme qui se trouve en état de pureté et qui n'est pas en voyage néglige de célébrer la Pâque, celui-là sera retranché de sa parenté ; pour n'avoir pas apporté son présent au Seigneur à la date fixée, cet homme supportera les conséquences de son péché.
+9,14	Si un émigré qui séjourne chez vous célèbre la Pâque en l'honneur du Seigneur, il suivra le rituel de la Pâque et ses coutumes ; vous aurez un seul rituel, pour l'émigré comme pour l'indigène du pays.. »
+9,15	Le jour où l'on dressa la demeure, la nuée couvrit la demeure, c'est-à-dire la tente de la charte. Le soir, elle était sur la demeure avec l'apparence d'un feu, et ainsi jusqu'au matin.
+9,16	Ainsi en était-il constamment ; la nuée couvrait la demeure et, pendant la nuit, elle avait l'apparence d'un feu.
+9,17	Chaque fois que la nuée s'élevait au-dessus de la tente, aussitôt les fils d'Israël partaient ; et à l'endroit où la nuée se posait, c'est là que les fils d'Israël campaient.
+9,18	Sur l'ordre du Seigneur, les fils d'Israël partaient ; sur l'ordre du Seigneur, ils campaient. Aussi longtemps que la nuée demeurait sur la demeure, ils campaient.
+9,19	Lorsque la nuée restait longuement sur la demeure, les fils d'Israël assuraient le service du Seigneur et ne partaient pas.
+9,20	Parfois, la nuée ne restait que peu de jours sur la demeure. -Sur l'ordre du Seigneur, ils campaient ; sur l'ordre du Seigneur, ils partaient. -
+9,21	D'autres fois, la nuée ne restait que du soir au matin ; quand elle s'élevait le matin, ils partaient. Ou encore, elle restait un jour et une nuit ; quand elle s'élevait, ils partaient.
+9,22	Tant que la nuée s'attardait sur la demeure, que ce fût deux jours, un mois ou plus longtemps, les fils d'Israël campaient et ne partaient pas ; quand elle s'élevait, ils partaient.
+9,23	Sur l'ordre du Seigneur, ils campaient ; sur l'ordre du Seigneur, ils partaient. Ils assuraient le service du Seigneur conformément aux instructions que le Seigneur avait données par l'intermédiaire de Moïse.
+10,1	Le Seigneur dit à Moïse :
+10,2	« Fais faire deux trompettes d'argent-tu les feras en métal forgé- ;elles te serviront à convoquer la communauté et à faire partir les camps.
+10,3	Quand on jouera de ces trompettes, c'est toute la communauté qui se rassemblera auprès de toi à l'entrée de la tente de la rencontre.
+10,4	Si on ne joue que d'une trompette, ce sont les responsables, les chefs des milliers d'Israël, qui se rassembleront auprès de toi.
+10,5	Quand vous donnerez un signal modulé, les camps stationnés à l'est partiront.
+10,6	Quand vous donnerez un deuxième signal modulé, les camps stationnés au sud partiront. On donnera un signal modulé pour les départs.
+10,7	Tandis que pour convoquer l'assemblée, vous donnerez un signal continu et non pas modulé.
+10,8	Ce sont les fils d'Aaron, les prêtres, qui joueront de ces trompettes ; elles vous serviront pour un rituel immuable pour toutes les générations.
+10,9	Quand, dans votre pays, vous partirez en guerre contre l'ennemi qui vous harcèle, vous ferez donner par ces trompettes un signal modulé. De la sorte, vous vous rappellerez à l'attention du Seigneur, votre Dieu, et vous serez délivrés de vos ennemis.
+10,10	Quand vous aurez un jour de réjouissance, des solennités, des néoménies, vous jouerez de ces trompettes pour accompagner vos holocaustes et vos sacrifices de paix ; elles serviront à vous rappeler à l'attention de votre Dieu. Je suis le Seigneur votre Dieu. »
+10,11	La deuxième année, le vingt du deuxième mois, la nuée s'éleva au-dessus de la demeure de la charte.
+10,12	Les fils d'Israël partirent du désert du Sinaï chacun à son tour et la nuée séjourna dans le désert de Parân.
+10,13	C'était la première fois qu'ils partaient sur l'ordre du Seigneur transmis par Moïse.
+10,14	En premier lieu partit le groupe du camp des fils de Juda avec ses armées. L'armée des fils de Juda était sous les ordres de Nahshôn, fils de Amminadav,
+10,15	l'armée de la tribu des fils d'Issakar, sous les ordres de Netanel, fils de Çouar,
+10,16	l'armée de la tribu des fils de Zabulon, sous les ordres d'Eliav, fils de Hélôn.
+10,17	La demeure fut démontée ; les fils de Guershôn et les fils de Merari partirent en portant la demeure.
+10,18	Le groupe du camp de Ruben partit avec ses armées ; l'armée de Ruben était sous les ordres d'Eliçour, fils de Shedéour,
+10,19	l'armée de la tribu des fils de Siméon, sous les ordres de Sheloumiël, fils de Çourishaddaï,
+10,20	l'armée de la tribu des fils de Gad, sous les ordres d'Elyasaf, fils de Déouël.
+10,21	Ensuite partirent les Qehatites portant le sanctuaire ; les autres dressaient la demeure avant qu'ils arrivent.
+10,22	Ensuite partit le groupe du camp des fils d'Éphraïm avec ses armées. L'armée des fils d'Éphraïm était sous les ordres d'Elishama, fils de Ammihoud,
+10,23	l'armée de la tribu des fils de Manassé, sous les ordres de Gameliël, fils de Pedahçour,
+10,24	l'armée de la tribu des fils de Benjamin, sous les ordres d'Avidân, fils de Guidéoni.
+10,25	Enfin, partit en arrière-garde de tous les camps, le groupe du camp des fils de Dan, avec ses armées. L'armée des fils de Dan était sous les ordres d'Ahiézer, fils de Ammishaddaï,
+10,26	l'armée de la tribu des fils d'Asher, sous les ordres de Paguiël, fils de Okrân,
+10,27	l'armée de la tribu des fils de Nephtali, sous les ordres d'Ahira, fils de Einân.
+10,28	C'est dans cet ordre que partirent les fils d'Israël avec leurs armées. Ils partirent…
+10,29	« Moïse dit à Hobab, fils de Réouël le Madianite, son beau-père : » Nous partons pour la contrée dont le Seigneur a dit : « Je vous la donne » Viens avec nous. Nous te ferons profiter du bonheur que le Seigneur a promis à Israël.. »
+10,30	Hobab lui répondit :« Je n'irai pas ; c'est dans mon pays que je veux aller, dans ma parenté.. »
+10,31	Moïse reprit :« Ne nous abandonne pas ! Étant donné que tu connais les endroits où nous pouvons camper dans le désert, tu nous serviras de guide.
+10,32	Et si tu viens avec nous, lorsque nous arrivera ce bonheur que le Seigneur veut nous accorder, nous t'en ferons profiter.. »
+10,33	Ils partirent de la montagne du Seigneur pour une marche de trois jours. L'arche de l'alliance du Seigneur était partie devant eux pour cette marche de trois jours afin de reconnaître l'endroit où ils pourraient camper.
+10,34	La nuée du Seigneur les couvrait pendant le jour, au moment où ils quittaient le campement.
+10,35	Quand l'arche partait, Moïse disait : « Lève-toi, Seigneur ! Tes ennemis se disperseront, tes adversaires s'enfuiront devant toi !. »
+10,36	Et quand elle faisait halte, il disait : « Reviens, Seigneur !… Innombrables sont les milliers d'Israël !. »
+11,1	Un jour le peuple se livra à des lamentations, ce que le Seigneur entendit avec déplaisir. En les entendant le Seigneur s'enflamma de colère. Le feu du Seigneur ravagea le peuple et dévora un bout du camp.
+11,2	Le peuple lança des cris vers Moïse qui intercéda auprès du Seigneur ; et le feu se calma.
+11,3	On donna à cet endroit le nom de Taveéra parce que le feu du Seigneur avait ravagé les fils d'Israël.
+11,4	Il y avait parmi eux un ramassis de gens qui furent saisis de convoitise ; et les fils d'Israël eux-mêmes recommencèrent à pleurer : « Qui nous donnera de la viande à manger. ?
+11,5	Nous nous rappelons le poisson que nous mangions pour rien en Égypte, les concombres, les pastèques, les poireaux, les oignons, l'ail !
+11,6	Tandis que maintenant notre vie s'étiole ; plus rien de tout cela ! Nous ne voyons plus que la manne.. »
+11,7	La manne ressemblait à la graine de coriandre ; son aspect était celui du bdellium.
+11,8	Le peuple se dispersait pour la ramasser ; ensuite on l'écrasait à la meule ou on la pilait dans un mortier ; on la faisait cuire dans des marmites et on en faisait des galettes. Elle avait le goût de gâteau à l'huile.
+11,9	Lorsque la rosée se déposait sur le camp pendant la nuit, la manne s'y déposait aussi.
+11,10	Moïse entendit le peuple qui pleurait, groupé par clans, chacun à l'entrée de sa tente. Le Seigneur s'enflamma d'une vive colère et Moïse prit mal la chose.
+11,11	« Pourquoi, dit-il au Seigneur, veux-tu du mal à ton serviteur. ? Pourquoi suis-je en disgrâce devant toi au point que tu m'imposes le fardeau de tout ce peuple. ?
+11,12	« Est-ce moi qui ai conçu tout ce peuple. ? moi qui l'ai mis au monde. ? pour que tu me dises : “Porte-le sur ton cœur comme une nourrice porte un petit enfant”, et cela jusqu'au pays que tu as promis à ses pères. ? »
+11,13	« Où trouverais-je de la viande pour en donner à tout ce peuple qui me poursuit de ses pleurs et me dit : “Donne-nous de la viande à manger” ? »
+11,14	Je ne puis plus, à moi seul, porter tout ce peuple ; il est trop lourd pour moi.
+11,15	Si c'est ainsi que tu me traites, fais-moi plutôt mourir-si du moins j'ai trouvé grâce à tes yeux ! Que je n'aie plus à subir mon triste sort !. »
+11,16	Le Seigneur dit à Moïse : « Rassemble-moi soixante-dix des anciens d'Israël, des hommes dont tu sais qu'ils sont des anciens et des scribes du peuple. Tu les amèneras à la tente de la rencontre ; ils s'y présenteront avec toi.
+11,17	J'y descendrai et je te parlerai ; je prélèverai un peu de l'esprit qui est en toi pour le mettre en eux ; ils porteront alors avec toi le fardeau du peuple et tu ne seras plus seul à le porter.
+11,18	Et au peuple tu diras : » Sanctifiez-vous pour demain et soyez en état de manger de la viande. Car vous avez fait entendre cette plainte au Seigneur : Qui nous donnera de la viande à manger ? Nous étions si bien en Egypte ! Le Seigneur va donc vous donner de la viande, vous allez en manger ;
+11,19	et vous n'en mangerez pas seulement un jour ou deux, ni même cinq, dix ou vingt,
+11,20	mais tout un mois, jusqu'à ce qu'elle vous sorte par les narines, jusqu'à ce que vous en ayez la nausée. Tout cela parce que vous avez rejeté le Seigneur qui est au milieu de vous et parce que vous avez présenté cette plainte : Pourquoi donc sommes-nous sortis d'Egypte ? »
+11,21	« Moïse reprit : » Il compte six cent milliers de fantassins, ce peuple au milieu duquel je me trouve ; et tu dis : « Je vais leur donner de la viande et ils auront à manger pendant tout un mois » !”
+11,22	Quand même on abattrait pour eux petit et gros bétail, cela leur suffirait-il. ? Tous les poissons de la mer, si on pouvait les pêcher pour eux, leur suffiraient-ils. ?. »
+11,23	Le Seigneur dit à Moïse :« Le bras du Seigneur serait-il si court. ? Tu vas voir maintenant si ma parole se réalise ou non pour toi.. »
+11,24	Moïse sortit de la tente et rapporta au peuple les paroles du Seigneur ; il rassembla soixante-dix des anciens du peuple qu'il plaça autour de la tente.
+11,25	Le Seigneur descendit dans la nuée et lui parla ; il préleva un peu de l'esprit qui était en Moïse pour le donner aux soixante-dix anciens. Dès que l'esprit se posa sur eux, ils se mirent à prophétiser, mais ils ne continuèrent pas.
+11,26	Deux hommes étaient restés dans le camp ; ils s'appelaient l'un Eldad, l'autre Médad ; l'esprit se posa sur eux-ils étaient en effet sur la liste, mais ils n'étaient pas sortis pour aller à la tente-et ils prophétisèrent dans le camp.
+11,27	Un garçon courut avertir Moïse : « Eldad et Médad sont en train de prophétiser dans le camp !. »
+11,28	Josué fils de Noun, qui était l'auxiliaire de Moïse depuis sa jeunesse, intervint : « Moïse, mon Seigneur, arrête-les !. »
+11,29	Moïse répliqua : « Serais-tu jaloux pour moi. ? Si seulement tout le peuple du Seigneur devenait un peuple de prophètes sur qui le Seigneur aurait mis son esprit !. »
+11,30	Moïse se retira dans le camp ainsi que les anciens d'Israël.
+11,31	Un vent envoyé par le Seigneur se leva ; de la mer, il amena des cailles qu'il abattit sur le camp et tout autour, sur une distance d'un jour de marche de chaque côté du camp ; elles couvraient le sol sur deux coudées d'épaisseur.
+11,32	Le peuple fut debout tout ce jour-là, toute la nuit et tout le lendemain pour ramasser les cailles. Celui qui en ramassa le moins en eut dix homers. Ils les étalèrent partout tout autour du camp.
+11,33	La viande était encore entre leurs dents, ils n'avaient pas fini de la mâcher, que le Seigneur s'enflamma de colère contre le peuple et lui porta un coup très fort.
+11,34	On donna à cet endroit le nom de Qivroth-Taawa-Tombes de la Convoitise ; car c'est là qu'on enterra la foule de ceux qui avaient été saisis de convoitise.
+11,35	De Qivroth-Taawa, le peuple partit pour Hacéroth. Ils étaient à Hacéroth
+12,1	quand Miryam-et de même Aaron-critiqua Moïse à cause de la femme nubienne qu'il avait épousée ; car il avait épousé une Nubienne.
+12,2	Ils dirent : « Est-ce donc à Moïse seul que le Seigneur a parlé. ? Ne nous a-t-il pas parlé à nous aussi. ?. » Et le Seigneur l'entendit.
+12,3	Moïse était un homme très humble, plus qu'aucun homme sur terre.
+12,4	Soudain, le Seigneur dit à Moïse, Aaron et Miryam : « Allez tous les trois à la tente de la rencontre.. » Ils y allèrent tous les trois.
+12,5	Le Seigneur descendit dans une colonne de nuée et se tint à l'entrée de la tente ; il appela Aaron et Miryam et tous deux s'avancèrent.
+12,6	Il dit : « Écoutez donc mes paroles : S'il y a parmi vous un prophète, c'est par une vision que moi, le Seigneur, je me fais connaître à lui, c'est dans un songe que je lui parle.
+12,7	Il n'en va pas de même pour mon serviteur Moïse, lui qui est mon homme de confiance pour toute ma maison :
+12,8	je lui parle de vive voix-en me faisant voir-et non en langage caché ; il voit la forme du Seigneur. Comment donc osez-vous critiquer mon serviteur Moïse. ?. »
+12,9	Le Seigneur s'enflamma de colère contre eux et s'en alla.
+12,10	La nuée se retira de dessus la tente et voilà que Miryam avait la lèpre : elle était blanche comme la neige. Aaron se tourna vers elle et vit qu'elle avait la lèpre.
+12,11	Il dit à Moïse : « Oh ! mon Seigneur, je t'en prie, ne fais pas retomber sur nous le péché que nous avons commis, insensés et pécheurs que nous sommes !
+12,12	Oh ! que Miryam ne devienne pas comme l'enfant mort-né dont la chair est à moitié rongée lorsqu'il sort du sein de sa mère !. »
+12,13	Moïse cria vers le Seigneur : « O Dieu, daigne la guérir !. »
+12,14	Et le Seigneur dit à Moïse : « Si son père lui avait craché au visage, ne serait-elle pas couverte de honte pendant sept jours. ? Qu'elle soit donc exclue du camp pendant sept jours ; après quoi elle reprendra sa place.. »
+12,15	On exclut donc Miryam du camp pendant sept jours et le peuple ne partit pas avant qu'elle eût repris sa place.
+12,16	Après quoi, le peuple partit de Hacéroth ; et ils campèrent dans le désert de Parân.
+13,1	Le Seigneur parla à Moïse :
+13,2	« Envoie des hommes pour explorer le pays de Canaan que je donne aux fils d'Israël ; vous enverrez un homme par tribu, chacun pour la tribu de ses pères ; ils seront tous pris parmi les responsables des fils d'Israël.. »
+13,3	Depuis le désert de Parân, Moïse les envoya donc sur l'ordre du Seigneur ; tous ces hommes étaient des chefs des fils d'Israël.
+13,4	Voici leurs noms : pour la tribu de Ruben, Shammoua, fils de Zakkour ;
+13,5	pour la tribu de Siméon, Shafath, fils de Hori ;
+13,6	pour la tribu de Juda, Caleb, fils de Yefounnè ;
+13,7	pour la tribu d'Issakar, Yiguéal, fils de Joseph ;
+13,8	pour la tribu d'Éphraïm, Hoshéa, fils de Noun ;
+13,9	pour la tribu de Benjamin, Palti, fils de Rafou ;
+13,10	pour la tribu de Zabulon, Gaddiël, fils de Sodi ;
+13,11	pour la tribu de Joseph-tribu de Manassé-Gaddi, fils de Soussi ;
+13,12	pour la tribu de Dan, Ammiël, fils de Guemalli ;
+13,13	pour la tribu d'Asher, Setour, fils de Mikaël ;
+13,14	pour la tribu de Nephtali, Nahbi, fils de Wofsi ;
+13,15	pour la tribu de Gad, Guéouël, fils de Maki.
+13,16	Tels étaient les noms des hommes que Moïse envoya pour explorer le pays ; à Hoshéa, fils de Noun, Moïse donna le nom de Josué.
+13,17	Moïse les envoya explorer le pays de Canaan. « Montez-y par le Néguev, leur dit-il ; vous gravirez la montagne
+13,18	et vous verrez comment est le pays et si le peuple qui l'habite est fort ou faible, si la population est rare ou nombreuse.
+13,19	Vous verrez si le pays habité par ce peuple est bon ou mauvais et si les villes qu'il habite sont des camps ou des forteresses.
+13,20	Vous verrez si le pays est fertile ou pauvre, boisé ou non. Soyez assez hardis pour prendre des fruits du pays.. » -C'était en effet la saison des premiers raisins. -
+13,21	Ils montèrent et explorèrent le pays depuis le désert de Cîn jusqu'à Rehov près de Lebo-Hamath.
+13,22	Ils montèrent par le Néguev et arrivèrent jusqu'à Hébron où vivaient Ahimân, Shéshaï et Talmaï, descendants des Anaqites-Hébron avait été bâtie sept ans avant Tanis en Égypte.
+13,23	Ils arrivèrent jusqu'à la vallée d'Eshkol où ils coupèrent une branche de vigne avec une grappe de raisin qu'ils portèrent à deux au moyen d'une perche. Ils prirent aussi des grenades et des figues.
+13,24	On appela cet endroit vallée d'Eshkol-vallée de la Grappe-à cause de la grappe que les fils d'Israël y cueillirent.
+13,25	Ils revinrent de leur exploration du pays au bout de quarante jours.
+13,26	Ils vinrent trouver Moïse, Aaron et toute la communauté des fils d'Israël dans le désert de Parân, à Qadesh. Ils leur rendirent compte ainsi qu'à toute la communauté et leur montrèrent les fruits du pays.
+13,27	Ils firent ce récit à Moïse : « Nous sommes allés dans le pays où tu nous as envoyés et vraiment c'est un pays ruisselant de lait et de miel ; en voici les fruits !
+13,28	Cependant le peuple qui l'habite est puissant, les villes sont d'immenses forteresses et nous y avons même vu les descendants des Anaqites.
+13,29	Amaleq habite la région du Néguev ; les Hittites, les Jébusites et les Amorites habitent la montagne et les Cananéens habitent près de la mer et le long du Jourdain.. »
+13,30	Caleb fit taire le peuple qui s'opposait à Moïse : « Allons-y ! dit-il, montons et emparons-nous du pays ; nous arriverons certainement à le soumettre.. »
+13,31	Mais les hommes qui étaient montés avec lui dirent : « Nous ne pouvons attaquer ce peuple, car il est plus fort que nous.. »
+13,32	Et ils se mirent à décrier devant les fils d'Israël le pays qu'ils avaient exploré : « Le pays que nous avons parcouru pour l'explorer, disaient-ils, est un pays qui dévore ses habitants et tous les gens que nous y avons vus étaient des hommes de grande taille.
+13,33	Et nous y avons vu ces géants, les fils de Anaq, de la race des géants ; nous nous voyions comme des sauterelles et c'est bien ainsi qu'eux-mêmes nous voyaient.. »
+14,1	Toute la communauté fit chorus et poussa des cris ; et le peuple passa la nuit à pleurer.
+14,2	Tous les fils d'Israël protestèrent contre Moïse et Aaron ; la communauté tout entière leur dit : « Ah ! si nous étions morts dans le pays d'Égypte ! Ou si du moins nous étions morts dans ce désert !
+14,3	Pourquoi le Seigneur nous mène-t-il dans ce pays où nous tomberons sous l'épée. ? Nos femmes et nos enfants seront capturés. Ne ferions-nous pas mieux de retourner en Égypte. ?. »
+14,4	Ils se dirent l'un à l'autre : « Nommons un chef et retournons en Égypte !. »
+14,5	Moïse et Aaron se jetèrent face contre terre devant toute la communauté des fils d'Israël assemblés.
+14,6	Josué, fils de Noun, et Caleb, fils de Yefounnè, qui avaient pris part à l'exploration du pays, déchirèrent leurs vêtements.
+14,7	Ils dirent à toute la communauté des fils d'Israël : « Ce pays que nous avons parcouru pour l'explorer, est un très, très beau pays !
+14,8	Si le Seigneur nous favorise, il nous mènera dans ce pays et nous le donnera, ce pays ruisselant de lait et de miel.
+14,9	Ne vous révoltez donc pas contre le Seigneur ; ne craignez pas les gens de ce pays ; nous n'en ferons qu'une bouchée ! L'ombre de leurs dieux s'est éloignée d'eux alors que le Seigneur est avec nous. Ne les craignez pas !. »
+14,10	Toute la communauté parlait de les lapider, quand la gloire du Seigneur apparut à tous les fils d'Israël sur la tente de la rencontre.
+14,11	Le Seigneur parla à Moïse : « Jusqu'à quand ce peuple me méprisera-t-il. ? Jusqu'à quand refusera-t-il de croire en moi, en dépit de tous les signes que j'ai opérés au milieu d'eux. ?
+14,12	Je vais le frapper de la peste et le priver de son héritage ; et de toi je ferai un peuple plus grand et plus puissant que lui.. »
+14,13	Moïse dit au Seigneur : « Les Égyptiens ont appris que c'est ta puissance qui a fait monter ce peuple de chez eux,
+14,14	et ils l'ont dit aux habitants de ce pays ; ceux-ci ont appris que toi, le Seigneur, tu es au milieu de ce peuple ; que c'est toi, le Seigneur, qui te montres à eux les yeux dans les yeux ; ta nuée se tient au-dessus d'eux ; toi-même, tu les précèdes le jour dans une colonne de nuée, la nuit dans une colonne de feu.
+14,15	Et tu ferais mourir ce peuple comme un seul homme ! Alors les peuples qui ont appris ta renommée diraient :
+14,16	Le Seigneur n'était pas capable de faire entrer ce peuple dans le pays qu'il leur avait promis ; voilà pourquoi il les a massacrés dans le désert.
+14,17	Dès lors, que la puissance de mon Seigneur se déploie ! Puisque tu as parlé en ces termes :
+14,18	Je suis le Seigneur, lent à la colère et plein de bonté fidèle, qui supporte la faute et la révolte, mais sans rien laisser passer, et qui poursuis la faute des pères chez les fils sur trois et quatre générations,
+14,19	pardonne donc la faute de ce peuple autant que le commande la grandeur de ton amour et comme tu as supporté ce peuple depuis l'Égypte jusqu'ici.. »
+14,20	Le Seigneur répondit : « Je pardonne comme tu le demandes.
+14,21	Cependant, aussi vrai que je suis vivant, aussi vrai que la gloire du Seigneur remplit toute la terre,
+14,22	aucun de ces hommes qui ont vu ma gloire et les signes que j'ai opérés en Égypte et dans le désert et qui m'ont mis à l'épreuve dix fois déjà, en ne m'écoutant pas,
+14,23	aucun d'eux, je le jure, ne verra le pays que j'ai promis à leurs pères ; aucun de ceux qui m'ont méprisé ne le verra.
+14,24	Mais mon serviteur Caleb, parce qu'un autre esprit l'anime et qu'il m'a suivi sans hésitation, je le mènerai dans le pays où il est allé : ses descendants en prendront possession,
+14,25	tandis que les Amalécites et les Cananéens demeureront dans la plaine. Dès demain, tournez-vous pour repartir vers le désert, en direction de la mer des Joncs.. »
+14,26	Le Seigneur parla à Moïse et Aaron :
+14,27	« Jusqu'à quand aurai-je affaire à cette détestable communauté qui ne cesse de protester contre moi. ? J'ai bien entendu les protestations que les fils d'Israël ne cessent de proférer contre moi.
+14,28	« Dis-leur donc : “Je le jure, aussi vrai que je suis vivant-oracle du Seigneur-je vais vous traiter d'après ce que je vous ai entendus dire.”
+14,29	C'est dans ce désert que tomberont vos cadavres, vous tous qui avez été recensés à partir de l'âge de vingt ans, vous tous tant que vous êtes, vous qui avez protesté contre moi !
+14,30	Je le jure, vous n'entrerez pas dans le pays où j'avais fait le serment de vous installer ! excepté Caleb, fils de Yefounnè, et Josué, fils de Noun.
+14,31	Quant à vos enfants dont vous disiez qu'ils seraient capturés, je les y mènerai ; ils connaîtront le pays dont vous n'avez pas voulu.
+14,32	Mais pour vous, vos cadavres tomberont dans ce désert.
+14,33	Vos fils seront bergers dans le désert pendant quarante ans ; ils porteront la peine de vos infidélités jusqu'à ce que vos cadavres soient tous étendus dans ce désert.
+14,34	“Comme votre exploration du pays a duré quarante jours, ainsi, à raison d'une année pour un jour, vous porterez pendant quarante ans la peine de vos fautes et vous saurez ce qu'il en coûte d'encourir ma réprobation.”
+14,35	Moi, le Seigneur, j'ai parlé, je le jure, c'est ainsi que j'agirai envers toute cette détestable communauté qui s'est liguée contre moi : ils finiront tous dans ce désert ; c'est là qu'ils mourront.. »
+14,36	Quant aux hommes que Moïse avait envoyés explorer le pays et qui à leur retour, en décriant le pays, avaient excité contre lui toute la communauté,
+14,37	ceux donc qui avaient eu la méchanceté de décrier le pays, ils moururent de mort brutale devant le Seigneur.
+14,38	Josué, fils de Noun, et Caleb, fils de Yefounnè, furent les seuls survivants de ceux qui étaient allés explorer le pays.
+14,39	Moïse rapporta ces paroles à tous les fils d'Israël et le peuple mena grand deuil.
+14,40	Le lendemain, de bon matin, ils montèrent vers les hauteurs des montagnes : « Nous voici, dirent-ils, nous allons monter vers le lieu que le Seigneur a désigné ; c'est vrai, nous avons péché.. » -
+14,41	« Que faites-vous là. ? dit Moïse. Vous enfreignez l'ordre du Seigneur ! Cela ne réussira pas.
+14,42	Ne montez pas, car le Seigneur n'est pas au milieu de vous ; n'allez pas vous faire battre par vos ennemis.
+14,43	Les Amalécites et les Cananéens sont là devant vous, et vous tomberez sous leurs épées ; puisque vous avez cessé de le suivre, le Seigneur ne sera pas avec vous.. »
+14,44	Mais ils se firent fort de monter vers les hauteurs des montagnes, alors que ni l'arche de l'alliance du Seigneur ni Moïse ne bougeaient du camp.
+14,45	Les Amalécites et les Cananéens qui habitaient ces montagnes descendirent, les battirent et les écrasèrent jusqu'à Horma.
+15,1	Le Seigneur dit à Moïse :
+15,2	« Parle aux fils d'Israël, dis-leur : Quand vous serez entrés dans le pays où vous aurez vos demeures, le pays que je vais vous donner,
+15,3	lorsque vous offrirez des mets au Seigneur, un holocauste ou un sacrifice de gros ou de petit bétail - soit pour accomplir un vœu, soit comme sacrifice spontané, soit à l'occasion de vos solennités - lors donc que vous offrirez au Seigneur des mets à l'odeur apaisante,
+15,4	celui qui apporte ce présent au Seigneur présentera une offrande d'un dixième de farine pétrie avec un quart de hîn d'huile ;
+15,5	et comme vin pour la libation, tu offriras un quart de hîn avec l'holocauste ou le sacrifice s'il s'agit d'un agneau.
+15,6	S'il s'agit d'un bélier, tu feras une offrande de deux dixièmes de farine pétrie avec un tiers de hîn d'huile,
+15,7	et un tiers de hîn de vin pour la libation ; tu présenteras au Seigneur ces mets à l'odeur apaisante.
+15,8	Si tu offres au Seigneur un taureau en holocauste ou en sacrifice-pour accomplir un voue ou comme sacrifice de paix-
+15,9	on présentera avec le taureau une offrande de trois dixièmes de farine pétrie avec un demi-hîn d'huile ;
+15,10	et comme vin pour la libation, tu présenteras un demi-hîn. Ce seront pour le Seigneur des mets à l'odeur apaisante.
+15,11	Ainsi fera-t-on pour un taureau, pour un bélier, pour un agneau ou une chèvre.
+15,12	Quel que soit le nombre de bêtes que vous offrirez, vous ferez ainsi pour chacune, quel que soit leur nombre.
+15,13	C'est ainsi que tout indigène offrira ses sacrifices, quand il présentera au Seigneur des mets à l'odeur apaisante.
+15,14	Quand un émigré résidera chez vous ou sera au milieu de vous depuis plusieurs générations, s'il offre au Seigneur des mets à l'odeur apaisante, il fera comme vous faites.
+15,15	En tant qu'assemblée, vous aurez un seul rituel pour vous et pour l'émigré qui réside chez vous ; ce sera un rituel immuable devant le Seigneur, pour vous comme pour l'émigré, dans tous les âges.
+15,16	Il y aura une seule loi, une seule règle pour vous et pour l'émigré qui réside chez vous.. »
+15,17	Le Seigneur dit à Moïse :
+15,18	« Parle aux fils d'Israël et dis-leur : Une fois entrés dans le pays où je vais vous mener,
+15,19	quand vous mangerez du pain du pays, vous prélèverez une redevance pour le Seigneur.
+15,20	Comme prémices de vos fournées, vous prélèverez un gâteau à titre de redevance ; vous ferez ce prélèvement comme on fait le prélèvement sur la récolte.
+15,21	Des prémices de vos fournées, vous donnerez une redevance au Seigneur ; et ainsi dans tous les âges.. »
+15,22	Quand, par mégarde, vous aurez manqué à l'un de ces commandements que le Seigneur a dictés à Moïse-
+15,23	tous ceux que le Seigneur vous a prescrits par l'intermédiaire de Moïse-depuis le jour où le Seigneur les a prescrits et par la suite, de génération en génération,
+15,24	et si cette faute involontaire a été commise à l'insu de la communauté, la communauté entière offrira au Seigneur un taureau en holocauste à l'odeur apaisante, avec l'offrande et la libation requises selon la coutume, ainsi qu'un bouc en sacrifice pour le péché.
+15,25	Le prêtre fera le rite d'absolution pour toute la communauté des fils d'Israël et le pardon leur sera accordé. Car c'est une faute involontaire et ils ont apporté leur présent, des mets pour le Seigneur, ainsi que leur sacrifice pour leur faute involontaire.
+15,26	Le pardon sera accordé à toute la communauté des fils d'Israël ainsi qu'à l'émigré qui réside chez eux ; car c'est tout le peuple qui est impliqué dans cette faute involontaire.
+15,27	Si c'est une seule personne qui commet une faute involontaire, elle présentera en sacrifice pour le péché une chèvre d'un an.
+15,28	Le prêtre fera devant le Seigneur le rite d'absolution de la faute involontaire pour cette personne qui l'a commise par mégarde ; il fera pour elle le rite d'absolution et le pardon lui sera accordé,
+15,29	que ce soit un fils d'Israël, un indigène ou un émigré qui réside chez eux ; vous aurez une loi unique pour celui qui commet une faute par mégarde.
+15,30	Mais la personne qui agit délibérément, indigène ou émigrée, celle-là fait injure au Seigneur ; cette personne sera retranchée de son peuple.
+15,31	Puisqu'elle a méprisé la parole du Seigneur et violé ses commandements, il faut que cette personne soit retranchée : sa faute lui reste imputée.
+15,32	Tandis que les fils d'Israël étaient dans le désert, on surprit un homme à ramasser du bois le jour du sabbat.
+15,33	Ceux qui l'avaient surpris à ramasser du bois l'amenèrent devant Moïse, Aaron et toute la communauté.
+15,34	On le laissa sous bonne garde, car on n'avait pas encore statué sur la peine qui lui serait infligée.
+15,35	Alors le Seigneur dit à Moïse : « Cet homme sera mis à mort ; toute la communauté le lapidera, en dehors du camp.. »
+15,36	Toute la communauté l'emmena hors du camp ; on le lapida et il mourut. C'est ce que le Seigneur avait ordonné à Moïse.
+15,37	Le Seigneur dit à Moïse :
+15,38	« Parle aux fils d'Israël, dis-leur de se faire une frange sur les bords de leurs vêtements-ceci pour les générations à venir-et de mettre un fil pourpre dans la frange qui borde le vêtement.
+15,39	Il vous servira à former la frange ; en le voyant vous vous souviendrez de tous les commandements du Seigneur, vous les accomplirez et vous ne vous laisserez pas entraîner par vos cœurs et par vos yeux qui vous mèneraient à l'infidélité.
+15,40	Ainsi vous penserez à accomplir tous mes commandements et vous serez saints pour votre Dieu.
+15,41	Je suis le Seigneur votre Dieu qui vous ai fait sortir du pays d'Égypte pour être votre Dieu. Je suis le Seigneur votre Dieu.. »
+16,1	Coré, fils de Yicehar, fils de Qehath, fils de Lévi, entraîna Datân et Abiram, fils d'Eliav, et One, fils de Pèleth, descendants de Ruben.
+16,2	Ils s'élevèrent contre Moïse avec deux cent cinquante des fils d'Israël ; c'étaient des responsables de la communauté, des délégués de l'assemblée, des gens de renom.
+16,3	Ils s'ameutèrent contre Moïse et Aaron : « En voilà assez ! leur dirent-ils. Tous les membres de la communauté sont saints et le Seigneur est au milieu d'eux ; de quel droit vous élevez-vous au-dessus de l'assemblée du Seigneur. ?. »
+16,4	Moïse, en entendant ces propos, se jeta face contre terre.
+16,5	Puis il dit à Coré et à toute sa bande : « Demain matin, le Seigneur fera connaître qui est à lui, qui est saint et qui est admis à l'approcher ; et celui qu'il aura choisi, il l'admettra à l'approcher.
+16,6	Faites donc ceci : procurez-vous des cassolettes, vous, Coré et toute sa bande,
+16,7	et demain vous y mettrez du feu ; vous mettrez l'encens par-dessus en présence du Seigneur. Et l'homme que choisira le Seigneur, c'est celui-là qui est saint. En voilà assez, fils de Lévi !. »
+16,8	Moïse dit encore à Coré : « Écoutez donc, fils de Lévi !
+16,9	Est-ce trop peu pour vous que le Dieu d'Israël vous ait mis à part de la communauté d'Israël pour vous admettre à l'approcher, pour assurer les travaux de la demeure du Seigneur et pour représenter la communauté quand vous officiez pour tous. ?
+16,10	Il vous a admis à l'approcher, toi et tous tes frères lévites. Et vous réclamez encore le sacerdoce !
+16,11	C'est pour cela que toi et toute ta bande vous vous liguez contre le Seigneur ! Et Aaron, qu'est-il donc pour que vous protestiez contre lui. ?. »
+16,12	Moïse fit appeler Datân et Abiram, les fils d'Eliav, qui déclarèrent : « Nous ne monterons pas dans le pays.
+16,13	Cela ne te suffit-il pas de nous avoir fait monter d'un pays ruisselant de lait et de miel pour nous faire mourir dans le désert. ? Il faut encore que tu prétendes nous commander. ?
+16,14	Non vraiment, tu ne nous as pas menés dans un pays ruisselant de lait et de miel ! Tu ne nous as donné comme patrimoine ni champs ni vignes ! Prends-tu ces gens pour des aveugles. ? Nous ne monterons pas !. »
+16,15	Moïse fut pris d'une violente colère. Il dit au Seigneur : « N'aie pas égard à leur offrande. Je ne leur ai pas même pris un âne, je n'ai fait de tort à aucun d'entre eux.. »
+16,16	Moïse dit à Coré : « Toi et toute ta bande, soyez là demain devant le Seigneur, toi, eux et Aaron.
+16,17	Prenez chacun votre cassolette ; vous y mettrez de l'encens et chacun de vous présentera devant le Seigneur sa cassolette, en tout deux cent cinquante cassolettes ; de même Aaron et toi, chacun la sienne.. »
+16,18	Prenant chacun sa cassolette, ils y mirent du feu, mirent de l'encens par-dessus et se tinrent à l'entrée de la tente de la rencontre avec Moïse et Aaron.
+16,19	Coré rassembla auprès d'eux toute sa bande à l'entrée de la tente de la rencontre. Alors la gloire du Seigneur apparut à toute la communauté
+16,20	et le Seigneur dit à Moïse et Aaron :
+16,21	« Séparez-vous des gens de cette bande ; je vais les dévorer sur-le-champ.. »
+16,22	Ils se jetèrent face contre terre et dirent : « O Dieu, Dieu qui disposes du souffle de toute créature, un seul homme pèche et tu t'emportes contre la communauté tout entière !. »
+16,23	Le Seigneur parla à Moïse :
+16,24	« Dis à la communauté de s'éloigner des abords de la demeure de Coré, Datân et Abiram.. »
+16,25	Moïse se leva pour aller trouver Datân et Abiram ; les anciens d'Israël le suivirent.
+16,26	Il adressa la parole à la communauté : « Écartez-vous donc des tentes de ces méchants, ne touchez à rien de ce qui leur appartient, de peur de périr vous aussi à cause de tous leurs péchés !. »
+16,27	Ils s'éloignèrent donc des abords de la demeure de Coré, Datân et Abiram ; Datân et Abiram étaient sortis et se tenaient à l'entrée de leurs tentes avec leurs femmes, leurs fils et leurs petits-enfants.
+16,28	Moïse déclara : « A ceci vous reconnaîtrez que c'est le Seigneur qui m'a envoyé accomplir tous ces actes et que je n'ai pas agi de mon propre chef :
+16,29	si ces gens-là meurent de la mort de tout le monde, s'ils subissent le sort de tout le monde, ce n'est pas le Seigneur qui m'a envoyé.
+16,30	Mais si le Seigneur crée de l'extraordinaire, si la terre, ouvrant sa gueule, les engloutit avec tout ce qui leur appartient, s'ils descendent vivants au séjour des morts, vous saurez que ces gens avaient méprisé le Seigneur. »
+16,31	Comme il achevait de prononcer toutes ces paroles, la terre se fendit sous leurs pieds.
+16,32	Ouvrant sa gueule, elle les engloutit avec leurs familles-ainsi que tous les gens de Coré et tous leurs biens.
+16,33	Avec tout ce qui leur appartenait, ils descendirent vivants au séjour des morts et la terre les recouvrit. Ils disparurent ainsi du sein de l'assemblée.
+16,34	Tous les gens d'Israël, autour d'eux, s'enfuirent à leurs cris, car ils se disaient : « Fuyons ! ou bien la terre va nous engloutir ! »
+16,35	Un feu que le Seigneur fit jaillir consuma les deux cent cinquante hommes qui présentaient l'encens.
+17,1	Le Seigneur parla à Moïse :
+17,2	« Dis au prêtre Eléazar, fils d'Aaron, d'enlever les cassolettes du milieu des flammes car elles sont sacrées, et de disperser au loin le feu.
+17,3	Les cassolettes de ces hommes qui ont payé de leur vie leur péché, qu'on en fasse des plaques martelées pour le revêtement de l'autel, car on les a présentées devant le Seigneur et elles sont sacrées. Elles serviront de signe aux fils d'Israël. »
+17,4	Le prêtre Eléazar prit les cassolettes de bronze qu'avaient présentées ceux qui furent brûlés et on les martela pour en faire le revêtement de l'autel.
+17,5	C'est un rappel pour les fils d'Israël afin que le profane - c'est-à-dire l'homme qui n'appartient pas à la descendance d'Aaron - ne s'approche pas pour faire fumer l'encens devant le Seigneur : cela, pour qu'il n'ait pas à subir le sort de Coré et de sa bande, sorte que le Seigneur lui avait prédit par l'intermédiaire de Moïse.
+17,6	Le lendemain, toute la communauté des fils d'Israël protesta contre Moïse et Aaron : « Vous avez fait mourir le peuple du Seigneur !. »
+17,7	Or, tandis que la communauté s'ameutait contre eux, Moïse et Aaron se tournèrent vers la tente de la rencontre. Et voici que la nuée la couvrait : la gloire du Seigneur apparut.
+17,8	Moïse et Aaron se rendirent devant la tente de la rencontre.
+17,9	Le Seigneur parla à Moïse :
+17,10	« Retirez-vous du milieu de cette communauté, je vais les anéantir en un instant !. » Ils se jetèrent face contre terre
+17,11	et Moïse dit à Aaron : « Prends ta cassolette, mets-y du feu de l'autel, mets-y de l'encens et va vite vers la communauté ; fais pour elle le rite d'absolution car le Seigneur a déchaîné sa colère : le fléau a déjà commencé.. »
+17,12	Aaron prit la cassolette comme Moïse l'avait dit, il courut au milieu de l'assemblée et, en effet, le fléau avait déjà commencé au sein du peuple. Il mit l'encens et fit le rite d'absolution pour le peuple.
+17,13	Il se tint entre les morts et les vivants, et le fléau cessa.
+17,14	Les victimes du fléau furent au nombre de quatorze mille sept cents, sans compter ceux qui étaient morts lors de l'affaire de Coré.
+17,15	Aaron retourna auprès de Moïse à l'entrée de la tente de la rencontre ; le fléau avait cessé.
+17,16	Le Seigneur dit à Moïse :
+17,17	« Parle aux fils d'Israël et fais-toi remettre par eux un bâton par tribu, soit douze bâtons, remis par tous leurs responsables de tribus. Tu écriras le nom de chacun d'eux sur son bâton.
+17,18	Sur le bâton de Lévi, tu écriras le nom d'Aaron car il y aura un seul bâton par chef de tribu.
+17,19	Tu déposeras les bâtons dans la tente de la rencontre-devant la charte-là où je vous rencontre.
+17,20	L'homme dont le bâton bourgeonnera, c'est lui que j'ai choisi : ainsi j'éloignerai de moi les protestations que les fils d'Israël profèrent contre vous.. »
+17,21	Moïse parla aux fils d'Israël et leurs chefs lui remirent chacun un bâton, un bâton par chef de tribu, soit douze bâtons ; le bâton d'Aaron était au milieu des autres.
+17,22	Moïse déposa les bâtons devant le Seigneur dans la tente de la charte.
+17,23	Le lendemain, Moïse entra dans la tente de la charte et vit que le bâton d'Aaron, de la maison de Lévi, avait bourgeonné : il avait fait surgir un bourgeon, éclore une fleur et mûrir des amandes.
+17,24	Moïse sortit tous les bâtons de devant le Seigneur pour les montrer à tous les fils d'Israël ; ils les virent et chacun reprit son bâton.
+17,25	Le Seigneur dit à Moïse : « Remets le bâton d'Aaron devant la charte et garde-le comme signe pour les insoumis. Tu éloigneras ainsi de moi leurs protestations et ils ne seront pas frappés de mort.. »
+17,26	Ainsi fit Moïse ; il fit ce que le Seigneur lui avait ordonné.
+17,27	Les fils d'Israël dirent à Moïse : « Vois ! Nous expirons, nous périssons, nous périssons tous !
+17,28	Quiconque s'approche-quiconque s'approche de la demeure du Seigneur-est frappé de mort ; allons-nous donc expirer jusqu'au dernier. ?. »
+18,1	Le Seigneur dit à Aaron : « C'est toi, tes fils et ta famille qui répondrez des fautes commises à l'égard du sanctuaire, et c'est toi et tes fils qui répondrez des fautes commises dans l'exercice de votre sacerdoce.
+18,2	Tu laisseras aussi tes frères de la tribu de Lévi, la tribu de ton père, s'approcher avec toi du sanctuaire ; ils seront tes adjoints, ils te seconderont ; mais c'est toi et tes fils qui vous tiendrez devant la tente de la charte.
+18,3	Ils seront à ton service et au service de la tente tout entière, sans toutefois s'approcher des accessoires du sanctuaire, ni de l'autel pour n'exposer personne à la mort, ni eux ni vous.
+18,4	Ils seront tes adjoints, ils assureront le service de la tente de la rencontre, tous les travaux de la tente ; aucun profane ne se joindra à vous.
+18,5	C'est vous qui assurerez le service du sanctuaire et celui de l'autel ; ainsi les fils d'Israël ne seront plus exposés à un déchaînement de colère.
+18,6	Tu le vois, je prends moi-même parmi les fils d'Israël vos frères les lévites, je vous en fais don : ils sont donnés au Seigneur pour assurer les services de la tente de la rencontre.
+18,7	Toi et tes fils, vous exercerez le sacerdoce pour tout ce qui concerne l'autel et ce qui est derrière le voile ; vous vous acquitterez de vos fonctions. Je vous donne le sacerdoce, c'est la fonction que je vous attribue. Le profane qui s'approcherait serait mis à mort.
+18,8	Le Seigneur dit à Aaron : » Tu le vois, je te confie moi-même le service des redevances qui me sont dues, de tout ce qui est consacré par les fils d'Israël. Je t'en accorde le privilège ainsi qu'à tes fils, en vertu d'une loi immuable.
+18,9	Voici ce qui te revient des offrandes très saintes qui ne sont pas brûlées : tous les présents, c'est-à-dire toutes les offrandes de farine, tous les sacrifices pour le péché et tous les sacrifices de réparation dont ils s'acquittent envers moi ; ces offrandes très saintes vous reviennent, à toi et à tes fils.
+18,10	Vous les mangerez dans le lieu très saint. Tous les hommes pourront en manger. Tu les tiendras pour sacrées.
+18,11	Et ceci encore te revient : les prélèvements faits sur les dons des fils d'Israël, sur tout ce qu'ils présentent ; je te les donne ainsi qu'à tes fils et à tes filles, en vertu d'une loi immuable. Tous ceux qui, dans ta maison, seront en état de pureté en mangeront.
+18,12	Le meilleur de l'huile fraîche, le meilleur du vin nouveau et du blé, les prémices qu'on offre au Seigneur, je te les donne.
+18,13	A toi aussi les primeurs qu'on apporte au Seigneur de tous les produits de leur pays. Tous ceux qui, dans ta maison, seront en état de pureté en mangeront.
+18,14	A toi encore, tout ce qui en Israël est voué à l'interdit.
+18,15	A toi enfin, tous les premiers-nés qu'on apporte au Seigneur, les premiers-nés de toute créature, de l'homme et des animaux. Toutefois tu feras racheter le premier-né de l'homme et tu feras racheter les premiers-nés des animaux impurs.
+18,16	Tu feras racheter à l'âge d'un mois ce qui doit être racheté, au prix que tu indiqueras, soit cinq sicles d'argent-en sicles du sanctuaire, à vingt guéras le sicle.
+18,17	Mais tu ne feras pas racheter le premier-né de la vache ni celui de la brebis, ni celui de la chèvre : ils sont sacrés. Tu répandras leur sang sur l'autel et tu feras fumer leur graisse comme mets à l'odeur apaisante pour le Seigneur.
+18,18	La viande te reviendra de même que te reviennent la poitrine offerte par présentation et la cuisse droite.
+18,19	Je vous donne, en vertu d'une loi perpétuelle, à toi, à tes fils et à tes filles, toues les redevances prélevées pour le Seigneur par les fils d'Israël sur les choses saintes. C'est là - pour toi et tes descendants - une alliance consacrée par le sel et immuable aux yeux du Seigneur. »
+18,20	Le Seigneur dit à Aaron :« Tu n'auras pas de patrimoine dans leur pays et tu n'auras pas ta part au milieu d'eux. C'est moi qui serai ta part et ton patrimoine au milieu des fils d'Israël.. »
+18,21	« Et voici pour les fils de Lévi : Je leur donne comme patrimoine toutes les dîmes qui seront perçues en Israël en échange des services qu'ils assurent, les services de la tente de la rencontre.
+18,22	Ainsi les fils d'Israël ne s'approcheront plus de la tente de la rencontre au risque de se charger d'un péché qui causerait leur mort.
+18,23	Ce sont les lévites qui assureront les services de la tente de la rencontre ; ils répondront de leurs fautes-ce sera pour vos descendants une loi immuable. Ils ne recevront pas de patrimoine au milieu des fils d'Israël ;
+18,24	mais je donne comme patrimoine aux lévites les dîmes que les fils d'Israël prélèveront en redevance pour le Seigneur. C'est pourquoi je leur ai dit qu'ils ne recevront pas de patrimoine parmi les fils d'Israël.. »
+18,25	Le Seigneur dit à Moïse :
+18,26	« Tu diras aux lévites : Lorsque vous percevrez de la part des fils d'Israël les dîmes que je vous donne en guise de patrimoine, vous prélèverez là-dessus, en redevance pour le Seigneur, une dîme sur les dîmes.
+18,27	Ce sera pour vous matière à redevance au même titre que, pour les autres, le froment ramassé sur l'aire et la coulée du pressoir.
+18,28	Ainsi vous prélèverez, vous aussi, la redevance du Seigneur sur toutes les dîmes que vous percevrez de la part des fils d'Israël. Là-dessus, vous donnerez au prêtre Aaron la redevance du Seigneur.
+18,29	Sur tout ce qui vous sera donné, vous prélèverez sans restriction la redevance du Seigneur ; sur les meilleures de toutes ces choses, vous prélèverez l'offrande sainte.
+18,30	« Tu leur diras encore : Lorsque vous prélèverez le meilleur de tout cela, cela équivaudra pour vous, lévites, au produit de l'aire et du pressoir.
+18,31	Vous les mangerez avec vos familles en n'importe quel lieu, car c'est là votre salaire en échange de vos services dans la tente de la rencontre.
+18,32	En tout cela, vous ne vous chargerez pas d'un péché dans la mesure où vous prélèverez le meilleur de ces choses ; vous ne profanerez pas les offrandes saintes des fils d'Israël et vous ne serez pas frappés de mort.. »
+19,1	Le Seigneur dit à Moïse et Aaron :
+19,2	« Voici les dispositions de la loi que le Seigneur a prescrites : Dis aux fils d'Israël de t'amener une vache rousse, sans tare ni défaut, une bête qui n'ait pas porté le joug.
+19,3	Vous la remettrez au prêtre Eléazar ; on la fera sortir hors du camp et on l'égorgera en sa présence.
+19,4	Le prêtre Eléazar prendra avec son doigt du sang de la vache et il en fera sept fois l'aspersion en direction de la façade de la tente de la rencontre.
+19,5	Puis on brûlera la vache sous ses yeux ; on en brûlera la peau, la chair et le sang, ainsi que la bouse.
+19,6	Le prêtre prendra du bois de cèdre, de l'hysope et du cramoisi éclatant et les jettera au milieu du brasier où se consume la vache.
+19,7	Ensuite, le prêtre lavera ses vêtements et baignera son corps dans l'eau ; après quoi, il rentrera au camp mais il restera en état d'impureté jusqu'au soir.
+19,8	Celui qui aura brûlé la vache lavera aussi ses vêtements dans l'eau, baignera son corps dans l'eau et restera en état d'impureté jusqu'au soir.
+19,9	Et c'est un homme en état de pureté qui recueillera les cendres de la vache et les déposera en dehors du camp dans un lieu pur. Elles serviront à la communauté des fils d'Israël de réserve pour l'eau lustrale. C'est un sacrifice pour le péché.
+19,10	Celui qui aura recueilli les cendres de la vache lavera aussi ses vêtements et restera en état d'impureté jusqu'au soir. Ce sera une loi immuable pour les fils d'Israël comme pour l'émigré qui réside chez eux.
+19,11	« Celui qui touche un mort-n'importe quelle dépouille mortelle-est impur pour sept jours.
+19,12	Il fera sa purification avec cette eau le troisième jour, et le septième jour il sera pur. Mais s'il ne fait pas sa purification le troisième jour, il ne sera pas pur le septième jour.
+19,13	Quiconque toucherait un mort - la dépouille d'un être humain qui vient de mourir - et ne ferait pas sa purification souillerait la demeure du Seigneur : cette personne sera retranchée d'Israël. Puisqu'elle n'a pas été aspergée d'eau lustrale, elle est impure ; elle conserve son état d'impureté.
+19,14	Voici la loi : lorsqu'un homme meurt dans une tente, quiconque entre dans la tente et quiconque se trouvait dans la tente est impur pour sept jours.
+19,15	Et tout récipient ouvert-dépourvu de fil d'attache-est impur.
+19,16	Quiconque dans les champs, bute sur un homme tué par l'épée ou sur un mort ou sur des ossements humains ou sur une tombe, est impur pour sept jours.
+19,17	Pour cet homme impur, on prendra de la cendre du brasier du sacrifice pour le péché et on la mettra dans un vase en y ajoutant de l'eau vive.
+19,18	Un homme en état de pureté prendra une branche d'hysope qu'il trempera dans cette eau et il fera l'aspersion de la tente et de tous les récipients, ainsi que des personnes qui s'y trouveront ou de l'homme qui aura touché les ossements, le tué, le mort ou la tombe.
+19,19	L'homme pur fera l'aspersion de l'homme impur le troisième et le septième jour ; le septième jour, il l'aura purifié de son péché. L'autre lavera alors ses vêtements, se baignera dans l'eau et, le soir, il sera pur.
+19,20	Mais l'homme qui s'est rendu impur et ne fait pas sa purification, un tel homme sera retranché du milieu de l'assemblée, car il souillerait le sanctuaire du Seigneur ; il n'a pas été aspergé d'eau lustrale, il est impur.
+19,21	Ce sera pour eux une loi immuable. Quant à celui qui fait l'aspersion d'eau lustrale, il lavera ses vêtements. Et celui qui aura touché l'eau lustrale sera impur jusqu'au soir.
+19,22	Tout ce que touchera l'homme impur sera impur et la personne qui y touchera sera impure jusqu'au soir.. »
+20,1	Toute la communauté des fils d'Israël arriva au désert de Cîn le premier mois et le peuple s'établit à Qadesh. C'est là que mourut Miryam et qu'elle fut enterrée.
+20,2	Il n'y avait pas d'eau pour la communauté, qui s'ameuta contre Moïse et Aaron.
+20,3	Le peuple chercha querelle à Moïse ; ils disaient : « Ah ! si seulement nous avions expiré quand nos frères ont expiré devant le Seigneur !
+20,4	Pourquoi avez-vous mené l'assemblée du Seigneur dans ce désert. ? Pour que nous y mourions, nous et nos troupeaux !
+20,5	Pourquoi nous avez-vous fait monter d'Égypte et nous avez-vous amenés en ce triste lieu. ? Ce n'est pas un lieu pour les semailles ni pour le figuier, la vigne ou le grenadier ; il n'y a même pas d'eau à boire.. »
+20,6	Moïse et Aaron, laissant l'assemblée, vinrent à l'entrée de la tente de la rencontre ; ils se jetèrent face contre terre et la gloire du Seigneur leur apparut.
+20,7	Le Seigneur dit à Moïse :
+20,8	« Prends ton bâton et, avec ton frère Aaron, rassemble la communauté ; devant eux, vous parlerez au rocher et il donnera son eau. Tu feras jaillir pour eux l'eau du rocher et tu donneras à boire à la communauté et à ses troupeaux.. »
+20,9	Comme il en avait reçu l'ordre, Moïse prit le bâton qui se trouvait devant le Seigneur.
+20,10	Moïse et Aaron réunirent l'assemblée devant le rocher et leur dirent : « Écoutez donc, rebelles ! Pourrons-nous de ce rocher vous faire jaillir de l'eau. ?. »
+20,11	Moïse leva la main ; de son bâton, il frappa le rocher par deux fois. L'eau jaillit en abondance et la communauté eut à boire ainsi que ses troupeaux.
+20,12	Le Seigneur dit à Moïse et Aaron : « Puisque, en ne croyant pas en moi, vous n'avez pas manifesté ma sainteté devant les fils d'Israël, à cause de cela, vous ne mènerez pas cette assemblée dans le pays que je lui donne.. »
+20,13	Ce sont là les eaux de Mériba-Querelle-où les fils d'Israël cherchèrent querelle au Seigneur ; il y manifesta sa sainteté.
+20,14	De Qadesh, Moïse envoya des messagers au roi d'Édom pour lui dire : « Ainsi parle ton frère Israël : Tu sais toutes les difficultés que nous avons rencontrées.
+20,15	Nos pères sont descendus en Égypte où nous avons séjourné de longs jours, mais les Égyptiens nous ont maltraités, nous et nos pères.
+20,16	Nous avons crié vers le Seigneur et il a entendu nos cris : il a envoyé un ange pour nous faire sortir d'Égypte. Nous voici maintenant à Qadesh, ville située à la limite de ton territoire.
+20,17	Laisse-nous donc passer par ton pays ! Nous ne passerons ni dans les champs ni dans les vignes ; nous ne boirons pas l'eau des puits ; nous irons par la route royale sans nous écarter ni à droite ni à gauche jusqu'à ce que nous ayons traversé ton territoire. »
+20,18	Mais Édom lui répondit : « Tu ne passeras pas chez moi, sinon je sortirai en armes à ta rencontre.. »
+20,19	Les fils d'Israël lui dirent : « Nous monterons par la route ; et si nous buvons de ton eau, moi et mes troupeaux, je t'en paierai le prix. Je ne demande qu'une chose : passer à pied.. »
+20,20	Mais Édom répondit : « Tu ne passeras pas !. » Et il sortit à sa rencontre avec une masse de gens et un grand déploiement de forces.
+20,21	Ainsi Édom refusa de laisser passer Israël sur son territoire et Israël s'éloigna de lui.
+20,22	Ils partirent de Qadesh, et toute la communauté des fils d'Israël arriva à Hor-la-Montagne.
+20,23	A Hor-la-Montagne, sur la frontière du pays d'Édom, le Seigneur dit à Moïse et Aaron :
+20,24	« Aaron va être enlevé pour rejoindre sa parenté, car il ne doit pas entrer dans le pays que je donne aux fils d'Israël, puisque vous avez été rebelles à ma voix, aux eaux de Mériba.
+20,25	Emmène donc Aaron et son fils Eléazar et fais-les monter à Hor-la-Montagne.
+20,26	Tu prendras ses vêtements à Aaron et tu en revêtiras son fils Eléazar ; puis Aaron sera enlevé, il mourra là.. »
+20,27	Moïse fit comme le Seigneur l'ordonnait et, sous les yeux de toute la communauté, ils montèrent à Hor-la-Montagne.
+20,28	Moïse prit ses vêtements à Aaron et il en revêtit son fils Eléazar ; et Aaron mourut là, au sommet de la montagne. Puis Moïse et Eléazar redescendirent de la montagne.
+20,29	Toute la communauté vit qu'Aaron avait expiré, et toute la maison d'Israël le pleura pendant trente jours.
+21,1	Les Cananéens-le roi d'Arad habitait le Néguev-apprirent qu'Israël arrivait par le chemin des Atarim ; ils combattirent Israël et lui firent des prisonniers.
+21,2	Alors Israël fit ce voue au Seigneur : « Si tu consens à livrer ce peuple entre mes mains, je vouerai ses villes à l'interdit.. »
+21,3	Le Seigneur écouta la voix d'Israël et lui livra les Cananéens. Israël les voua à l'interdit, eux et leurs villes. On donna à ce lieu le nom de Horma.
+21,4	Ils partirent de Hor-la-Montagne par la route de la mer des Joncs, en contournant le pays d'Édom, mais le peuple perdit courage en chemin.
+21,5	Le peuple se mit à critiquer Dieu et Moïse : « Pourquoi nous avez-vous fait monter d'Égypte. ? Pour que nous mourions dans le désert ! Car il n'y a ici ni pain ni eau et nous sommes dégoûtés de ce pain de misère !. »
+21,6	Alors le Seigneur envoya contre le peuple des serpents brûlants qui le mordirent, et il mourut un grand nombre de gens en Israël.
+21,7	Le peuple vint trouver Moïse en disant : « Nous avons péché en critiquant le Seigneur et en te critiquant ; intercède auprès du Seigneur pour qu'il éloigne de nous les serpents !. » Moïse intercéda pour le peuple,
+21,8	et le Seigneur lui dit : « Fais faire un serpent brûlant et fixe-le à une hampe : quiconque aura été mordu et le regardera aura la vie sauve.. »
+21,9	Moïse fit un serpent d'airain et le fixa à une hampe et lorsqu'un serpent mordait un homme, celui-ci regardait le serpent d'airain et il avait la vie sauve.
+21,10	Les fils d'Israël partirent et campèrent à Ovoth ;
+21,11	puis ils partirent d'Ovoth et campèrent à Iyyé-Avarim, dans le désert qui est en face de Moab, du côté du soleil levant.
+21,12	Partis de là, ils campèrent au bord du torrent du Zéred.
+21,13	Partis de là, ils campèrent de l'autre côté de l'Arnôn, qui passe par le désert en descendant du territoire des Amorites ; l'Arnôn, en effet, marque la frontière de Moab, entre Moab et les Amorites.
+21,14	C'est pourquoi il est dit dans le livre des Guerres du Seigneur : « Waheb en Soufa et ses torrents ; L'Arnon
+21,15	et ses gorges Qui descendent vers le site de Ar Et longent la frontière de Moab.. »
+21,16	De là ils gagnèrent Béer-le Puits. C'est ce Béer où le Seigneur avait dit à Moïse : « Rassemble le peuple et je leur donnerai de l'eau.. »
+21,17	Alors Israël avait entonné ce chant : « Monte, puits ! Acclamez-le !
+21,18	Puits creusé par des chefs, foré par les nobles du peuple, Avec leurs sceptres, avec leurs bâtons. » -…du désert, ils allèrent à Mattana ;
+21,19	de Mattana à Nahaliël, de Nahaliël à Bamoth,
+21,20	et de Bamoth à la vallée qui s'ouvre sur la campagne de Moab ; le sommet de la Pisga domine le désert.
+21,21	Israël envoya des messagers dire à Sihôn, roi des Amorites :
+21,22	« Laisse-moi passer par ton pays ; nous ne nous écarterons ni dans les champs ni dans les vignes et nous ne boirons pas l'eau des puits ; nous suivrons la route royale pour toute la traversée de ton territoire.. »
+21,23	Mais Sihôn ne permit pas à Israël de traverser son territoire, il rassembla tout son peuple et sortit à la rencontre d'Israël dans le désert. Il vint à Yahça où il livra bataille à Israël.
+21,24	Israël le frappa du tranchant de l'épée et s'empara de son pays, de l'Arnôn jusqu'au Yabboq et jusqu'à la limite des fils d'Ammon dont la frontière était fortifiée.
+21,25	Israël prit toutes les villes ; il s'établit dans toutes les villes des Amorites, à Heshbôn et dans toutes ses dépendances.
+21,26	Car Heshbôn était la ville de Sihôn, roi des Amorites qui avait fait la guerre au précédent roi de Moab et lui avait enlevé tout son pays jusqu'à l'Arnôn.
+21,27	C'est pourquoi les poètes disent : « Venez à Heshbôn ! Qu'elle soit rebâtie et restaurée, la ville de Sihôn !
+21,28	De Heshbôn est sorti un feu, de la cité de Sihôn, une flamme qui a dévoré Ar en Moab, les Seigneurs des hauteurs de l'Arnôn.
+21,29	Malheur à toi, Moab ! Tu es perdu, peuple de Kemosh ! De ses fils on a fait des fuyards et de ses filles les captives du roi amorite Sihôn !
+21,30	Nous les avons percées de flèches ; de Heshbôn jusqu'à Divôn tout a péri ; Nous avons ravagé, jusqu'à Nofah, tout ce qui s'étend jusqu'à Madaba.. »
+21,31	Israël s'établit dans le pays des Amorites.
+21,32	Moïse envoya reconnaître Yazér ; ils s'emparèrent de ses dépendances et Moïse chassa les Amorites qui s'y trouvaient.
+21,33	Puis, prenant une nouvelle direction, ils montèrent par la route du Bashân ; Og, roi du Bashân, sortit à leur rencontre, lui et tout son peuple, pour leur livrer bataille à Edrèï.
+21,34	Le Seigneur dit à Moïse : « Ne le crains pas ! Je le livre entre tes mains, lui, tout son peuple et son pays ; tu le traiteras comme tu as traité Sihôn, le roi des Amorites qui régnait à Heshbôn.. »
+21,35	Ils le battirent, lui et ses fils et tout son peuple, au point qu'il n'en resta pas un seul survivant ; et ils s'emparèrent de son pays.
+22,1	Les fils d'Israël repartirent ; ils campèrent dans la plaine de Moab, au-delà du Jourdain, à la hauteur de Jéricho.
+22,2	Balaq, fils de Cippor, vit tout ce qu'Israël avait fait aux Amorites.
+22,3	Moab fut très inquiet en voyant ce peuple si nombreux ; Moab fut pris de panique à la vue des fils d'Israël
+22,4	et il dit aux anciens de Madiân : « Cette multitude va maintenant tout brouter autour de nous, comme un bœuf broute l'herbe des champs.. » Balaq, fils de Cippor, était roi de Moab en ce temps-là.
+22,5	Il envoya des messagers auprès de Balaam, fils de Béor, à Petor sur le Fleuve, son pays d'origine, pour lui porter cet appel : « Nous avons là un peuple sorti d'Égypte qui couvre la surface de la terre : le voilà établi en face de moi !
+22,6	Viens donc, je t'en prie, et maudis-moi ce peuple, car il est plus puissant que moi ; peut-être arriverai-je alors à le battre et à le chasser du pays. Car je le sais, celui que tu bénis est béni, et celui que tu maudis est maudit.. »
+22,7	Les anciens de Moab et les anciens de Madiân s'en allèrent donc en emportant de quoi rétribuer le devin. Arrivés chez Balaam, ils lui rapportèrent les paroles de Balaq.
+22,8	Balaam leur dit : « Passez ici la nuit ; je vous rendrai réponse suivant ce que me dira le Seigneur.. » Les dignitaires de Moab demeurèrent donc chez Balaam.
+22,9	Dieu vint auprès de Balaam et lui dit : « Qui sont ces hommes qui se trouvent chez toi. ?. »
+22,10	Balaam dit à Dieu : « Balaq, fils de Cippor, le roi de Moab, m'a envoyé dire :
+22,11	Voilà que le peuple sorti d'Égypte couvre la surface de la terre. Viens donc et maudis-le pour moi ; peut-être arriverai-je alors à le combattre et à le chasser.. »
+22,12	Dieu dit à Balaam : « Tu n'iras pas avec eux et tu ne maudiras pas ce peuple, car il est béni.. »
+22,13	Le lendemain matin, Balaam se leva et dit aux dignitaires de Balaq : « Repartez pour votre pays, car le Seigneur refuse de me laisser partir avec vous.. »
+22,14	Les dignitaires de Moab se levèrent et revinrent auprès de Balaq ; ils lui dirent : « Balaam n'a pas voulu venir avec nous.. »
+22,15	Mais Balaq envoya encore d'autres dignitaires, cette fois plus nombreux et plus importants que les premiers.
+22,16	Arrivés auprès de Balaam, ils lui dirent : « Ainsi parle Balaq, fils de Cippor : De grâce, ne refuse pas de venir chez moi !
+22,17	Car je te comblerai d'honneurs et je ferai tout ce que tu me diras. Viens donc et maudis-moi ce peuple.. »
+22,18	Balaam répondit aux serviteurs de Balaq : « Quand Balaq me donnerait tout l'argent et tout l'or que peut contenir sa maison, je ne pourrais pas faire une chose, petite ou grande, qui soit contraire à l'ordre du Seigneur, mon Dieu.
+22,19	Demeurez donc ici, vous aussi, cette nuit, en attendant que je sache ce que le Seigneur a encore à me dire.. »
+22,20	Dieu vint auprès de Balaam pendant la nuit et lui dit : « Si c'est pour t'appeler que ces hommes sont venus, vas-y, pars avec eux. Mais tu feras seulement ce que je te dirai.. »
+22,21	Le lendemain matin, Balaam se leva, sella son ânesse et partit avec les dignitaires de Moab.
+22,22	Mais Dieu se mit en colère en le voyant partir, et l'ange du Seigneur se posta sur le chemin pour lui barrer la route tandis qu'il cheminait, monté sur son ânesse, accompagné de ses deux serviteurs.
+22,23	L'ânesse vit l'ange du Seigneur posté sur le chemin, l'épée nue à la main ; quittant le chemin, elle prit par les champs. Balaam battit l'ânesse pour la ramener sur le chemin.
+22,24	L'ange du Seigneur se plaça alors dans un chemin creux qui passait dans les vignes entre deux murettes.
+22,25	L'ânesse vit l'ange du Seigneur : elle se serra contre le mur. Comme elle serrait le pied de Balaam contre le mur, il se remit à la battre.
+22,26	L'ange du Seigneur les dépassa encore une fois pour se placer dans un passage étroit où il n'y avait pas la place d'obliquer ni à droite, ni à gauche.
+22,27	L'ânesse vit l'ange du Seigneur ; elle s'affaissa sous Balaam qui se mit en colère et la battit à coups de bâton.
+22,28	Le Seigneur fit parler l'ânesse et elle dit à Balaam : « Que t'ai-je fait pour que tu me battes par trois fois. ?. » -
+22,29	« C'est, lui dit Balaam, que tu en prends à ton aise avec moi ! Si j'avais une épée en main, je te tuerais sur-le-champ !. »
+22,30	L'ânesse dit à Balaam : « Ne suis-je pas ton ânesse, celle que tu montes depuis toujours. ? Est-ce mon habitude d'agir ainsi avec toi. ?. » -. « Non. », dit-il.
+22,31	Le Seigneur dessilla les yeux de Balaam, qui vit l'ange du Seigneur posté sur le chemin, l'épée nue à la main ; il s'inclina et se prosterna face contre terre.
+22,32	Alors l'ange du Seigneur lui dit : « Pourquoi as-tu battu ton ânesse par trois fois. ? Tu le vois, c'est moi qui suis venu te barrer la route car, pour moi, c'est un voyage entrepris à la légère.
+22,33	L'ânesse m'a vu, elle, et par trois fois s'est écartée de moi. Si elle ne s'était pas écartée devant moi, je t'aurais tué sur-le-champ, tandis qu'à elle j'aurais laissé la vie sauve.. »
+22,34	Balaam dit à l'ange du Seigneur : « J'ai péché, car je n'ai pas reconnu que c'était toi qui étais posté là, devant moi, sur le chemin. Maintenant si ce voyage te déplait, je m'en retournerai.. »
+22,35	Mais l'ange du Seigneur lui dit : « Va avec ces hommes, mais tu diras seulement la parole que je te dirai.. » Balaam s'en alla donc avec les dignitaires de Balaq.
+22,36	Apprenant que Balaam venait, Balaq vint à sa rencontre à Ir-Moab, sur la frontière marquée par l'Arnôn, à la limite de son territoire.
+22,37	Balaq lui dit : « N'ai-je pas envoyé assez de monde pour t'appeler. ? Pourquoi n'es-tu pas venu. ? Ne suis-je donc pas en mesure de te traiter avec honneur. ?. »
+22,38	Balaam répondit à Balaq : « Eh bien, je suis venu jusqu'à toi ; maintenant, me sera-t-il possible de dire quoi que ce soit. ? Je dirai la parole que Dieu mettra dans ma bouche.. »
+22,39	Balaam partit avec Balaq et ils arrivèrent à Qiryath-Houçoth.
+22,40	Balaq offrit un sacrifice de gros et de petit bétail dont il envoya des parts à Balaam et aux dignitaires qui l'accompagnaient.
+22,41	Le lendemain matin, Balaq emmena Balaam et le fit monter à Bamoth-Baal d'où on voyait une partie du peuple.
+23,1	Balaam dit à Balaq : « Bâtis-moi ici sept autels et apprête-moi ici même sept taureaux et sept béliers.. »
+23,2	Balaq fit comme l'avait dit Balaam ; et tous deux offrirent un taureau et un bélier sur chaque autel.
+23,3	Balaam dit à Balaq : « Tiens-toi auprès de ton holocauste, tandis que je m'éloignerai. Peut-être le Seigneur viendra-t-il à ma rencontre ; la parole qu'il me fera connaître, quelle qu'elle soit, je te la communiquerai.. » Et il s'en alla sur le chemin.
+23,4	Dieu vint au-devant de Balaam qui lui dit : « J'ai fait dresser les sept autels et offrir un taureau et un bélier sur chacun d'eux.. »
+23,5	Alors le Seigneur mit une parole dans la bouche de Balaam et lui dit : « Retourne auprès de Balaq ; c'est ainsi que tu parleras.. »
+23,6	Balaam retourna auprès de Balaq et le trouva debout près de son holocauste, ainsi que tous les dignitaires de Moab.
+23,7	« Alors il prononça son incantation en ces termes : » Balaq m'a fait venir d'Aram ; des monts d'Orient le roi de Moab m'a appelé : « Viens ! Lance-moi des imprécations contre Jacob ! Viens ! Voue Israël à la réprobation ! »
+23,8	Comment maudirais-je celui que Dieu n'a pas maudit. ? Comment vouerais-je à la réprobation celui que le Seigneur n'a pas réprouvé. ?
+23,9	Quand du sommet des rochers je le regarde, quand du haut des collines je l'observe, je vois un peuple qui demeure à l'écart et ne se range pas au nombre des nations.
+23,10	Qui pourrait compter la poussière de Jacob. ? Et le nombre des multitudes d'Israël. ? Que je meure moi-même de la mort des justes et que ma fin soit semblable à la sienne !. »
+23,11	Balaq dit à Balaam : « Que m'as-tu fait. ? Je t'ai amené pour maudire mes ennemis et voilà que tu les couvres de bénédictions !. »
+23,12	Balaam répondit : « Ne dois-je pas, quand je parle, m'en tenir à ce que le Seigneur met dans ma bouche. ?. »
+23,13	Balaq reprit : « Viens donc avec moi à un autre endroit d'où tu verras ce peuple-tu n'en voyais qu'une partie, tu ne le voyais pas tout entier-et de cet endroit, maudis-le pour moi !. »
+23,14	Il l'emmena à un poste d'observation au sommet de la Pisga, bâtit sept autels et offrit un taureau et un bélier sur chaque autel.
+23,15	Balaam lui dit : « Tiens-toi là près de ton holocauste, tandis que moi j'irai là-bas attendre…. »
+23,16	Le Seigneur vint au-devant de Balaam et lui mit une parole dans la bouche ; puis il dit : « Retourne auprès de Balaq ; c'est ainsi que tu parleras.. »
+23,17	Balaam revint auprès de Balaq et le trouva debout près de son holocauste avec les dignitaires de Moab. Balaq lui demanda : « Que dit le Seigneur. ?. »
+23,18	Alors, Balaam prononça son incantation en ces termes : « Lève-toi, Balaq, écoute ! Prête-moi l'oreille, fils de Cippor !
+23,19	Dieu n'est pas un homme pour mentir, ni un fils d'Adam pour se rétracter. Parle-t-il pour ne pas agir. ? Dit-il une parole pour ne pas l'exécuter. ?
+23,20	J'ai assumé la charge de bénir, car il a béni ; je ne me reprendrai pas.
+23,21	On n'observe pas de calamité en Jacob, on ne voit pas de souffrance en Israël. Le Seigneur, son Dieu, est avec lui ; chez lui résonne l'acclamation royale.
+23,22	Dieu l'a fait sortir d'Égypte ; il possède la force du buffle.
+23,23	Il n'y a pas d'augure en Jacob, ni de divination en Israël : En temps voulu il est dit à Jacob, à Israël, ce que Dieu fait.
+23,24	Voici un peuple qui se lève comme un fauve, qui se dresse comme un lion. Il ne se couche pas avant d'avoir dévoré sa proie et bu le sang de ses victimes.. »
+23,25	Balaq dit à Balaam : « Si tu ne le maudis pas, du moins ne le bénis pas.. »
+23,26	« Et Balaam lui répondit : » Ne t'avais-je pas dit : « Je ferai tout ce que dira le Seigneur »?.”
+23,27	Balaq dit à Balaam : « Viens donc ! Je t'emmène à un autre endroit ; peut-être Dieu admettra-t-il que de là tu maudisses pour moi ce peuple.. »
+23,28	Balaq emmena donc Balaam au sommet du Péor qui se dresse face au désert.
+23,29	Balaam lui dit : « Bâtis-moi ici sept autels et apprête-moi, ici même, sept taureaux et sept béliers.. »
+23,30	Balaq fit comme avait dit Balaam ; puis il offrit un taureau et un bélier sur chaque autel.
+24,1	Balaam vit qu'il plaisait au Seigneur de bénir Israël ; il n'alla donc pas comme les autres fois à la recherche de présages, mais il se tourna face au désert.
+24,2	Levant les yeux, Balaam vit Israël qui campait par tribus. L'esprit de Dieu vint sur lui,
+24,3	et il prononça son incantation en ces termes : « Oracle de Balaam, fils de Béor, oracle de l'homme à l'œil ouvert,
+24,4	oracle de celui qui entend les paroles de Dieu, qui voit ce que lui montre le Puissant, quand il tombe en extase et que ses yeux s'ouvrent :
+24,5	Qu'elles sont belles tes tentes, Jacob, tes demeures, Israël !
+24,6	Elles se répandent comme des torrents ; pareilles à des jardins au bord d'un fleuve, à des aloès plantés par le Seigneur, à des cèdres au bord de l'eau.
+24,7	L'eau déborde de ses seaux, ses semailles sont copieusement arrosées. Son roi l'emporte sur Agag, sa royauté s'élève…
+24,8	Dieu l'a fait sortir d'Égypte ; il possède la force du buffle. Il dévore les nations adverses, leur brise les os, les atteint de ses flèches.
+24,9	Il s'accroupit, il se couche comme un lion, tel un fauve ; qui le ferait lever. ? Béni soit qui te bénira et maudit qui te maudira !. »
+24,10	Balaq se mit en colère contre Balaam ; il frappa des mains et lui dit : « Je t'ai appelé pour maudire mes ennemis et voici la troisième fois que tu les couvres de bénédictions !
+24,11	Puisqu'il en est ainsi, va-t'en dans ton pays ! J'avais dit que je te comblerais d'honneurs ; mais voilà, le Seigneur te prive de ces honneurs.. »
+24,12	Balaam lui répondit : « N'avais-je pas expressément dit aux messagers que tu m'as envoyés :
+24,13	Quand Balaq me donnerait tout l'argent et tout l'or que peut contenir sa maison, je ne pourrais transgresser l'ordre du Seigneur en amenant bonheur ou malheur de ma propre initiative. Je dirai ce que dira le Seigneur »?
+24,14	Eh bien ! maintenant, je m'en vais chez les miens ; mais viens, je veux t'aviser de ce que fera ce peuple au tien dans la suite des temps.. »
+24,15	Alors il prononça son incantation en ces termes : « Oracle de Balaam, fils de Béor, oracle de l'homme à l'œil ouvert,
+24,16	oracle de celui qui entend les paroles de Dieu, qui possède la science du Très-Haut, qui voit ce que lui montre le Puissant quand il tombe en extase et que ses yeux s'ouvrent.
+24,17	Je le vois, mais ce n'est pas pour maintenant ; je l'observe, mais non de près : De Jacob monte une étoile, d'Israël surgit un sceptre qui brise les tempes de Moab et décime tous les fils de Seth.
+24,18	Édom sera pays conquis ; pour ses ennemis Séïr sera pays conquis-Israël déploie sa force.
+24,19	De Jacob surgit un dominateur ; il fait périr ce qui reste de la ville.. »
+24,20	Balaam vit encore Amaleq et prononça son incantation en ces termes : « Amaleq, première des nations ! Mais son avenir, c'est la ruine.. »
+24,21	Puis il vit les Qénites et prononça son incantation en ces termes : « Ta demeure est solide et ton nid posé sur la roche.
+24,22	Pourtant Caïn sera la proie des flammes, et finalement Ashour te fera prisonnier.. »
+24,23	Enfin, il prononça son incantation en ces termes : « Malheur ! qui survivra à l'action de Dieu. ?
+24,24	De Kittim, voici des navires… Ils opprimeront Ashour, opprimeront Éber ; lui aussi court à sa perte.. »
+24,25	Balaam s'en alla et retourna dans son pays ; et Balaq s'en alla de son côté.
+25,1	Israël s'établit à Shittim et le peuple commença à se livrer à la débauche avec les filles de Moab.
+25,2	Elles invitèrent le peuple aux sacrifices de leurs dieux ; le peuple y mangea et se prosterna devant leurs dieux.
+25,3	Israël se mit sous le joug du Baal de Péor et le Seigneur s'enflamma de colère contre lui.
+25,4	Le Seigneur dit à Moïse : « Saisis tous les chefs du peuple et fais-les pendre devant le Seigneur, face au soleil, afin que l'ardente colère du Seigneur se détourne d'Israël.. »
+25,5	Moïse dit aux juges d'Israël : « Que chacun de vous tue ceux de ses hommes qui se sont mis sous le joug du Baal de Péor !. »
+25,6	Et voici que l'un des fils d'Israël, amenant une Madianite, arriva au milieu de ses frères ; et cela sous les yeux de Moïse et de toute la communauté des fils d'Israël, alors qu'ils pleuraient à l'entrée de la tente de la rencontre.
+25,7	A cette vue, le prêtre Pinhas, fils d'Eléazar, fils d'Aaron, se leva au milieu de la communauté ; prenant en main une lance,
+25,8	il suivit l'Israélite dans l'alcôve et les transperça tous les deux, l'Israélite et la femme, dans l'alcôve de cette femme. Alors s'arrêta le fléau qui frappait les fils d'Israël.
+25,9	Les victimes de ce fléau furent au nombre de vingt-quatre mille zéro.
+25,10	Le Seigneur parla à Moïse :
+25,11	« Le prêtre Pinhas, fils d'Eléazar, fils d'Aaron, a détourné ma fureur des fils d'Israël en se montrant jaloux à ma place au milieu d'eux. C'est pourquoi je n'ai pas, sous le coup de ma jalousie, exterminé les fils d'Israël.
+25,12	En conséquence, dis-le : Voici que je lui fais don de mon alliance en vue de la paix.
+25,13	Elle sera pour lui et pour ses descendants. Cette alliance leur assurera le sacerdoce à perpétuité, puisqu'il s'est montré jaloux pour son Dieu et qu'il a fait le rite d'absolution pour les fils d'Israël.. »
+25,14	L'Israélite qui fut tué-celui qui fut tué avec la Madianite-s'appelait Zimri, fils de Salou, responsable d'une famille de Siméon.
+25,15	Et la femme qui fut tuée, la Madianite, s'appelait Kozbi, fille de Çour ; celui-ci était chef d'un clan, c'est-à-dire d'une famille de Madiân.
+25,16	Alors le Seigneur parla à Moïse :
+25,17	« Attaquez les Madianites et battez-les.
+25,18	Car ils vous ont provoqués par la perfidie dont ils ont usé envers vous dans l'affaire de Péor et dans celle de Kozbi, fille d'un responsable de Madiân, leur sœur, qui fut tuée le jour du fléau dû à l'affaire de Péor.. »
+25,19	Après ce fléau,
+26,1	le Seigneur dit à Moïse et au prêtre Eléazar, fils d'Aaron :
+26,2	« Dressez l'état, par famille, de toute la communauté des fils d'Israël, de tous ceux de vingt ans et plus qui servent dans l'armée d'Israël.. »
+26,3	Moïse et le prêtre Eléazar leur parlèrent dans la plaine de Moab, au bord du Jourdain, à la hauteur de Jéricho. Ils dirent :
+26,4	« On va recenser les hommes de vingt ans et plus, comme le Seigneur l'a ordonné à Moïse.. » Voici les fils d'Israël qui étaient sortis du pays d'Égypte :
+26,5	Ruben, premier-né d'Israël. Fils de Ruben : de Hanok est issu le clan des Hanokites ; de Pallou, le clan des Pallouites ;
+26,6	de Hèçrôn, le clan des Héçronites ; de Karmi, le clan des Karmites.
+26,7	Tels étaient les clans des Rubénites. Leur effectif se montait à quarante-quatre mille hommes.
+26,8	Fils de Pallou : Eliav
+26,9	et les fils d'Eliav : Nemouël, Datân et Abiram. -C'est ce Datân et cet Abiram, délégués de la communauté, qui s'étaient insurgés contre Moïse et Aaron ; ils étaient avec la bande de Coré quand ils s'insurgèrent contre le Seigneur.
+26,10	La terre, ouvrant sa gueule, les engloutit ainsi que Coré, lorsque mourut sa bande et que le feu dévora deux cent cinquante hommes ; ils servirent d'exemple.
+26,11	Les fils de Coré, eux, n'étaient pas morts.
+26,12	Fils de Siméon, par clans : de Nemouël est issu le clan des Nemouélites ; de Yamîn, le clan des Yaminites ; de Yakîn, le clan des Yakinites ;
+26,13	de Zérah, le clan des Zarhites ; de Shaoul, le clan des Shaoulites.
+26,14	Tels étaient les clans des Siméonites. Ils étaient vingt-deux mille deux cents hommes.
+26,15	Fils de Gad, par clans : de Cefôn est issu le clan des Cefonites ; de Haggui, le clan des Hagguites ; de Shouni, le clan des Shounites ;
+26,16	d'Ozni, le clan des Oznites ; de Éri, le clan des Erites ;
+26,17	d'Arod, le clan des Arodites ; d'Aréli, le clan des Arélites.
+26,18	Tels étaient les clans des fils de Gad, d'un effectif de quarante mille cinq cents hommes.
+26,19	Fils de Juda : Er et Onân-Er et Onân moururent dans le pays de Canaan.
+26,20	Voici donc les fils de Juda par clans : de Shéla est issu le clan des Shélanites ; de Pèrèç, le clan des Parcites ; de Zérah, le clan des Zarhites.
+26,21	Voici les fils de Pérèç : de Hèçrôn est issu le clan des Héçronites ; de Hamoul, le clan des Hamoulites.
+26,22	Tels étaient les clans de Juda, d'un effectif de soixante-seize mille cinq cents hommes.
+26,23	Fils d'Issakar, par clans : de Tola est issu le clan des Tolaïtes ; de Poua, le clan des Pounites ;
+26,24	de Yashouv, le clan des Yashouvites ; de Shimrôn, le clan des Shimronites.
+26,25	Tels étaient les clans d'Issakar, d'un effectif de soixante-quatre mille trois cents hommes.
+26,26	Fils de Zabulon, par clans : de Sèred est issu le clan des Sardites ; d'Elôn, le clan des Elonites ; de Yahléel, le clan des Yahleélites.
+26,27	Tels étaient les clans des Zabulonites, d'un effectif de soixante mille cinq cents hommes.
+26,28	Fils de Joseph, par clans : Manassé et Éphraïm.
+26,29	Fils de Manassé : de Makir est issu le clan des Makirites-Makir engendra Galaad- ;de Galaad est issu le clan des Galaadites.
+26,30	Voici les fils de Galaad : de Iézer est issu le clan des Iézérites ; de Héleq, le clan des Helqites ;
+26,31	de Asriël, le clan des Asriélites ; de Shèkem, le clan des Shikemites ;
+26,32	de Shemida, le clan des Shemidaïtes, de Héfèr, le clan des Héférites.
+26,33	Celofehad, fils de Héfèr, n'eut pas de fils mais seulement des filles. Les filles de Celofehad se nommaient Mahla, Noa, Hogla, Milka et Tirça.
+26,34	Tels étaient les clans de Manassé ; leur effectif se montait à cinquante-trois mille hommes.
+26,35	Voici les fils d'Éphraïm, par clans : de Shoutèlah est issu le clan des Shoutalhites ; de Bèker, le clan des Bakrites ; de Tahân, le clan des Tahanites.
+26,36	Et voici les fils de Shoutèlah : de Erân est issu le clan des Eranites.
+26,37	Tels étaient les clans des fils d'Éphraïm, d'un effectif de trente-deux mille cinq cents hommes. Tels étaient les fils de Joseph dans le recensement par clans.
+26,38	Fils de Benjamin, par clans : de Bèla est issu le clan des Baléites ; d'Ashbel, le clan des Ashbélites ; d'Ahiram, le clan des Ahiramites ;
+26,39	de Shefoufam, le clan des Shoufamites ; de Houfam, le clan des Houfamites.
+26,40	Les fils de Bèla furent : Ard et Naaman, le clan des Ardites et, issu de Naaman, le clan des Naamites.
+26,41	Tels étaient les fils de Benjamin dans le recensement par clans ; leur effectif se montait à quarante-six mille hommes.
+26,42	Voici les fils de Dan, par clans : de Shouhâm est issu le clan des Shouhamites ; tels étaient les clans de Dan, dans le recensement par clans.
+26,43	Les clans des Shouhamites faisaient au total un effectif de soixante-quatre mille quatre cents hommes.
+26,44	Fils d'Asher, par clans : de Yimna est issu le clan de Yimna ; de Yishwi, le clan des Yishwites ; de Beria, le clan des Beriites.
+26,45	Issus des fils de Beria : de Héber, le clan des Hébrites ; de Malkiël, le clan des Malkiélites.
+26,46	La fille d'Asher se nommait Sèrah.
+26,47	Tels étaient les clans des fils d'Asher, d'un effectif de cinquante-trois mille quatre cents hommes.
+26,48	Fils de Nephtali, par clans : de Yahcéel est issu le clan des Yahceélites ; de Gouni, le clan des Gounites ;
+26,49	de Yécèr, le clan des Yiçrites ; de Shillem, le clan des Shillémites.
+26,50	Tels étaient les clans de Nephtali dans le recensement par clans ; leur effectif se montait à quarante-cinq mille quatre cents hommes.
+26,51	Tel était l'effectif des fils d'Israël : six cent deux mille .
+26,52	Le Seigneur dit à Moïse :
+26,53	« C'est entre ces clans que le pays sera partagé : les parts seront en proportion du nombre de personnes.
+26,54	Pour un clan plus important, tu feras une part plus grande, et pour un clan plus restreint, tu feras une part plus petite. A chacun, on donnera une part correspondant à son effectif.
+26,55	C'est seulement par tirage au sort que se fera le partage du pays. Ils recevront leurs parts d'après le nombre de personnes de leurs tribus paternelles.
+26,56	C'est le tirage au sort qui décidera de la part de chacun, en partageant entre le plus important et le plus restreint.. »
+26,57	Voici les effectifs des lévites dans le recensement par clans : de Guershôn est issu le clan des Guershonites ; de Qehath, le clan des Qehatites ; de Merari, le clan des Merarites.
+26,58	Voici les clans de Lévi : le clan des Livnites, le clan des Hébronites, le clan des Mahlites, le clan des Moushites, le clan des Coréites. -Qehath engendra Amram.
+26,59	La femme d'Amram se nommait Yokèvèd, fille de Lévi, que Lévi eut de sa femme en Égypte. Elle donna à Amram : Aaron, Moïse et Miryam, leur sœur. -
+26,60	D'Aaron naquirent Nadav, Avihou, Eléazar et Itamar.
+26,61	Nadav et Avihou moururent pour avoir présenté au Seigneur un feu profane.
+26,62	L'effectif des lévites se montait à vingt-trois mille zéro en comptant tous les lévites de sexe masculin à partir de l'âge d'un mois. En effet ils n'avaient pas été recensés avec les fils d'Israël car il ne leur était pas attribué de part au milieu des fils d'Israël.
+26,63	Tels sont ceux que Moïse et le prêtre Eléazar recensèrent lorsqu'ils firent le recensement des fils d'Israël dans la plaine de Moab, au bord du Jourdain à la hauteur de Jéricho.
+26,64	Parmi eux, il ne restait plus un seul homme de ceux qu'avaient recensés Moïse et le prêtre Aaron, lorsqu'ils firent le recensement des fils d'Israël dans le désert du Sinaï.
+26,65	Car le Seigneur leur avait dit qu'ils devaient mourir dans le désert ; et, en effet, il n'en restait pas un, excepté Caleb, fils de Yefounnè, et Josué, fils de Noun.
+27,1	Alors se présentèrent les filles de Celofehad, fils de Héfèr, fils de Galaad, fils de Makir, fils de Manassé ; elles étaient d'un des clans de Manassé, fils de Joseph. Elles s'appelaient Mahla, Noa, Hogla, Milka et Tirça.
+27,2	Elles se présentèrent devant Moïse, devant le prêtre Eléazar, devant les responsables et toute la communauté, à l'entrée de la tente de la rencontre.
+27,3	« Notre père est mort dans le désert, dirent-elles ; il ne faisait pas partie de la bande, il n'était pas de ceux qui se liguèrent contre le Seigneur dans la bande de Coré ; c'est uniquement pour son péché qu'il est mort. Or il n'avait pas de fils.
+27,4	Faut-il que le nom de notre père disparaisse de son clan, du fait qu'il n'a pas eu de fils. ? Donne-nous donc à nous-mêmes une propriété comme aux frères de notre père.. »
+27,5	Moïse porta leur cause devant le Seigneur.
+27,6	Et le Seigneur dit à Moïse :
+27,7	« Les filles de Celofehad ont raison ; tu leur donneras une propriété en héritage comme aux frères de leur père et tu leur transmettras l'héritage de leur père.
+27,8	« Et tu diras aux fils d'Israël : “Lorsqu'un homme mourra sans laisser de fils, vous transmettrez son héritage à sa fille.”
+27,9	S'il n'a pas de fille, vous donnerez son héritage à ses frères.
+27,10	S'il n'a pas de frères, vous le donnerez aux frères de son père.
+27,11	“Et si son père n'avait pas de frères, vous le donnerez au plus proche parent qu'il aura dans son clan : c'est celui-là qui en aura la possession.” Ce sera pour les fils d'Israël une règle de droit, conforme aux ordres que le Seigneur a donnés à Moïse.. »
+27,12	Le Seigneur dit à Moïse : « Monte sur cette montagne de la chaîne des Avarim et regarde le pays que je donne aux fils d'Israël.
+27,13	Tu le verras, puis tu seras enlevé, toi aussi, pour rejoindre ta parenté comme l'a été ton frère Aaron.
+27,14	Ceci parce que dans le désert de Cîn, lors de la querelle que me chercha la communauté, vous avez été rebelles à ma voix quand je vous commandais de manifester ma sainteté à leurs yeux en faisant jaillir de l'eau. » Il s'agit des eaux de Mériba de Qadesh dans le désert de Cîn.
+27,15	Moïse dit alors au Seigneur :
+27,16	« Que le Seigneur, le Dieu qui dispose du souffle de toute créature, désigne un homme qui sera à la tête de la communauté,
+27,17	qui sortira et rentrera devant eux, qui les fera sortir et les fera rentrer ; ainsi la communauté du Seigneur ne sera pas comme des moutons sans berger.. »
+27,18	Le Seigneur répondit à Moïse : « Prends Josué, fils de Noun ; c'est un homme qui est inspiré. Tu lui imposeras la main,
+27,19	tu le présenteras au prêtre Eléazar ainsi qu'à toute la communauté et tu l'établiras dans sa charge sous leurs yeux.
+27,20	Tu lui donneras une part de ta puissance afin que toute la communauté des fils d'Israël lui obéisse.
+27,21	Il se présentera devant le prêtre Eléazar qui demandera pour lui, devant le Seigneur, la décision du Ourim. C'est d'après cette décision qu'ils sortiront et qu'ils rentreront, lui et tous les fils d'Israël-toute la communauté.. »
+27,22	Moïse fit comme le Seigneur le lui avait ordonné ; il prit Josué et le présenta au prêtre Eléazar ainsi qu'à toute la communauté.
+27,23	Il lui imposa les mains et l'établit dans sa charge, comme le Seigneur l'avait dit par l'intermédiaire de Moïse.
+28,1	Le Seigneur parla à Moïse :
+28,2	« Donne aux fils d'Israël les ordres suivants : Veillez à m'apporter au temps fixé les présents qui me reviennent, ma nourriture, sous forme de mets à l'odeur apaisante.
+28,3	Tu leur diras : Voici les mets que vous présenterez au Seigneur : deux agneaux d'un an sans défaut, chaque jour, à titre d'holocauste perpétuel.
+28,4	On offrira le premier agneau le matin et le second au crépuscule,
+28,5	avec une offrande d'un dixième d'épha de farine pétrie dans un quart de hîn d'huile d'olives cassées. -
+28,6	C'est l'holocauste perpétuel tel qu'il était pratiqué sur le mont Sinaï, un mets à l'odeur apaisante pour le Seigneur. -
+28,7	La libation requise est d'un quart de hîn pour le premier agneau-libation de vin fort à offrir au Seigneur dans le sanctuaire.
+28,8	Le second agneau, on l'offrira au crépuscule ; on l'offrira avec la même offrande et la même libation que le matin. C'est pour le Seigneur un aliment à l'odeur apaisante.
+28,9	Le jour du sabbat, on offrira deux agneaux d'un an sans défaut, avec une offrande de deux dixièmes de farine pétrie à l'huile et la libation requise.
+28,10	C'est l'holocauste du sabbat qui, chaque sabbat, s'ajoute à l'holocauste perpétuel et à sa libation.
+28,11	Au début de chaque mois, vous présenterez au Seigneur l'holocauste de deux taureaux, d'un bélier et de sept agneaux d'un an-des bêtes sans défaut-
+28,12	avec, pour chaque taureau, une offrande de trois dixièmes de farine pétrie à l'huile ; pour le bélier, une offrande de deux dixièmes de farine pétrie à l'huile ;
+28,13	et pour chaque agneau, une offrande de farine pétrie à l'huile, d'un dixième chaque fois. C'est un holocauste à l'odeur apaisante, un mets pour le Seigneur.
+28,14	Les libations requises sont : un demi-hîn de vin par taureau, un tiers de hîn par bélier et un quart de hîn par agneau. Tel est l'holocauste de néoménie, qu'on offrira à chaque néoménie de l'année.
+28,15	De plus, un bouc offert au Seigneur en sacrifice pour le péché ; on l'offrira en plus de l'holocauste perpétuel et de sa libation.
+28,16	Le premier mois, le quatorzième jour du mois, c'est Pâque en l'honneur du Seigneur.
+28,17	Le quinzième jour de ce mois, c'est jour de fête : pendant sept jours, on mangera des pains sans levain.
+28,18	Le premier jour, il y aura une réunion sacrée ; vous ne ferez aucun travail pénible.
+28,19	Vous présenterez au Seigneur des mets en holocauste : deux taureaux, un bélier et sept agneaux d'un an-vous prendrez des bêtes sans défaut-
+28,20	avec l'offrande requise de farine pétrie à l'huile : trois dixièmes pour un taureau et deux dixièmes pour un bélier.
+28,21	Pour chacun des sept agneaux, on ajoutera un dixième chaque fois.
+28,22	De plus, un bouc en sacrifice pour le péché, pour faire le rite d'absolution en votre faveur.
+28,23	Vous ferez tout cela en plus de l'holocauste du matin qui est l'holocauste perpétuel.
+28,24	Vous offrirez de même chaque jour, pendant les sept jours, de la nourriture au Seigneur, des mets à l'odeur apaisante ; on les offrira en plus de l'holocauste perpétuel et de sa libation.
+28,25	Le septième jour, vous aurez une réunion sacrée ; vous ne ferez ce jour-là aucun travail pénible.
+28,26	Le jour des prémices, quand vous présenterez au Seigneur, pour la fête des semaines, l'offrande de la nouvelle récolte, vous aurez un rassemblement sacré ; vous ne ferez aucun travail pénible.
+28,27	Vous présenterez au Seigneur un holocauste à l'odeur apaisante : deux taureaux, un bélier et sept agneaux d'un an,
+28,28	avec l'offrande requise de farine pétrie à l'huile : trois dixièmes pour chaque taureau, deux dixièmes pour le bélier
+28,29	et, pour chacun des sept agneaux, un dixième chaque fois.
+28,30	De plus, un bouc pour faire le rite d'absolution en votre faveur.
+28,31	Vous les offrirez avec leurs libations en plus de l'holocauste perpétuel et de l'offrande qui l'accompagne-vous prendrez des bêtes sans défaut.
+29,1	Le septième mois, le premier du mois, vous aurez une réunion sacrée. Vous ne ferez aucun travail pénible. Ce sera pour vous un jour d'acclamation.
+29,2	Vous offrirez au Seigneur un holocauste à l'odeur apaisante : un taureau, un bélier, sept agneaux d'un an-des bêtes sans défaut-
+29,3	avec l'offrande requise de farine pétrie à l'huile : trois dixièmes pour le taureau, deux dixièmes pour le bélier
+29,4	et, pour les sept agneaux, un dixième par agneau.
+29,5	De plus, un bouc en sacrifice pour le péché, pour faire le rite d'absolution en votre faveur.
+29,6	Sans compter l'holocauste de néoménie avec son offrande et l'holocauste perpétuel avec son offrande, ainsi que leurs libations-selon les coutumes qui les concernent- :c'est un mets à l'odeur apaisante pour le Seigneur.
+29,7	Le dix de ce septième mois, vous aurez une réunion sacrée. Vous jeûnerez, vous ne ferez aucun travail pénible.
+29,8	Vous présenterez au Seigneur un holocauste à l'odeur apaisante : un taureau, un bélier, sept agneaux d'un an-vous prendrez des bêtes sans défaut-
+29,9	avec l'offrande requise de farine pétrie à l'huile : trois dixièmes pour le taureau, deux dixièmes pour le bélier
+29,10	et, pour chacun des sept agneaux, un dixième chaque fois.
+29,11	De plus, un bouc en sacrifice pour le péché, sans compter le sacrifice pour le péché du jour du Grand Pardon et l'holocauste perpétuel avec son offrande, ainsi que les libations qui les accompagnent.
+29,12	Le quinzième jour du septième mois, vous aurez une réunion sacrée. Vous ne ferez aucun travail pénible. Vous fêterez le Seigneur en un pèlerinage de sept jours.
+29,13	Vous présenterez en holocauste au Seigneur un mets à l'odeur apaisante : treize taureaux, deux béliers, quatorze agneaux d'un an-ce seront des bêtes sans défaut-
+29,14	avec l'offrande requise de farine pétrie à l'huile : trois dixièmes pour chacun des treize taureaux, deux dixièmes pour chacun des deux béliers
+29,15	et, pour chacun des quatorze agneaux, un dixième chaque fois.
+29,16	De plus, un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel, son offrande et sa libation.
+29,17	Le deuxième jour : douze taureaux, deux béliers, quatorze agneaux d'un an-des bêtes sans défaut-
+29,18	avec l'offrande et les libations requises pour les taureaux, les béliers et les agneaux, autant qu'il y en aura, selon les coutumes.
+29,19	De plus, un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel et son offrande et les libations qui les accompagnent.
+29,20	Le troisième jour : onze taureaux, deux béliers, quatorze agneaux d'un an-des bêtes sans défaut-
+29,21	avec l'offrande et les libations requises pour les taureaux, les béliers et les agneaux, autant qu'il y en aura, selon les coutumes.
+29,22	De plus un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel et son offrande et la libation qui l'accompagne.
+29,23	Le quatrième jour : dix taureaux, deux béliers, quatorze agneaux d'un an-des bêtes sans défaut-
+29,24	avec l'offrande et les libations requises pour les taureaux, les béliers et les agneaux, autant qu'il y en aura, selon les coutumes.
+29,25	De plus, un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel et son offrande et la libation qui l'accompagne.
+29,26	Le cinquième jour : neuf taureaux, deux béliers, quatorze agneaux d'un an-des bêtes sans défaut-
+29,27	avec l'offrande et les libations requises pour les taureaux, les béliers et les agneaux, autant qu'il y en aura, selon les coutumes.
+29,28	De plus, un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel et son offrande et la libation qui l'accompagne.
+29,29	Le sixième jour : huit taureaux, deux béliers, quatorze agneaux d'un an-des bêtes sans défaut-
+29,30	avec l'offrande et les libations requises pour les taureaux, les béliers et les agneaux, autant qu'il y en aura, selon les coutumes.
+29,31	De plus, un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel et son offrande et la libation qui l'accompagne.
+29,32	Le septième jour : sept taureaux, deux béliers, quatorze agneaux d'un an-des bêtes sans défaut-
+29,33	avec l'offrande et les libations requises pour les taureaux, les béliers et les agneaux, autant qu'il y en aura, selon les coutumes qui les concernent.
+29,34	De plus, un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel et son offrande et la libation qui l'accompagne.
+29,35	Le huitième jour, ce sera la clôture de votre fête : vous ne ferez aucun travail pénible.
+29,36	Vous présenterez en holocauste au Seigneur un mets à l'odeur apaisante : un taureau, un bélier, sept agneaux d'un an-des bêtes sans défaut-
+29,37	avec l'offrande et les libations requises pour le taureau, le bélier et les agneaux, autant qu'il y en aura, selon les coutumes.
+29,38	De plus, un bouc en sacrifice pour le péché, sans compter l'holocauste perpétuel et son offrande et la libation qui l'accompagne.
+29,39	« Voilà ce que vous offrirez au Seigneur aux dates qui vous sont fixées, sans parler de vos sacrifices votifs, de vos sacrifices spontanés, holocaustes, offrandes de farine, libations et sacrifices de paix.. »
+30,1	Moïse dit aux fils d'Israël tout ce que le Seigneur lui avait ordonné.
+30,2	Moïse parla aux chefs de tribus des fils d'Israël : « Voici l'ordre que le Seigneur a donné :
+30,3	Lorsqu'un homme aura fait un voue au Seigneur ou aura pris sous serment un engagement pour lui-même, il ne violera pas sa parole : il se conformera exactement à la promesse sortie de sa bouche.
+30,4	Lorsqu'une femme, jeune encore, demeurant chez son père, aura fait un voue au Seigneur ou pris un engagement pour elle-même,
+30,5	si son père apprend qu'elle a fait ce voue ou pris cet engagement pour elle-même, s'il ne lui dit rien, tous ses vœux seront valides, tout engagement qu'elle aura pris pour elle-même sera valide.
+30,6	Mais si son père la désavoue le jour même où il l'apprend, tous ses vœux, tous les engagements qu'elle aura pris pour elle-même, seront nuls. Le Seigneur la tiendra quitte, puisque son père l'a désavouée.
+30,7	Et si elle vient à se marier, étant tenue par ses vœux ou par un engagement échappé de ses lèvres,
+30,8	et que son mari, en l'apprenant, ne lui dise rien le jour même, ses vœux resteront valides, les engagements qu'elle aura pris pour elle-même resteront valides.
+30,9	Mais si son mari, le jour où il l'apprend, la désavoue, il annule le voue qui la tenait et l'engagement échappé de ses lèvres qu'elle avait pris pour elle-même ; et le Seigneur la tiendra quitte.
+30,10	Par contre, le voue d'une veuve ou d'une femme répudiée sera valide quel que soit l'engagement qu'elle ait pris.
+30,11	Mais si c'est dans la maison de son mari qu'elle a fait un voue ou pris sous serment un engagement pour elle-même
+30,12	et que son mari, en l'apprenant, ne lui dise rien, il ne la désavoue pas : tous ses vœux restent valides, tout engagement qu'elle aura pris pour elle-même, reste valide.
+30,13	Mais si son mari décide de les annuler, le jour même où il l'apprend, tout ce qu'elle aura formulé en fait de vœux et d'engagements sera nul. Son mari les ayant annulés, le Seigneur la tiendra quitte.
+30,14	Quel que soit le voue ou le serment par lequel elle s'est engagée à jeûner, c'est son mari qui le valide ou qui l'annule.
+30,15	Et si son mari ne lui dit rien jusqu'au lendemain, il valide tous les vœux ou engagements qui la tenaient : il les valide du fait qu'il ne lui a rien dit le jour où il l'a appris.
+30,16	Mais s'il décide de les annuler après le jour où il l'a appris, c'est lui qui répondra de la faute de sa femme.. »
+30,17	Telles sont les lois que le Seigneur a prescrites à Moïse concernant un homme et sa femme ou un père et sa fille lorsque, jeune encore, elle demeure chez lui.
+31,1	Le Seigneur dit à Moïse :
+31,2	« Venge les fils d'Israël du mal que leur ont fait les Madianites ; après quoi, tu rejoindras ta parenté.. »
+31,3	Moïse dit au peuple : « Que des hommes parmi vous s'équipent pour partir en campagne. Ils marcheront contre Madiân pour exercer la vengeance du Seigneur sur Madiân.
+31,4	Vous mettrez en campagne mille hommes par tribu, dans toutes les tribus d'Israël.. »
+31,5	On leva donc parmi les milliers d'Israël un millier par tribu, soit douze mille hommes équipés pour partir en campagne.
+31,6	Moïse les envoya en campagne, à raison de mille par tribu ; il les envoya en campagne, eux et le prêtre Pinhas, fils d'Eléazar, qui avait en mains les accessoires du sanctuaire et les trompettes pour les signaux.
+31,7	Ils partirent en campagne contre Madiân comme le Seigneur l'avait ordonné à Moïse et ils tuèrent tous les hommes.
+31,8	En plus de ces victimes, ils tuèrent aussi les rois de Madiân : Ewi, Rèqem, Çour, Hour et Rèva, les cinq rois de Madiân. Ils tuèrent encore par l'épée Balaam, fils de Béor.
+31,9	Les fils d'Israël firent prisonnières les femmes de Madiân avec leurs enfants ; ils enlevèrent toutes leurs bêtes, tous leurs troupeaux, tous leurs biens.
+31,10	Ils incendièrent toutes les villes qu'habitaient les Madianites et tous leurs campements.
+31,11	Puis ils emmenèrent tout le butin et tout ce qu'ils avaient capturé en fait d'hommes et de bêtes.
+31,12	Ils amenèrent les prisonniers, les prises de guerre et le butin à Moïse, au prêtre Eléazar et à la communauté des fils d'Israël ; ils les ramenèrent au camp dans la plaine de Moab qui borde le Jourdain à la hauteur de Jéricho.
+31,13	Moïse, le prêtre Eléazar et tous les responsables de la communauté sortirent pour les rencontrer en dehors du camp.
+31,14	Moïse se fâcha contre les chefs désignés pour mener les troupes, chefs de milliers et chefs de centaines, qui revenaient de cette expédition.
+31,15	« Quoi ! leur dit-il, vous avez laissé la vie à toutes les femmes !
+31,16	Pourtant ce sont bien elles qui-lors de l'affaire de Balaam-ont incité les fils d'Israël à être infidèles au Seigneur, à l'occasion de l'affaire de Péor, si bien qu'un fléau s'abattit sur la communauté du Seigneur.
+31,17	Eh bien, maintenant, tuez tous les garçons et tuez toutes les femmes qui ont connu un homme dans l'étreinte conjugale.
+31,18	Mais toutes les fillettes qui n'ont pas connu l'étreinte conjugale, gardez-les en vie pour vous.
+31,19	Quant à vous, campez en dehors du camp pendant sept jours. Vous tous qui avez tué quelqu'un ou qui avez touché un mort, vous ferez votre purification le troisième et le septième jour, aussi bien vous-mêmes que vos prisonnières.
+31,20	De même toutes les étoffes, tous les objets en cuir, tous les ouvrages en poil de chèvre et tous les objets en bois, vous en ferez la purification.. »
+31,21	Le prêtre Eléazar dit aux soldats qui étaient allés au combat : « Voici les dispositions de la loi que le Seigneur a prescrite à Moïse :
+31,22	Il n'y a que l'or, l'argent, le bronze, le fer, l'étain, le plomb,
+31,23	toutes choses qui supportent le feu, que vous passerez au feu pour qu'elles soient purifiées ; on fera aussi la purification par l'eau lustrale. Et vous passerez à l'eau tout ce qui ne supporte pas le feu.
+31,24	Vous laverez vos vêtements le septième jour et vous serez purs ; après quoi, vous rentrerez au camp.. »
+31,25	Le Seigneur dit à Moïse :
+31,26	« Toi-même, avec le prêtre Eléazar et les chefs de famille de la communauté, faites le compte de ce qu'on a capturé en fait d'hommes et de bêtes.
+31,27	Tu partageras ce qu'on a capturé entre les combattants qui ont fait la campagne et toute la communauté.
+31,28	Tu prélèveras une taxe pour le Seigneur sur les combattants qui ont fait la campagne, en prélevant un homme sur cinq cents et une bête sur cinq cents pour les bœufs, les ânes et le petit bétail.
+31,29	Vous prendrez cela sur leur part et tu le donneras au prêtre Eléazar comme redevance due au Seigneur.
+31,30	Et sur la part des fils d'Israël, tu prendras un cinquantième des hommes, des bœufs, des ânes, du petit bétail et de toutes les bêtes ; et tu les donneras aux lévites qui assurent le service de la demeure du Seigneur.. »
+31,31	Moïse et le prêtre Eléazar firent ce que le Seigneur avait ordonné à Moïse.
+31,32	Ce qui avait été capturé, ce qui restait du butin qu'avaient enlevé les troupes en campagne, consistait en : six cent soixante-quinze mille zéro têtes de petit bétail,
+31,33	72000 de gros bétail,
+31,34	et soixante et un mille zéro ânes ;
+31,35	quant aux personnes humaines, c'est-à-dire les femmes qui n'avaient pas connu l'étreinte conjugale, il y en avait en tout trente-deux mille zéro.
+31,36	La moitié attribuée à ceux qui avaient fait la campagne se montait à : -337500 têtes de petit bétail ;
+31,37	la taxe pour le Seigneur prélevée sur le petit bétail étant de six cent soixante-quinze têtes ;
+31,38	-bœufs : trente-six mille zéro têtes sur lesquelles la taxe pour le Seigneur était de soixante-douze têtes ;
+31,39	-ânes : trente mille cinq cents sur lesquels la taxe pour le Seigneur était de soixante et un têtes ;
+31,40	-personnes humaines : seize mille zéro sur lesquelles la taxe pour le Seigneur était de trente-deux personnes.
+31,41	Moïse donna la taxe prélevée pour le Seigneur au prêtre Eléazar, comme le Seigneur le lui avait ordonné.
+31,42	Quant à la moitié attribuée aux fils d'Israël, celle que Moïse avait soustraite aux hommes qui avaient fait la campagne,
+31,43	cette moitié attribuée à la communauté consistait en : trois cent trente-huit mille têtes de petit bétail,
+31,44	36000 bœufs,
+31,45	30500 ânes
+31,46	et seize mille zéro personnes humaines.
+31,47	Moïse préleva sur la part des fils d'Israël un cinquantième des hommes et des bêtes et il les donna aux lévites qui assurent le service de la demeure du Seigneur, comme le Seigneur le lui avait ordonné.
+31,48	Ceux qui avaient commandé les unités en campagne, chefs de milliers et chefs de centaines, s'approchèrent de Moïse
+31,49	et lui dirent : « Tes serviteurs ont fait le compte des combattants qui étaient sous nos ordres ; il ne nous manque pas un homme.
+31,50	En conséquence nous apportons en présent au Seigneur, pour faire le rite d'absolution sur nos personnes devant le Seigneur, les objets d'or, bracelets, anneaux, bagues, boucles d'oreilles et pendentifs que chacun a trouvés.. »
+31,51	Moïse et le prêtre Eléazar reçurent d'eux cet or : ce n'était qu'objets ouvragés.
+31,52	Tout l'or qu'ils prélevèrent en redevance pour le Seigneur faisait dix-sept mille sicles, offert par les chefs de milliers et les chefs de centaines.
+31,53	Les soldats avaient pillé chacun pour soi.
+31,54	Moïse et le prêtre Eléazar reçurent donc l'or des chefs de milliers et de centaines ; ils l'apportèrent dans la tente de la rencontre pour servir aux fils d'Israël de mémorial devant le Seigneur.
+32,1	Les fils de Ruben et les fils de Gad avaient des troupeaux nombreux, considérables. En regardant le pays de Yazér et le pays de Galaad, ils virent que la région convenait aux troupeaux.
+32,2	Les fils de Gad et les fils de Ruben vinrent donc dire à Moïse, au prêtre Eléazar et aux responsables de la communauté :
+32,3	« Ataroth, Divôn, Yazér, Nimra, Heshbôn, Eléalé, Sevam, Nébo, Béôn,
+32,4	ce pays que le Seigneur a frappé devant la communauté d'Israël est un pays qui convient aux troupeaux ; or tes serviteurs ont des troupeaux.
+32,5	Si nous avons trouvé grâce à tes yeux, dirent-ils, que ce pays soit attribué comme propriété à tes serviteurs ; ne nous fais pas passer le Jourdain.. »
+32,6	Mais Moïse dit aux fils de Gad et aux fils de Ruben : « Quoi ! vos frères vont partir au combat et vous, vous resteriez ici. ?
+32,7	Pourquoi découragez-vous les fils d'Israël de passer dans le pays que le Seigneur leur donne. ?
+32,8	C'est bien ce qu'ont fait vos pères quand je les ai envoyés de Qadesh-Barnéa reconnaître le pays !
+32,9	Ils sont montés jusqu'à la vallée d'Eshkol et, après avoir reconnu le pays, ils ont découragé les fils d'Israël en les dissuadant d'entrer dans le pays que le Seigneur leur donnait.
+32,10	Le Seigneur s'est enflammé de colère ce jour-là et il a juré :
+32,11	Jamais ces hommes qui sont montés d'Égypte-ceux de vingt ans et plus-ne verront la terre que j'ai promise à Abraham, à Isaac et à Jacob, puisqu'ils ont hésité à me suivre !
+32,12	Seuls furent exceptés Caleb, fils de Yefounnè, le Qenizzite, et Josué, fils de Noun, parce qu'ils avaient suivi le Seigneur sans hésitation.
+32,13	Le Seigneur s'est enflammé de colère contre Israël et il les a fait errer dans le désert pendant quarante ans jusqu'à la disparition de toute la génération qui avait fait ce qui déplait au Seigneur.
+32,14	Et vous, race de pécheurs, voilà que vous prenez le relais de vos pères pour attiser la colère du Seigneur à l'égard d'Israël !
+32,15	Car si vous cessez de le suivre, il prolongera encore le séjour d'Israël au désert et vous aurez causé la perte de tout ce peuple.. »
+32,16	S'approchant de lui, ils dirent : « Nous allons construire ici des parcs à moutons pour nos troupeaux et des villes pour nos enfants.
+32,17	Et nous-mêmes, nous nous empresserons de prendre les armes pour marcher devant les fils d'Israël, jusqu'à ce que nous les ayons fait entrer chez eux. Nos enfants resteront ici dans les villes fortes où ils seront protégés contre les habitants du pays.
+32,18	Nous ne retournerons pas dans nos maisons avant que chacun des fils d'Israël soit en possession de son patrimoine.
+32,19	Mais nous ne recevrons pas notre patrimoine avec eux, de l'autre côté du Jourdain, car notre patrimoine se trouve de ce côté-ci, à l'est du Jourdain.. »
+32,20	Moïse leur dit : « Si vous faites cela, si vous prenez les armes devant le Seigneur pour monter au combat,
+32,21	si tous vos hommes de guerre passent le Jourdain devant le Seigneur jusqu'à ce qu'il ait chassé devant lui tous ses ennemis,
+32,22	si vous ne repartez qu'une fois le pays soumis devant le Seigneur, vous serez quittes envers le Seigneur et envers Israël, et ce pays-ci sera votre propriété devant le Seigneur.
+32,23	Mais si vous n'agissez pas ainsi, vous péchez contre le Seigneur. Et sachez que votre péché vous poursuivrait.
+32,24	Construisez des villes pour vos enfants et des parcs pour vos moutons. Mais la promesse sortie de votre bouche, tenez-la.. »
+32,25	Les fils de Gad, et les fils de Ruben dirent à Moïse : « Tes serviteurs se conformeront aux ordres de mon Seigneur.
+32,26	Nos femmes et nos enfants, nos troupeaux et toutes nos bêtes resteront ici, dans les villes du Galaad.
+32,27	Et tes serviteurs, tous équipés pour partir en campagne, passeront devant le Seigneur pour monter au combat, comme mon Seigneur le dit.. »
+32,28	Moïse donna des ordres à leur sujet au prêtre Eléazar, à Josué, fils de Noun, et aux chefs de famille des tribus des fils d'Israël.
+32,29	Il leur dit : « Si les fils de Gad et les fils de Ruben passent le Jourdain avec vous, tous armés pour monter au combat devant le Seigneur, vous, quand le pays vous sera soumis, vous leur donnerez le pays du Galaad pour propriété.
+32,30	Mais s'ils ne passent pas avec vous en armes, ils auront leur patrimoine au milieu de vous dans le pays de Canaan.. »
+32,31	Les fils de Gad et les fils de Ruben répliquèrent : « Nous ferons ce que le Seigneur a dit à tes serviteurs.
+32,32	Nous-mêmes, en armes, nous passerons dans le pays de Canaan devant le Seigneur ; mais pour nous, le territoire qui sera notre patrimoine se trouve de ce côté-ci du Jourdain.. »
+32,33	Moïse donna aux fils de Gad, aux fils de Ruben et à la moitié de la tribu de Manassé, fils de Joseph, le royaume de Sihôn, roi des Amorites, et le royaume de Og, roi du Bashân ; le pays avec ses villes et leur territoire, les villes du pays environnant.
+32,34	Les fils de Gad reconstruisirent Divôn, Ataroth, Aroër,
+32,35	Atroth-Shofân, Yazér, Yogboha,
+32,36	Beth-Nimra et Beth-Harân ; ils construisirent ces villes fortes et des parcs à moutons.
+32,37	Les fils de Ruben reconstruisirent Heshbôn, Eléalé, Qiryataïm,
+32,38	Nébo, Baal-Méôn-dont les noms furent changés-et Sivma. Ils donnèrent d'autres noms aux villes qu'ils avaient reconstruites.
+32,39	Les fils de Makir, fils de Manassé, allèrent au Galaad, s'emparèrent du pays et chassèrent les Amorites qui s'y trouvaient.
+32,40	Alors Moïse donna le Galaad à Makir, fils de Manassé, qui s'y installa.
+32,41	Yaïr, fils de Manassé, alla s'emparer de leurs campements qu'il appela campements de Yaïr.
+32,42	Novah alla s'emparer de Qenath et de ses dépendances ; il l'appela Novah, de son propre nom.
+33,1	Voici les étapes que parcoururent les fils d'Israël lorsqu'ils sortirent du pays d'Égypte avec leurs armées sous la conduite de Moïse et Aaron.
+33,2	Moïse nota les stations d'où ils partaient sur l'ordre du Seigneur. Voici donc leurs étapes ou leurs stations :
+33,3	Ils partirent de Ramsès le premier mois, le quinzième jour de ce mois. C'est le lendemain de la Pâque que les fils d'Israël sortirent librement sous les yeux de tous les Égyptiens,
+33,4	tandis que ceux-ci enterraient ceux des leurs que le Seigneur avait frappés pour faire justice de leurs dieux, c'est-à-dire tous les premiers-nés.
+33,5	Partis de Ramsès, les fils d'Israël campèrent à Soukkoth.
+33,6	Partis de Soukkoth, ils campèrent à Etâm, aux confins du désert.
+33,7	Partis d'Etâm, ils revinrent sur Pi-Hahiroth, en face de Baal-Cefôn, et campèrent devant Migdol.
+33,8	Partis de devant Hahiroth, ils gagnèrent le désert en traversant la mer et, après trois jours de marche dans le désert d'Etâm, ils campèrent à Mara.
+33,9	Partis de Mara, ils arrivèrent à Elim où se trouvent douze sources et soixante-dix palmiers ; c'est là qu'ils campèrent.
+33,10	Partis d'Elim, ils campèrent près de la mer des Joncs.
+33,11	Partis de la mer des Joncs, ils campèrent dans le désert de Sîn.
+33,12	Partis du désert de Sîn, ils campèrent à Dofqa.
+33,13	Partis de Dofqa, ils campèrent à Aloush.
+33,14	Partis d'Aloush, ils campèrent à Refidim où le peuple n'eut pas d'eau à boire.
+33,15	Partis de Refidim, ils campèrent dans le désert du Sinaï.
+33,16	Partis du désert du Sinaï, ils campèrent à Qivroth-Taawa.
+33,17	Partis de Qivroth-Taawa, ils campèrent à Hacéroth.
+33,18	Partis de Hacéroth, ils campèrent à Ritma.
+33,19	Partis de Ritma, ils campèrent à Rimmôn-Pèrèç.
+33,20	Partis de Rimmôn-Pèrèç, ils campèrent à Livna.
+33,21	Partis de Livna, ils campèrent à Rissa.
+33,22	Partis de Rissa, ils campèrent à Qehélata.
+33,23	Partis de Qehélata, ils campèrent au mont Shèfer.
+33,24	Partis du mont Shèfer, ils campèrent à Harada.
+33,25	Partis de Harada, ils campèrent à Maqehéloth.
+33,26	Partis de Maqehéloth, ils campèrent à Tahath.
+33,27	Partis de Tahath, ils campèrent à Tèrah.
+33,28	Partis de Tèrah, ils campèrent à Mitqa.
+33,29	Partis de Mitqa, ils campèrent à Hashmona.
+33,30	Partis de Hashmona, ils campèrent à Mosséroth.
+33,31	Partis de Mosséroth, ils campèrent à Bené-Yaaqân.
+33,32	Partis de Bené-Yaaqân, ils campèrent à Hor-Guidgad.
+33,33	Partis de Hor-Guidgad, ils campèrent à Yotvata.
+33,34	Partis de Yotvata, ils campèrent à Avrona.
+33,35	Partis de Avrona, ils campèrent à Ecion-Guèvèr.
+33,36	Partis de Ecion-Guèvèr, ils campèrent dans le désert de Cîn, c'est-à-dire à Qadesh.
+33,37	Partis de Qadesh, ils campèrent à Hor-la-Montagne, aux confins du pays d'Édom.
+33,38	Sur l'ordre du Seigneur, le prêtre Aaron monta à Hor-la-Montagne et c'est là qu'il mourut, quarante ans après la sortie des fils d'Israël du pays d'Égypte, au cinquième mois, le premier du mois.
+33,39	Aaron avait cent vingt-trois ans lorsqu'il mourut à Hor-la-Montagne.
+33,40	Les Cananéens-le roi d'Arad habitait le Néguev, dans le pays de Canaan-apprirent l'arrivée des fils d'Israël.
+33,41	Partis de Hor-la-Montagne, ils campèrent à Çalmona.
+33,42	Partis de Çalmona, ils campèrent à Pounôn.
+33,43	Partis de Pounôn, ils campèrent à Ovoth.
+33,44	Partis d'Ovoth, ils campèrent à Iyyé-Avarim, à la frontière de Moab.
+33,45	Partis de Iyyim, ils campèrent à Divôn-Gad.
+33,46	Partis de Divôn-Gad, ils campèrent à Almôn-Divlataïma.
+33,47	Partis d'Almôn-Divlataïma, ils campèrent dans les monts Avarim, en face de Nébo.
+33,48	Partis des monts Avarim, ils campèrent dans la plaine de Moab, au bord du Jourdain, à la hauteur de Jéricho.
+33,49	Ils campèrent au bord du Jourdain depuis Beth-Yeshimoth jusqu'à Avel-Shittim, dans la plaine de Moab.
+33,50	Le Seigneur dit à Moïse dans la plaine de Moab, au bord du Jourdain à la hauteur de Jéricho :
+33,51	« Parle aux fils d'Israël et dis-leur : Quand vous aurez passé le Jourdain pour entrer dans le pays de Canaan,
+33,52	vous chasserez devant vous tous les habitants du pays, vous ferez disparaître toutes leurs idoles de pierre, vous ferez disparaître toutes leurs statues de métal fondu et vous supprimerez tous leurs hauts lieux.
+33,53	Vous prendrez possession du pays et vous y habiterez ; car c'est à vous que je donne ce pays pour que vous le possédiez.
+33,54	Vous partagerez le pays entre vos clans par tirage au sort. Pour un clan plus important, vous ferez une part plus grande et, pour un clan plus restreint, une part plus petite. Chacun aura sa part à l'endroit qui lui sera dévolu par lesort ; vous ferez le partage entre vos tribus patenelles.
+33,55	Mais si vous ne chassez pas devant vous les habitants du pays, ceux d'entre eux que vous aurez laissés seront comme des piquants dans vos yeux et des épines dans vos flancs. Ils vous harcèleront dans le pays même où vous habiterez,
+33,56	et ce que j'avais pensé leur faire, c'est à vous que je le ferai.. » un Le Seigneur parla à Moïse :
+34,1	
+34,2	« Donne aux fils d'Israël les ordres suivants : Lorsque vous entrerez dans le pays de Canaan, voici quel sera le pays qui vous échoira comme patrimoine : le pays de Canaan avec les frontières suivantes.
+34,3	Votre limite sud commencera au désert de Cîn et longera Édom. A l'est, votre frontière sud partira de l'extrémité de la mer du Sel.
+34,4	Puis votre frontière obliquera au sud de la montée des Aqrabbim et passera à Cîn pour aboutir au sud de Qadesh-Barnéa, repartir vers Haçar-Addar et passer à Açmôn.
+34,5	D'Açmôn, la frontière obliquera vers le torrent d'Égypte pour aboutir à la mer.
+34,6	Pour la frontière ouest, la Grande Mer vous servira de frontière ; telle sera votre frontière ouest.
+34,7	Et voici quelle sera votre frontière nord : vous la marquerez depuis la Grande Mer jusqu'à Hor-la-Montagne.
+34,8	De Hor-la-Montagne, vous la marquerez jusqu'à Lebo-Hamath. La frontière aboutira à Cedâd,
+34,9	puis repartira vers Zifrôn pour aboutir à Haçar-Einân. Telle sera votre frontière nord.
+34,10	Pour votre frontière est, vous marquerez une ligne de Haçar-Einân à Shefâm.
+34,11	De Shefâm, la frontière descendra sur Rivla, à l'est de Aïn, puis elle descendra jusqu'à buter contre les coteaux à l'est de la mer de Kinnéreth.
+34,12	Enfin elle descendra jusqu'au Jourdain pour aboutir à la mer du Sel. Tel sera votre pays, avec les frontières qui l'entourent.. »
+34,13	Moïse donna aux fils d'Israël les instructions suivantes : « Tel est le pays où vous donnerez à chacun son patrimoine par tirage au sort, le pays que le Seigneur a prescrit de donner aux neuf tribus et à la demi-tribu.
+34,14	En effet la tribu des fils de Ruben avec ses familles et la tribu des fils de Gad avec ses familles ainsi que la moitié de la tribu de Manassé ont déjà reçu leur patrimoine.
+34,15	Ces deux tribus et la demi-tribu ont reçu leur patrimoine au-delà du Jourdain, à la hauteur de Jéricho, à l'est, au levant.. »
+34,16	Le Seigneur parla à Moïse :
+34,17	« Voici les noms des hommes qui vous attribueront vos patrimoines dans le pays : le prêtre Eléazar et Josué, fils de Noun.
+34,18	Vous prendrez en outre un responsable par tribu pour attribuer les patrimoines dans le pays.
+34,19	Et voici les noms de ces hommes : pour la tribu de Juda, Caleb, fils de Yefounnè.
+34,20	Pour la tribu des fils de Siméon, Shemouël, fils de Ammihoud.
+34,21	Pour la tribu de Benjamin, Elidad, fils de Kislôn.
+34,22	Pour la tribu des fils de Dan, responsable : Bouqqi, fils de Yogli.
+34,23	Pour les fils de Joseph, pour la tribu des fils de Manassé, responsable : Hanniël, fils d'Efod ;
+34,24	pour la tribu des fils d'Éphraïm, responsable : Qemouël, fils de Shiftân.
+34,25	Pour la tribu des fils de Zabulon, responsable : Eliçafân, fils de Parnak.
+34,26	Pour la tribu des fils d'Issakar, responsable : Paltiël, fils de Azzân.
+34,27	Pour la tribu des fils d'Asher, responsable : Ahihoud, fils de Shelomi.
+34,28	Pour la tribu des fils de Nephtali, responsable : Pedahel, fils de Ammihoud.. »
+34,29	Tels sont les hommes auxquels le Seigneur ordonna d'attribuer aux fils d'Israël leurs patrimoines dans le pays de Canaan.
+35,1	Le Seigneur parla à Moïse dans la plaine de Moab près du Jourdain à la hauteur de Jéricho. Il lui dit :
+35,2	« Ordonne aux fils d'Israël de céder une part de leur patrimoine aux lévites, des villes où ils pourront s'établir. Vous leur donnerez aussi des terres autour de ces villes.
+35,3	Les villes seront pour eux, pour qu'ils y habitent, et les terres seront pour leur bétail, pour leur matériel et pour tous leurs animaux.
+35,4	Les terres de ces villes que vous donnerez aux lévites, s'étendront à partir du mur de la ville sur mille coudées à la ronde.
+35,5	Vous mesurerez à l'extérieur de la ville du côté est deux mille coudées, du côté sud deux mille coudées, du côté ouest deux mille coudées, et du côté nord deux mille coudées, la ville étant au centre. Voilà les terres qu'ils auront autour de leurs villes.
+35,6	Les villes que vous céderez aux lévites sont les six villes de refuge que vous instituerez pour que les meurtriers y trouvent refuge ; vous y ajouterez quarante-deux autres villes.
+35,7	Les villes que vous céderez aux lévites seront quarante-huit en tout, chacune avec ses terres.
+35,8	Pour ces villes que vous prendrez sur le domaine des fils d'Israël, vous en prendrez plus à ceux qui ont plus et moins à ceux qui ont moins. Chaque tribu cédera de ses villes aux lévites en proportion du patrimoine qui lui a été attribué.. »
+35,9	Le Seigneur dit à Moïse :
+35,10	« Dis aux fils d'Israël : Quand vous passerez le Jourdain pour entrer dans le pays de Canaan,
+35,11	vous vous choisirez des villes qui vous serviront de villes de refuge. Un meurtrier qui aura tué involontairement y trouvera refuge.
+35,12	Ces villes vous serviront de refuge pour vous permettre d'échapper au vengeur. Le meurtrier ne sera pas mis à mort avant d'avoir comparu devant la communauté pour être jugé.
+35,13	Parmi les villes que vous réserverez, vous aurez six villes de refuge ;
+35,14	vous en réserverez trois de l'autre côté du Jourdain et trois dans le pays de Canaan. Ce seront des villes de refuge.
+35,15	Ces six villes serviront de refuge aussi bien aux fils d'Israël qu'à l'émigré et à l'hôte de passage au milieu d'eux ; quiconque aura tué involontairement y trouvera refuge.
+35,16	Si c'est avec un objet en fer qu'il a frappé sa victime et causé sa mort, c'est un meurtrier ; et le meurtrier sera mis à mort.
+35,17	S'il l'a frappée et a causé la mort en lançant une pierre qui peut tuer, c'est un meurtrier ; et le meurtrier sera mis à mort.
+35,18	Ou s'il l'a frappée et a causé sa mort en lançant un objet de bois qui peut tuer, c'est un meurtrier ; et le meurtrier sera mis à mort.
+35,19	C'est le vengeur qui mettra à mort le meurtrier : dès qu'il le rencontrera, c'est lui qui le mettra à mort.
+35,20	Si quelqu'un a heurté sa victime avec haine ou s'il lui a lancé quelque chose avec méchanceté et qu'il ait causé sa mort,
+35,21	s'il l'a frappée du poing avec hostilité et qu'il ait causé sa mort, celui qui a frappé sera mis à mort : c'est un meurtrier. C'est le vengeur qui mettra le meurtrier à mort dès qu'il le rencontrera.
+35,22	Mais si c'est par hasard et sans hostilité qu'il l'a heurtée, ou s'il lui a lancé un objet quelconque sans méchanceté,
+35,23	ou si, sans la voir, il l'a atteinte avec une pierre quelconque qui pouvait tuer-en faisant tomber cette pierre sur elle, il a causé sa mort-si donc il l'a fait sans lui être hostile et sans lui vouloir du mal,
+35,24	la communauté prononcera d'après ces règles entre celui qui a frappé et le vengeur.
+35,25	La communauté délivrera le meurtrier de la main du vengeur et le ramènera à la ville de refuge où il s'était réfugié. Il y demeurera jusqu'à la mort du grand prêtre consacré par l'huile sainte.
+35,26	Mais si le meurtrier s'avise de sortir du territoire de la ville de refuge où il s'est réfugié
+35,27	et que le vengeur le trouve en dehors du territoire de sa ville de refuge et qu'il le tue, le vengeur ne commet pas de crime.
+35,28	Le meurtrier restera donc dans sa ville de refuge jusqu'à la mort du grand prêtre. Après la mort de celui-ci, il retournera dans son coin de terre.
+35,29	Ce sera pour vous d'âge en âge une règle de droit, partout où vous habiterez.
+35,30	Dans tous les cas de meurtre, on ne tuera le meurtrier que sur la déposition de plusieurs témoins. On ne condamnera pas quelqu'un à mort sur la déposition d'un seul témoin.
+35,31	Vous n'accepterez pas d'indemnité pour la vie d'un meurtrier qui mérite la mort ; mais il sera mis à mort.
+35,32	Vous n'accepterez pas non plus d'indemnité pour le laisser chercher refuge dans une ville de refuge ou retourner habiter dans le pays avant la mort du prêtre.
+35,33	Vous ne profanerez pas le pays où vous vous trouvez ; en effet le sang est une chose qui profane le pays. Et on ne peut laver le pays du sang qui y a été versé que par le sang de celui qui l'a versé.
+35,34	Tu ne souilleras pas le pays où vous habitez, au milieu duquel je demeure, car je suis le Seigneur et je demeure au milieu des fils d'Israël.. »
+36,1	Alors se présentèrent les chefs de famille du clan des fils de Galaad, fils de Makir, fils de Manassé, l'un des clans des fils de Joseph. Ils prirent la parole devant Moïse et devant les responsables, chefs de tribus des fils d'Israël.
+36,2	« Le Seigneur, dirent-ils, a ordonné à mon Seigneur de donner le pays aux fils d'Israël en le partageant par tirage au sort. Et mon Seigneur a reçu du Seigneur l'ordre de donner le patrimoine de notre frère Celofehad à ses filles.
+36,3	Or, si elles épousent un homme d'une autre tribu des fils d'Israël, leur part sera retranchée du patrimoine de nos pères et s'ajoutera à celui de la tribu dans laquelle elles entreront ; elle sera retranchée du patrimoine qui nous est échu.
+36,4	Quand viendra pour les fils d'Israël l'année du jubilé, leur part sera ajoutée au patrimoine de la tribu dans laquelle elles entreront et sera retranchée du patrimoine de la tribu de nos pères.. »
+36,5	Et Moïse, sur l'ordre du Seigneur, donna aux fils d'Israël les instructions suivantes : « Les fils de la tribu de Joseph ont raison.
+36,6	Voici donc l'ordre que donne le Seigneur au sujet des filles de Celofehad : Elles épouseront qui leur plaira pourvu que ce soit un homme d'un clan de la tribu de leur père.
+36,7	Ainsi parmi les fils d'Israël un patrimoine ne passera pas d'une tribu à l'autre ; les fils d'Israël resteront attachés chacun au patrimoine de la tribu de ses pères.
+36,8	Toute fille qui héritera d'une part dans l'une des tribus des fils d'Israël ne pourra épouser qu'un homme d'un clan de la tribu de son père. Ainsi les fils d'Israël posséderont le patrimoine de leurs pères, chacun pour sa part.
+36,9	Une part d'héritage ne passera pas d'une tribu à l'autre, mais les tribus des fils d'Israël resteront attachées chacune à son patrimoine.. »
+36,10	Les filles de Celofehad firent comme le Seigneur l'avait ordonné à Moïse.
+36,11	Mahla, Tirça, Hogla, Milka et Noa, filles de Celofehad, épousèrent des fils de leurs oncles.
+36,12	Elles épousèrent donc des hommes appartenant aux familles des fils de Manassé, fils de Joseph. Et leur part d'héritage resta dans la tribu à laquelle appartenait le clan de leur père.
+36,13	Tels sont les ordres et les règles que le Seigneur prescrivit aux fils d'Israël par l'intermédiaire de Moïse, dans la plaine de Moab, au bord du Jourdain, à la hauteur de Jéricho.
