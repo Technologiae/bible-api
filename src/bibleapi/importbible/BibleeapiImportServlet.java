@@ -19,7 +19,7 @@ public class BibleeapiImportServlet extends HttpServlet {
 	private static final Logger LOGGER = Logger.getLogger(BibleeapiImportServlet.class.getName());
 	
 	public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
-		Queue queue = QueueFactory.getQueue("graphs-queue");
+		Queue queue = QueueFactory.getQueue("import-queue");
 		
 		addBibleFile(queue, new File("bible/"), "bible/");
 	}
@@ -32,7 +32,7 @@ public class BibleeapiImportServlet extends HttpServlet {
 					addBibleFile(queue, file, prefix + filename + "/");
 				} else {
 					if (filename.endsWith(".txt")) {
-						LOGGER.info("addBibleFile " + filename);
+						System.out.println("addBibleFile " + filename);
 						queue.add(url("/importBible").method(Method.GET).param("file", prefix + filename));
 					}
 				}
