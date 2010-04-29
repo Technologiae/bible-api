@@ -14,6 +14,7 @@ public class BibleeapiAddServlet extends HttpServlet {
 		String verset = req.getParameter("verset");
 		if (reference == null || reference.isEmpty() || verset == null || verset.isEmpty()) {
 			resp.sendRedirect("/index.html");
+			return;
 		}
 		service.addVerset(reference, verset);
 		resp.sendRedirect("/" + reference);

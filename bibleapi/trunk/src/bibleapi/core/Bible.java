@@ -5,10 +5,15 @@ import javax.jdo.annotations.PersistenceCapable;
 import javax.jdo.annotations.Persistent;
 import javax.jdo.annotations.PrimaryKey;
 
+import org.compass.annotations.Searchable;
+import org.compass.annotations.SearchableId;
+import org.compass.annotations.SearchableProperty;
+
 import com.google.appengine.api.datastore.Text;
 
 
 @PersistenceCapable(identityType = IdentityType.APPLICATION)
+@Searchable
 public class Bible {
 	/**
 	 * Référence biblique d'un verset
@@ -16,6 +21,7 @@ public class Bible {
 	 */
 	@PrimaryKey
 	@Persistent
+	@SearchableId
 	private String reference;
 	
 	/**
@@ -28,24 +34,28 @@ public class Bible {
 	 * Version de la bible
 	 */
 	@Persistent
+	@SearchableProperty
 	private String version;
 	
 	/**
 	 * Livre de la bible
 	 */
 	@Persistent
+	@SearchableProperty
 	private String book;
 	
 	/**
 	 * Chapitre du verset
 	 */
 	@Persistent
+	@SearchableProperty
 	private Integer chapter;
 	
 	/**
 	 * Numéro du verset
 	 */
 	@Persistent
+	@SearchableProperty
 	private Integer verse;
 	
 	public Bible() {
@@ -54,6 +64,20 @@ public class Bible {
 	public Bible(String reference, String verset) {
 		setReference(reference);
 		setVerset(verset);
+		Reference ref = new Reference(reference);
+		setVersion(ref.getVersion());
+		setBook(ref.getBook());
+		setChapter(ref.getChapter());
+		setVerse(ref.getVerset());
+	}
+	
+	public Bible(Reference reference, String verset) {
+		setReference(reference.toString());
+		setVerset(verset);
+		setVersion(reference.getVersion());
+		setBook(reference.getBook());
+		setChapter(reference.getChapter());
+		setVerse(reference.getVerset());
 	}
 	
 	public void setReference(String reference) {
@@ -96,6 +120,7 @@ public class Bible {
 		this.verset = new Text(verset);
 	}
 
+	@SearchableProperty
 	public String getVerset() {
 		return verset.getValue();
 	}
