@@ -33,6 +33,13 @@ public class Reference {
 		parse(reference);
 	}
 
+	/**
+	 * Crée une nouvelle référence de bible
+	 * @param version Version of the Bible (Bi
+	 * @param book
+	 * @param chapter
+	 * @param verset
+	 */
 	public Reference(String version, String book, Integer chapter, Integer verset) {
 		this.version = version;
 		this.book = book;

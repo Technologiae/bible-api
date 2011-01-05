@@ -1,63 +1,52 @@
 package bibleapi.core;
 
-import javax.jdo.annotations.IdentityType;
-import javax.jdo.annotations.PersistenceCapable;
-import javax.jdo.annotations.Persistent;
-import javax.jdo.annotations.PrimaryKey;
+import java.util.HashSet;
+import java.util.Set;
 
-import org.compass.annotations.Searchable;
-import org.compass.annotations.SearchableId;
-import org.compass.annotations.SearchableProperty;
+import javax.persistence.Id;
+
+import bibleapi.search.SearchJanitor;
 
 import com.google.appengine.api.datastore.Text;
 
-
-@PersistenceCapable(identityType = IdentityType.APPLICATION)
-@Searchable
 public class Bible {
+
 	/**
-	 * Référence biblique d'un verset
-	 * Version:Livre,Chapitre,Verset
+	 * Référence biblique d'un verset Version:Livre,Chapitre,Verset
 	 */
-	@PrimaryKey
-	@Persistent
-	@SearchableId
+	@Id
 	private String reference;
-	
+
 	/**
 	 * texte du verset
 	 */
-	@Persistent
 	private Text verset;
-	
+
 	/**
 	 * Version de la bible
 	 */
-	@Persistent
-	@SearchableProperty
 	private String version;
-	
+
 	/**
 	 * Livre de la bible
 	 */
-	@Persistent
-	@SearchableProperty
 	private String book;
-	
+
 	/**
 	 * Chapitre du verset
 	 */
-	@Persistent
-	@SearchableProperty
 	private Integer chapter;
-	
+
 	/**
 	 * Numéro du verset
 	 */
-	@Persistent
-	@SearchableProperty
-	private Integer verse;
-	
+	private Integer versetNumber;
+
+	/**
+	 * For the search
+	 */
+	private Set<String> fts = new HashSet<String>();
+
 	public Bible() {
 	}
 
@@ -68,24 +57,32 @@ public class Bible {
 		setVersion(ref.getVersion());
 		setBook(ref.getBook());
 		setChapter(ref.getChapter());
-		setVerse(ref.getVerset());
+		setVersetNumber(ref.getVerset());
 	}
-	
+
 	public Bible(Reference reference, String verset) {
 		setReference(reference.toString());
 		setVerset(verset);
 		setVersion(reference.getVersion());
 		setBook(reference.getBook());
 		setChapter(reference.getChapter());
-		setVerse(reference.getVerset());
+		setVersetNumber(reference.getVerset());
 	}
-	
+
 	public void setReference(String reference) {
 		this.reference = reference;
 	}
 
 	public String getReference() {
 		return reference;
+	}
+	
+	/**
+	 * Retourne l'object reference
+	 * @return
+	 */
+	public Reference toReference() {
+		return new Reference(version, book, chapter, versetNumber);
 	}
 
 	public String getBook() {
@@ -104,12 +101,12 @@ public class Bible {
 		this.chapter = chapter;
 	}
 
-	public Integer getVerse() {
-		return verse;
+	public Integer getVersetNumber() {
+		return versetNumber;
 	}
 
-	public void setVerse(Integer verse) {
-		this.verse = verse;
+	public void setVersetNumber(Integer verse) {
+		this.versetNumber = verse;
 	}
 
 	public void setVerset(Text verset) {
@@ -118,9 +115,17 @@ public class Bible {
 
 	public void setVerset(String verset) {
 		this.verset = new Text(verset);
+		SearchJanitor.updateFTSStuffForBibleEntry(this);
 	}
 
-	@SearchableProperty
+	public void setFts(Set<String> fts) {
+		this.fts = fts;
+	}
+
+	public Set<String> getFts() {
+		return fts;
+	}
+
 	public String getVerset() {
 		return verset.getValue();
 	}

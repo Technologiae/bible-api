@@ -9,25 +9,41 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>BibleAPI la bible accèssible facilement</title>
+    <title>BibleAPI : la bible accésible facilement</title>
   </head>
 
   <body>
-    <h1>BibleAPI</h1>
+    <h1>BibleAPI : la bible accésible facilement</h1>
 	
+    <p>BibleAPI est un ensemble d'API permettant d'accèder facilement à la bible et ainsi de l'afficher sur votre site, juste en passant la référence dans l'url, le texte de la bible est affiché</p>
+    
+    <p>Deux services sont proposés :
+	<ul>
+	<li>Recherche des mots dans les versets de la bible (exemple <a href="http://bibleapi.appspot.com/s?q=silence">Silence</a>, <a href="http://bibleapi.appspot.com/s?q=mer">Mer</a>, <a href="http://bibleapi.appspot.com/s?q=jesus">Jésus</a>)
+    Construisez l'URL de cette façon : http://bibleapi.appspot.com/s?q={Mot à chercher}
     <form action="/s" method="get">
     	<input type="text" name="q" />
     	<input type="submit" value="Rechercher"/>
     </form>
-    <p>BibleAPI est un service gratuit permet d'accèder facilement à la bible, juste en passant la référence dans l'url, le texte de la bible est affiché</p>
-    
-    <form action="/add" method="get">
-    	Référence (VersionDelaBible:NomLivre,NumeroChapitre,NumeroVerset ie TOB:Mc,4,39)<br />
-    	<input type="text" name="reference" /><br />
-    	Verset<br />
-    	<textarea name="verset"></textarea><br />
-    	<input type="submit" value="Ajouter le verset"/>
+	</li>
+	<li>Affichage des versets par leur référence
+    Construisez l'URL de cette façon : http://bibleapi.appspot.com/{Références bible}
+    <form action="/r" method="get">
+    	Référence (VersionDelaBible:NomLivre,NumeroChapitre,NumeroVerset ie tob:mc,4,39-42)<br />
+    	<input type="text" name="r" />   	
+    	<input type="submit" value="Afficher les versets"/>
     </form>
+	</li>
+	</ul> 
+	
+	<p>Les résultats sont disponible sous forme HTML par défaut, de cette façon, vous pouvez inclure le résultat directement sur votre site :</p>
+	<pre>
+		&lt;iframe src="http://bibleapi.appspot.com/mc,4,39-42"/&gt;
+	</pre>
+	
+	<p>Les deux services supporte l'exports sous deux formats : l'XML et le JSON, en précisant le paramètre "o=xml" ou "o=json"</p>
+	
+	<br/><small>&copy; bibleAPI <a href="http://www.technologiae.org">Technologiae.org</a></small>
     
   </body>
 </html>

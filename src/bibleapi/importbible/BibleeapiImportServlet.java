@@ -1,6 +1,6 @@
 package bibleapi.importbible;
 
-import static com.google.appengine.api.labs.taskqueue.TaskOptions.Builder.url;
+import static com.google.appengine.api.taskqueue.TaskOptions.Builder.withUrl;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,9 +10,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.google.appengine.api.labs.taskqueue.Queue;
-import com.google.appengine.api.labs.taskqueue.QueueFactory;
-import com.google.appengine.api.labs.taskqueue.TaskOptions.Method;
+import com.google.appengine.api.taskqueue.Queue;
+import com.google.appengine.api.taskqueue.QueueFactory;
+import com.google.appengine.api.taskqueue.TaskOptions.Method;
 
 @SuppressWarnings("serial")
 public class BibleeapiImportServlet extends HttpServlet {
@@ -33,7 +33,7 @@ public class BibleeapiImportServlet extends HttpServlet {
 				} else {
 					if (filename.endsWith(".txt")) {
 						System.out.println("addBibleFile " + filename);
-						queue.add(url("/importBible").method(Method.GET).param("file", prefix + filename));
+						queue.add(withUrl("/admin/importBible").method(Method.GET).param("file", prefix + filename).param("offset", "0"));
 					}
 				}
 			}
