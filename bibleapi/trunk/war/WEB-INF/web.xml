@@ -4,21 +4,9 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
 http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 	version="2.5">
-	<filter>
-		<filter-name>PersistenceManagerFilter</filter-name>
-		<filter-class>bibleapi.tools.PersistenceManagerFilter</filter-class>
-	</filter>
-	<filter-mapping>
-		<filter-name>PersistenceManagerFilter</filter-name>
-		<url-pattern>/*</url-pattern>
-	</filter-mapping>
 	<servlet>
 		<servlet-name>Bibleeapi</servlet-name>
 		<servlet-class>bibleapi.BibleeapiServlet</servlet-class>
-	</servlet>
-	<servlet>
-		<servlet-name>BibleeapiAdd</servlet-name>
-		<servlet-class>bibleapi.BibleeapiAddServlet</servlet-class>
 	</servlet>
 	<servlet>
 		<servlet-name>BibleeapiSearch</servlet-name>
@@ -29,24 +17,32 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 		<servlet-class>bibleapi.importbible.BibleeapiImportServlet</servlet-class>
 	</servlet>
 	<servlet>
+		<servlet-name>BibleeapiDelete</servlet-name>
+		<servlet-class>bibleapi.importbible.BibleeapiDeleteServlet</servlet-class>
+	</servlet>
+	<servlet>
 		<servlet-name>BibleeapiImportBible</servlet-name>
 		<servlet-class>bibleapi.importbible.BibleeapiImportBibleServlet</servlet-class>
 	</servlet>
-	<servlet-mapping>
-		<servlet-name>BibleeapiAdd</servlet-name>
-		<url-pattern>/add</url-pattern>
-	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>BibleeapiSearch</servlet-name>
 		<url-pattern>/s</url-pattern>
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>BibleeapiImport</servlet-name>
-		<url-pattern>/import</url-pattern>
+		<url-pattern>/admin/import</url-pattern>
 	</servlet-mapping>
 		<servlet-mapping>
 		<servlet-name>BibleeapiImportBible</servlet-name>
-		<url-pattern>/importBible</url-pattern>
+		<url-pattern>/admin/importBible</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>BibleeapiDelete</servlet-name>
+		<url-pattern>/admin/delete</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>Bibleeapi</servlet-name>
+		<url-pattern>/r</url-pattern>
 	</servlet-mapping>
 	<servlet-mapping>
 		<servlet-name>Bibleeapi</servlet-name>
@@ -55,4 +51,13 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
+	<security-constraint>
+        <web-resource-collection>
+        	<web-resource-name>admin</web-resource-name>
+            <url-pattern>/admin/*</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
 </web-app>
