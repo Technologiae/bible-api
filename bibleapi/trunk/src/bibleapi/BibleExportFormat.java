@@ -29,7 +29,7 @@ import bibleapi.core.Book;
 public class BibleExportFormat {
 	public static String getText (Collection<Bible> results, String query) {
 		StringBuilder response = new StringBuilder();
-		response.append("Il y a ").append(results.size()).append(" résultats pour la recherche \"").append(query).append("\"<br />");
+		//response.append("Il y a ").append(results.size()).append(" résultats pour la recherche \"").append(query).append("\"<br />");
 		String currentVersion = null;
 		String currentBook = null;
 		Integer currentChapter = null;

@@ -43,6 +43,11 @@ public class Parser {
 			searchVerset();
 			if (currentPosition >= currentSearch.length() || firstPosition == currentPosition)
 				break;
+			if (trimSpaceWithoutSemiColon())
+				break;
+			if (currentSearch.charAt(currentPosition) == ';') { //If there are Semi-Colon (;), the current chapter is reset and the next number was a chapter
+				currentChapter = null;
+			}
 		}
 		return listeReference;
 	}
@@ -83,7 +88,6 @@ public class Parser {
 			currentPosition += versetStr.length();
 			if (!trimSpaceWithoutMinus()) {
 				if (currentSearch.charAt(currentPosition) == '-' ||
-					currentSearch.startsWith("à", currentPosition) ||
 					currentSearch.charAt(currentPosition) == 'a') {
 					currentPosition += 1;
 					if (!trimSpace()) {
@@ -155,11 +159,16 @@ public class Parser {
 	}
 	
 	private boolean trimSpaceWithoutMinus() {
-		while(currentPosition < currentSearch.length() && currentSearch.charAt(currentPosition) != '-' && !Character.isLetterOrDigit(currentSearch.charAt(currentPosition))) {
+		while(currentPosition < currentSearch.length() && currentSearch.charAt(currentPosition) != ';' && currentSearch.charAt(currentPosition) != '-' && !Character.isLetterOrDigit(currentSearch.charAt(currentPosition))) {
 			++currentPosition;
 		}
 		return currentPosition >= currentSearch.length();
 	}
 	
-	
+	private boolean trimSpaceWithoutSemiColon() {
+		while(currentPosition < currentSearch.length() && currentSearch.charAt(currentPosition) != ';' && !Character.isLetterOrDigit(currentSearch.charAt(currentPosition))) {
+			++currentPosition;
+		}
+		return currentPosition >= currentSearch.length();
+	}
 }
