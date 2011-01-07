@@ -7,43 +7,191 @@
 <!-- but may lead to some differences in layout.   -->
 
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>BibleAPI : la bible accésible facilement</title>
-  </head>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>BibleAPI : la bible accessible facilement</title>
+<style type="text/css">
+body {
+	font-family: verdana, helvetica, arial;
+	font-size: 12px;
+	color: #666;
+}
 
-  <body>
-    <h1>BibleAPI : la bible accésible facilement</h1>
-	
-    <p>BibleAPI est un ensemble d'API permettant d'accèder facilement à la bible et ainsi de l'afficher sur votre site, juste en passant la référence dans l'url, le texte de la bible est affiché</p>
-    
-    <p>Deux services sont proposés :
-	<ul>
-	<li>Recherche des mots dans les versets de la bible (exemple <a href="http://bibleapi.appspot.com/s?q=silence">Silence</a>, <a href="http://bibleapi.appspot.com/s?q=mer">Mer</a>, <a href="http://bibleapi.appspot.com/s?q=jesus">Jésus</a>)
-    Construisez l'URL de cette façon : http://bibleapi.appspot.com/s?q={Mot à chercher}
-    <form action="/s" method="get">
-    	<input type="text" name="q" />
-    	<input type="submit" value="Rechercher"/>
-    </form>
+.logo {
+	float: left;
+	margin-right: 10px;
+}
+
+h3 {
+	background-image: url(point.png);
+	background-position: center left;
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	height: 16px;
+	text-decoration: underline;
+	clear: both;
+}
+
+hr {
+	background-color: #D4D4D4;
+	color: #D4D4D4;
+	height: 1px;
+	border: 0px;
+	width: 540px;
+	text-align: left;
+	margin-left: 0;
+}
+
+li {
+	list-style-image: url("sqorange.gif");
+	clear: both;
+}
+
+a,a:active,a:visited {
+	color: #666;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.searchBox {
+	width: 300px;
+	float: left;
+}
+
+.button {
+	display: block;
+	float: left;
+	color: white;
+	background-color: #98BF21;
+	font-weight: bold;
+	font-size: 11px;
+	text-align: center;
+	padding: 0;
+	padding-top: 2px;
+	padding-bottom: 3px;
+	border: 1px solid white;
+	outline: 1px solid #98BF21;
+	text-decoration: none;
+	margin-left: 1px;
+	width: 120px;
+}
+
+.iframe {
+	width: 800px;
+	height: 300px;
+	margin-left: 20px;
+	border: thin #D4D4D4 solid;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+pre {
+	border: 5px solid #E5EECC;
+	width: 500px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding: 3px;
+}
+</style>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push([ '_setAccount', 'UA-12886932-11' ]);
+	_gaq.push([ '_trackPageview' ]);
+
+	(function() {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www')
+				+ '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+
+<body>
+<h1><img src="bible.png" class="logo">BibleAPI : la bible
+accessible facilement
+<hr />
+</h1>
+<p>BibleAPI est un ensemble d'API permettant d'accèder facilement à
+la bible et pouvoir l'afficher sur votre site, juste en donnant la
+référence dans l'url, le texte de la bible est affiché au format HTML</p>
+
+<h3>Deux services sont proposés :</h3>
+<ul>
+	<li>Recherche des mots dans les versets de la bible (exemple <a
+		href="http://bibleapi.appspot.com/s?q=silence">Silence</a>, <a
+		href="http://bibleapi.appspot.com/s?q=mer">Mer</a>, <a
+		href="http://bibleapi.appspot.com/s?q=jésus">Jésus</a>, <a
+		href="http://bibleapi.appspot.com/s?q=lumière+ténèbre">Lumière
+	Ténèbre</a>) <br />
+	Construisez l'URL de cette façon : http://bibleapi.appspot.com/s?q=<b>{Mot
+	à chercher}</b>
+	<form action="/s" method="get"><input type="text" name="q"
+		class="searchBox" /> <input type="submit" value="Rechercher" class="button"/></form>
 	</li>
-	<li>Affichage des versets par leur référence
-    Construisez l'URL de cette façon : http://bibleapi.appspot.com/{Références bible}
-    <form action="/r" method="get">
-    	Référence (VersionDelaBible:NomLivre,NumeroChapitre,NumeroVerset ie tob:mc,4,39-42)<br />
-    	<input type="text" name="r" />   	
-    	<input type="submit" value="Afficher les versets"/>
-    </form>
+	<li>Affichage des versets par leur référence Construisez l'URL de
+	cette façon : http://bibleapi.appspot.com/{Références bible}
+	<form action="/r" method="get">Référence
+	(VersionDelaBible:NomLivre,NumeroChapitre,NumeroVerset ie <a
+		href="http://bibleapi.appspot.com/tob:mc,4,39-42">tob:mc,4,39-42</a>)<br />
+	<input type="text" name="r" class="searchBox" /> <input type="submit"
+		value="Afficher les versets" class="button" /></form>
 	</li>
-	</ul> 
-	
-	<p>Les résultats sont disponible sous forme HTML par défaut, de cette façon, vous pouvez inclure le résultat directement sur votre site :</p>
-	<pre>
-		&lt;iframe src="http://bibleapi.appspot.com/mc,4,39-42"/&gt;
-	</pre>
-	
-	<p>Les deux services supporte l'exports sous deux formats : l'XML et le JSON, en précisant le paramètre "o=xml" ou "o=json"</p>
-	
-	<br/><small>&copy; bibleAPI <a href="http://www.technologiae.org">Technologiae.org</a></small>
-    
-  </body>
+</ul>
+<h3>La référence biblique peux être écrire de différentes façon :</h3>
+<ul>
+	<li><a href="http://bibleapi.appspot.com/mc,4,39">http://bibleapi.appspot.com/<b>mc,4,39</b></a></li>
+	<li><a href="http://bibleapi.appspot.com/1m,chp1,v1">http://bibleapi.appspot.com/<b>1m,chp1,v1</b></a></li>
+	<li><a href="http://bibleapi.appspot.com/jean%201%201">http://bibleapi.appspot.com/<b>jean
+	1 1</b></a></li>
+	<li><a href="http://bibleapi.appspot.com/genese,1,1;2,2">http://bibleapi.appspot.com/<b>genese,1,1;2,2</b></a></li>
+	<li><a href="http://bibleapi.appspot.com/tob:mc,4,39;bj:jn,3,2">http://bibleapi.appspot.com/<b>tob:mc,4,39;bj:jn,3,2</b></a></li>
+	<li><a
+		href="http://bibleapi.appspot.com/Evangile%20selon%20St%20Marc%20Chapitre%204%20verset%2039%20à%2042">http://bibleapi.appspot.com/<b>Evangile
+	selon St Marc Chapitre 4 verset 39 à 42</b></a></li>
+</ul>
+
+
+<h3>Intégrer dans votre site</h3>
+<p>Les résultats sont disponible sous forme HTML par défaut, de
+cette façon, vous pouvez inclure le résultat directement sur votre site
+:</p>
+<pre>
+&lt;iframe src="<b>http://bibleapi.appspot.com/jn,1,1-42</b>" 
+	style="border:none;width:800px;height:300px"&gt;&lt;/iframe&gt;
+</pre>
+<iframe src="http://bibleapi.appspot.com/jn,1,1-42" class="iframe"></iframe>
+<p>Ou directement dans la page avec une requête ajax ou en incluant
+le fichier dans PHP</p>
+<pre>
+&lt;?php
+echo file_get_content("<b>http://bibleapi.appspot.com/mc,4,39-42</b>");
+?&gt;
+</pre>
+
+<h3>Format d'affichage et autres options</h3>
+<p>Les deux services supportent l'export sous deux formats : l'XML
+et le JSON, en précisant le paramètre "<b>o=xml</b>" ou "<b>o=json</b>",
+par défaut l'affichage est en HTML
+<ul>
+	<li><a href="http://bibleapi.appspot.com/mc,4,39-42?o=xml">http://bibleapi.appspot.com/mc,4,39-42?o=xml</a></li>
+	<li><a href="http://bibleapi.appspot.com/mc,4,39-42?o=json">http://bibleapi.appspot.com/mc,4,39-42?o=json</a></li>
+</ul>
+</p>
+
+<p>Enfin le paramètre "<b>p=1</b>" permet de spécifier la page à
+afficher, les recherches sont limitées à 100 résultats</p>
+<br />
+<small>&copy; bibleAPI <a href="http://www.technologiae.org">Technologiae.org</a></small>
+
+</body>
 </html>

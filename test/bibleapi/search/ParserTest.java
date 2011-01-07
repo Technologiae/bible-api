@@ -99,6 +99,50 @@ public class ParserTest {
 	}
 	
 	@Test
+	public void testParserBookVerset() {
+		Parser parser = new Parser();
+		List<Reference> liste = parser.parse("tob:marc,1,v1");
+		assertThat(liste, notNullValue());
+		assertThat(liste.size(), is(1));
+		Reference ref = liste.get(0);
+		assertThat(ref.getVersion(), is("tob"));
+		assertThat(ref.getBook(), is("mc"));
+		assertThat(ref.getChapter(), is(1));
+		assertThat(ref.getVerset(), is(1));
+	}
+	
+	@Test
+	public void testParserBookVersetJean() {
+		Parser parser = new Parser();
+		List<Reference> liste = parser.parse("jean,1,v1");
+		assertThat(liste, notNullValue());
+		assertThat(liste.size(), is(1));
+		Reference ref = liste.get(0);
+		assertThat(ref.getVersion(), is("tob"));
+		assertThat(ref.getBook(), is("jn"));
+		assertThat(ref.getChapter(), is(1));
+		assertThat(ref.getVerset(), is(1));
+	}
+	
+	@Test
+	public void testParserBookMultiChapter() {
+		Parser parser = new Parser();
+		List<Reference> liste = parser.parse("tob:genese,1,1;2,2");
+		assertThat(liste, notNullValue());
+		assertThat(liste.size(), is(2));
+		Reference ref = liste.get(0);
+		assertThat(ref.getVersion(), is("tob"));
+		assertThat(ref.getBook(), is("gn"));
+		assertThat(ref.getChapter(), is(1));
+		assertThat(ref.getVerset(), is(1));
+		ref = liste.get(1);
+		assertThat(ref.getVersion(), is("tob"));
+		assertThat(ref.getBook(), is("gn"));
+		assertThat(ref.getChapter(), is(2));
+		assertThat(ref.getVerset(), is(2));
+	}
+	
+	@Test
 	public void testParserMultiple() {
 		Parser parser = new Parser();
 		List<Reference> liste = parser.parse("tob:mc,4,39;bj:jn,3,2");
@@ -165,7 +209,7 @@ public class ParserTest {
 	@Test
 	public void testParserVersionText() {
 		Parser parser = new Parser();
-		List<Reference> liste = parser.parse("Mc Chapitre 4 verset 39 à 42");
+		List<Reference> liste = parser.parse("Evangile selon St Marc Chapitre 4 verset 39 à 42");
 		assertThat(liste, notNullValue());
 		assertThat(liste.size(), is(4));
 		Reference ref = liste.get(0);
